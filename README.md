@@ -6,7 +6,7 @@ It powers Window, an app that tells you which side of the plane to sit on.
 
 ## The data
 
-`data/sights.csv` is the source of truth: 4,642 sights, one per row.
+`data/sights.csv` is the source of truth: 4,639 sights, one per row.
 
 | column | meaning |
 | --- | --- |
