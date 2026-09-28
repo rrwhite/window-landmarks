@@ -241,7 +241,6 @@ Florida Keys,24.7,-81.2,island,7,Florida
 Folgefonna,60.0,6.3333,glacier,7,Norway
 Foshan,23.027,113.131,city,7,Guangdong
 Fuyul Sojol,0.5783,120.2044,peak,7,Indonesia
-Gasherbrum,35.7244,76.6964,peak,7,Xinjiang
 Golden Gate Bridge,37.82,-122.479,landmark,7,California
 Great Bear Lake,66.0,-121.0,lake,7,Northwest Territories
 Great Salt Lake,41.166,-112.583,lake,7,Utah
@@ -252,7 +251,6 @@ Gyala Peri,29.8142,94.9683,peak,7,Xizang
 Hefei,31.864,117.281,city,7,Anhui
 Hekla,63.9922,-19.6658,volcano,7,Iceland
 Hofsjökull,64.8167,-18.8167,glacier,7,Iceland
-Hong Kong harbor,22.29,114.17,landmark,7,Hong Kong
 Houston,29.763,-95.363,city,7,Texas
 Huascarán,-9.1167,-77.6,peak,7,Peru
 Hyderabad,17.384,78.456,city,7,Telangana
@@ -291,7 +289,6 @@ Llullaillaco,-24.7197,-68.5367,volcano,7,Argentina
 Lomonosovfonna,78.7483,17.5867,glacier,7,Norway
 Los Angeles,34.052,-118.244,city,7,California
 Macculloch Glacier,72.3578,-75.705,glacier,7,Nunavut
-Makalu,27.8892,87.0886,peak,7,Xizang
 Makati City,14.55,121.033,city,7,Philippines
 Makushin Volcano,53.8863,-166.9111,volcano,7,Alaska
 Marapi,-0.3806,100.4733,volcano,7,Indonesia
@@ -340,13 +337,11 @@ Mount Süphan,38.9298,42.8296,volcano,7,Turkey
 Mount Tagubud,7.4417,126.23,peak,7,Philippines
 Mount Torbert,61.4089,-152.414,peak,7,Alaska
 Mount Tullu Demtu,6.8265,39.8194,peak,7,Ethiopia
-Mount Vancouver,60.3345,-139.6924,peak,7,Yukon
 Mount Victoria,-8.8925,147.5333,peak,7,Papua New Guinea
 Mount Vineuo,-9.3342,150.2058,peak,7,Papua New Guinea
 Mount Vsevidof,53.13,-168.693,volcano,7,Alaska
 Mount Wilhelm,-5.78,145.0296,peak,7,Papua New Guinea
 Mountain Argopuro,-7.9645,113.5665,peak,7,Indonesia
-Mountain Merbabu,-7.455,110.44,volcano,7,Indonesia
 Muztagh Ata,38.2783,75.1158,peak,7,Xinjiang
 Nanchang,28.684,115.853,city,7,Jiangxi
 Nevado de Colima,19.5636,-103.608,peak,7,Jalisco
@@ -370,7 +365,6 @@ Pik Karla Marxa,37.1625,72.4817,peak,7,Tajikistan
 Pinatubo,15.13,120.35,volcano,7,Philippines
 Puncak Mandala,-4.7086,140.2892,peak,7,Indonesia
 Qingdao,36.065,120.38,city,7,Shandong
-Rakaposhi,36.1425,74.4892,peak,7,Pakistan
 Salar de Uyuni,-20.3333,-67.7,lake,7,Bolivia
 Salcantay,-13.3336,-72.5444,peak,7,Peru
 San Gorgonio Mountain,34.0992,-116.825,peak,7,California
@@ -378,7 +372,6 @@ San Jacinto Peak,33.8147,-116.679,peak,7,California
 San Pedro,-21.8878,-68.3914,volcano,7,Chile
 Sara Sara,-15.3235,-73.4494,volcano,7,Peru
 Seattle,47.606,-122.332,city,7,Washington
-Skamri Glacier,36.0589,76.1654,glacier,7,Xinjiang
 Socompa,-24.3933,-68.2561,volcano,7,Chile
 Suzhou,31.304,120.595,city,7,Jiangsu
 Sydney Harbour,-33.857,151.215,landmark,7,New South Wales
@@ -401,11 +394,9 @@ Abercrombie Mountain,48.9283,-117.46,peak,6,Washington
 Acotango,-18.3833,-69.0469,volcano,6,Bolivia
 Aj Bogd,44.7992,95.24,peak,6,Mongolia
 Aleutian volcanoes,54.756,-163.97,volcano,6,Alaska
-Aling Glaicer,35.5014,76.2404,glacier,6,Pakistan
 Amalfi Coast,40.63,14.6,coast,6,Italy
 Anamudi,10.1667,77.0667,peak,6,Kerala
 Andes near Santiago,-33.4,-70.2,range,6,Chile
-Annapurna II,28.5349,84.1222,peak,6,Nepal
 Antisana volcano,-0.4814,-78.1408,volcano,6,Ecuador
 Antofalla,-25.5625,-67.8808,volcano,6,Argentina
 Api,30.0053,80.9297,peak,6,Nepal
@@ -414,7 +405,6 @@ Askja,65.03,-16.75,volcano,6,Iceland
 Ata Kang La Glacier,29.2101,96.7636,glacier,6,Xizang
 Atlas Mountains (Toubkal),31.059,-7.916,range,6,Morocco
 Ausangate,-13.7886,-71.2311,peak,6,Peru
-Avachinsky,53.255,158.8328,volcano,6,Kamchatka
 Bairiga,29.1658,96.7242,peak,6,Xizang
 Baja California / Sea of Cortez,28.0,-112.5,coast,6,Baja California Sur
 Balneário Camboriú,-26.991,-48.635,city,6,Santa Catarina
@@ -446,7 +436,6 @@ Channel Islands,34.01,-119.78,island,6,California
 Childs Glacier,60.6769,-144.9355,glacier,6,Alaska
 Chitwan National Park,27.5,84.3333,park,6,Nepal
 Chiāntar Glacier,36.7966,73.6809,glacier,6,Pakistan
-Choktoi Glacier,35.903,75.9464,glacier,6,Pakistan
 Chomolhari,27.8242,89.27,peak,6,Bhutan
 Chūō,35.67,139.775,city,6,Japan
 Cinque Terre,44.12,9.72,coast,6,Italy
@@ -463,7 +452,6 @@ Dansketinden,72.125,-24.955,peak,6,Greenland
 Daxue Mountain,24.1117,99.64,peak,6,Yunnan
 Dead Sea,31.5,35.5,lake,6,Jordan
 Devils Tower,44.59,-104.715,feature,6,Wyoming
-Dhaulagiri II,28.763,83.388,peak,6,Nepal
 Diamond Head / Waikiki,21.262,-157.806,volcano,6,Hawaii
 Doddabetta,11.4024,76.7367,peak,6,Tamil Nadu
 Drang-Drung Glacier,33.7552,76.301,glacier,6,Ladakh
@@ -474,7 +462,6 @@ Dykh-Tau,43.0525,43.1317,peak,6,Kabardin-Balkar
 Ecrins / Meije,44.922,6.36,peak,6,France
 El Chichón,17.36,-93.2278,volcano,6,Chiapas
 Eyjafjallajokull / Myrdalsjokull,63.63,-19.2,glacier,6,Iceland
-Eyjafjallajökull,63.6333,-19.6,glacier,6,Iceland
 Farallones de Cali,3.34,-76.6958,peak,6,Colombia
 Flathead Lake,47.88,-114.1,lake,6,Montana
 Frankfurt am Main,50.116,8.684,city,6,Germany
@@ -485,23 +472,19 @@ Garibaldi / Whistler peaks,49.851,-123.005,range,6,British Columbia
 Gateway Arch,38.624,-90.185,landmark,6,Illinois
 George Town,5.411,100.335,city,6,Malaysia
 Georgian Bay / Thirty Thousand Islands,45.2,-80.3,island,6,Ontario
-Ghamubar Zom,36.59,73.3417,peak,6,Pakistan
 Gibraltar,36.14,-5.353,landmark,6,Spain
 Gobi Desert,43.0,105.0,desert,6,Mongolia
 Golden Hinde,49.6628,-125.747,peak,6,British Columbia
-Gondogoro Glacier,35.5853,76.3725,glacier,6,Pakistan
 Gora Kurumdy,39.4559,73.5667,peak,6,Tajikistan
 Grand Prismatic / Old Faithful,44.525,-110.838,feature,6,Wyoming
 Great Sand Dunes,37.792,-105.594,desert,6,Colorado
 Great Smoky Mountains,35.611,-83.49,range,6,Tennessee
 Grinnell Glacier,62.5588,-66.7504,glacier,6,Nunavut
 Grossglockner,47.074,12.694,peak,6,Austria
-Grímsvötn,64.42,-17.33,volcano,6,Iceland
 "Guallatiri, Chile",-18.4236,-69.0897,volcano,6,Chile
 Guiyang,26.583,106.717,city,6,Guizhou
 Gunung Galunggung,-7.2567,108.0771,volcano,6,Indonesia
 Gyong Glacier,35.1378,76.9736,glacier,6,Pakistan
-Hagshu Glacier,33.617,76.4463,glacier,6,Ladakh
 Hallasan,33.35,126.5167,volcano,6,Republic of Korea
 Haramosh Peak,35.8414,74.8978,peak,6,Pakistan
 Hardangerjøkulen,60.5333,7.4167,glacier,6,Norway
@@ -511,7 +494,6 @@ Highway Glacier,66.7355,-65.0445,glacier,6,Nunavut
 Hochkönig,47.4208,13.0632,peak,6,Austria
 Hoher Dachstein,47.4752,13.6057,peak,6,Austria
 Hotaka Mountains,36.2892,137.6481,peak,6,Japan
-Howe Sound,49.5,-123.3,coast,6,British Columbia
 Huaynaputina,-16.6156,-70.8497,volcano,6,Peru
 Hüiten Peak,49.1458,87.8192,peak,6,Xinjiang
 Iguazu Falls,-25.695,-54.437,feature,6,Argentina
@@ -525,15 +507,12 @@ Iztaccihuatl,19.179,-98.642,volcano,6,Puebla
 Jargalant Hayrhan,47.6667,92.5,peak,6,Mongolia
 Jezercë,42.4422,19.8128,peak,6,Albania
 Jiaozi Snow Mountain,26.0856,102.8644,peak,6,Yunnan
-Jimi Maasi Glacier,72.4611,-76.0631,glacier,6,Nunavut
 Johor Bahru,1.466,103.758,city,6,Malaysia
 Jostedalsbreen glacier,61.7,7.0,glacier,6,Norway
 Juyan Lake,42.29,101.26,lake,6,Inner Mongol
-Kaberi Glacier,35.4575,76.6406,glacier,6,Pakistan
 Kangju Kangri,33.7233,78.5283,peak,6,Ladakh
 Kangto,27.865,92.5325,peak,6,Xizang
 Kanlaon Volcano,10.4119,123.1319,volcano,6,Philippines
-Karun Kuh,36.61,75.0808,peak,6,Pakistan
 Kati Thanda–Lake Eyre,-28.6667,137.1667,lake,6,South Australia
 Kawagarbo,28.4383,98.6833,peak,6,Yunnan
 Kaziranga National Park,26.6667,93.35,park,6,Assam
@@ -541,11 +520,9 @@ Kaçkar Dağı,40.8355,41.1613,peak,6,Turkey
 Keele Peak,63.4314,-130.3239,peak,6,Yukon
 Keli Mutubuurai,-8.77,121.82,volcano,6,Indonesia
 Kennedy Space Center,28.573,-80.649,landmark,6,Florida
-Khurdopīn Glacier,36.2149,75.4931,glacier,6,Pakistan
 Khövsgöl Lake,51.1,100.5,lake,6,Mongolia
 Kinyeti,3.9475,32.9089,peak,6,South Sudan
 Koh-i Belandtarin,37.1475,73.2158,peak,6,Afghanistan
-Kondusgletscher,35.5379,76.7046,glacier,6,Pakistan
 Kongsvegen,78.8167,12.7767,glacier,6,Norway
 Korab,41.7903,20.5467,peak,6,North Macedonia
 Kuh-e Chuk Shakh,36.7783,71.4517,peak,6,Afghanistan
@@ -583,7 +560,6 @@ Las Vegas Strip,36.114,-115.173,landmark,6,Nevada
 Lassen Peak,40.488,-121.505,volcano,6,California
 Lefka Ori,35.2928,24.0317,peak,6,Greece
 Leirungshøi,61.9467,8.4806,peak,6,Norway
-Lhagu Glacier,29.3178,96.7578,glacier,6,Xizang
 Licancabur,-22.8336,-67.8828,volcano,6,Chile
 Llaima,-38.6974,-71.7304,volcano,6,Chile
 Loch Ness,57.3,-4.45,lake,6,UK
@@ -592,10 +568,8 @@ Los Glaciares National Park,-50.3305,-73.2342,park,6,Argentina
 Macau,22.201,113.546,city,6,Macao
 Mackinac Bridge,45.817,-84.727,landmark,6,Michigan
 Mallorca (Tramuntana),39.8,2.8,island,6,Spain
-Malubiting,36.0389,74.9008,peak,6,Pakistan
 Manhattan,40.783,-73.966,city,6,New York
 Maroon Bells / Elk Mountains,39.07,-106.989,range,6,Colorado
-Masherbrum,35.6425,76.3108,peak,6,Pakistan
 Mega-Chad,17.0311,18.2208,lake,6,Chad
 Melimoyu,-44.0758,-72.86,peak,6,Chile
 Mesa Verde National Park,37.2604,-108.4944,park,6,Colorado
@@ -618,11 +592,9 @@ Mount Aso,32.885,131.1042,volcano,6,Japan
 Mount Aspiring / Tititea,-44.384,168.728,peak,6,New Zealand
 Mount Bandai,37.6008,140.0722,volcano,6,Japan
 Mount Batur,-8.2419,115.375,volcano,6,Indonesia
-Mount Bromo,-7.9431,112.9539,volcano,6,Indonesia
 Mount Choqa,10.7133,37.8483,peak,6,Ethiopia
 Mount Cleveland,52.8222,-169.945,volcano,6,Alaska
 Mount Coleman,52.1189,-116.9208,peak,6,Alberta
-Mount Cook,60.1819,-139.9808,peak,6,Alaska
 Mount Crillon,58.6622,-137.1714,peak,6,Alaska
 Mount Dawson,51.1517,-117.421,peak,6,British Columbia
 Mount Drum,62.1161,-144.638,peak,6,Alaska
@@ -656,7 +628,6 @@ Mount Markham,-82.85,161.35,peak,6,Antarctica
 Mount McDonald,-72.5,166.6,peak,6,Antarctica
 Mount Murphy,-75.3,-110.7,peak,6,Antarctica
 Mount Nyenchen Tanglha,30.3889,90.5603,peak,6,Xizang
-Mount Nyiragongo,-1.5167,29.25,volcano,6,Democratic Republic of the Congo
 Mount Odin,66.55,-65.4333,peak,6,Nunavut
 Mount Odin,50.5517,-118.1292,peak,6,British Columbia
 Mount Olympus,40.086,22.358,peak,6,Greece
@@ -683,7 +654,6 @@ Mount Unzen,32.7613,130.2987,volcano,6,Japan
 Mount Veniaminof,56.1981,-159.3908,peak,6,Alaska
 Mount Washington,44.27,-71.303,peak,6,New Hampshire
 Mount Xuebaoding,32.6758,103.8467,peak,6,Sichuan
-Muchiohul Glacier,36.3939,74.5029,glacier,6,Pakistan
 Mulanje Massif,-15.9,35.65,peak,6,Malawi
 Musala,42.1792,23.5853,peak,6,Bulgaria
 Mälaren,59.5,17.2,lake,6,Sweden
@@ -692,17 +662,13 @@ Nat Ma Taung,21.2336,93.9031,peak,6,Myanmar
 Nemjung,28.735,84.4167,peak,6,Nepal
 Nemrut,38.6226,42.2467,volcano,6,Turkey
 Nevado Mismi,-15.5253,-71.6908,volcano,6,Peru
-Nevado Sajama,-18.1081,-68.8831,peak,6,Bolivia
 Nevado de Chañi,-24.0633,-65.7458,peak,6,Argentina
 Ngoc Linh,15.0667,107.9833,peak,6,Vietnam
-Ngozumpa Glacier,27.9917,86.6917,glacier,6,Nepal
 Ningbo,29.878,121.549,city,6,Zhejiang
 Niokolo-Koba National Park,13.0742,-12.7222,park,6,Senegal
 Noijin Kangsang,28.9475,90.1792,peak,6,Xizang
 Northeast Greenland National Park,77.0,-31.0,park,6,Greenland
 Noshaq,36.4317,71.8283,peak,6,Pakistan
-Nun,33.98,76.0217,peak,6,Jammu and Kashmir
-Nyamuragira,-1.4083,29.2,volcano,6,Democratic Republic of the Congo
 Olympic Mountains,47.801,-123.711,range,6,Washington
 Osorno,-41.1,-72.4931,volcano,6,Chile
 Otgontenger,47.6367,97.5023,peak,6,Mongolia
@@ -711,7 +677,6 @@ Outlook Peak,79.74,-91.4,peak,6,Nunavut
 Pacaya,14.3808,-90.6011,volcano,6,Guatemala
 Palm Jumeirah,25.112,55.139,landmark,6,United Arab Emirates
 Parbati Parbat,32.0901,77.7326,peak,6,Himachal Pradesh
-Parinacota,-18.1658,-69.1416,volcano,6,Chile
 Parângu Mare,45.3403,23.5408,peak,6,Romania
 Parícutin,19.493,-102.251,volcano,6,Michoacán
 Pauhunri,27.9533,88.8425,peak,6,Xizang
@@ -743,19 +708,16 @@ Qinghai Lake,37.0,100.0,lake,6,Qinghai
 Queen Mary's Peak,-37.1118,-12.2878,peak,6,
 Quilotoa,-0.8612,-78.8973,volcano,6,Ecuador
 Qurnat as Sawda',34.3,36.1167,peak,6,Lebanon
-Razorback Mountain,51.5906,-124.6908,peak,6,British Columbia
 Riyadh,24.688,46.722,city,6,Saudi Arabia
 Roque de los Muchachos,28.7542,-17.8847,peak,6,Spain
 Sahara dunes (Erg Chebbi),31.15,-3.98,desert,6,Morocco
 Saimaa,61.25,28.25,lake,6,Finland
 Sakurajima,31.5806,130.6581,volcano,6,Japan
 Salton Sea,33.31,-115.84,lake,6,California
-Saltoro Kangri,35.3996,76.8475,peak,6,Pakistan
 San Francisco Peaks,35.346,-111.678,peak,6,Arizona
 San Juan Islands,48.55,-123.05,island,6,Washington
 Sangay volcano,-2.0025,-78.3408,volcano,6,Ecuador
 Santa María,14.7558,-91.5519,volcano,6,Guatemala
-Sarpo Laggo Glacier,35.8833,76.25,glacier,6,Xinjiang
 Saser Kangri,34.8333,77.7333,peak,6,Ladakh
 Sat Peak,39.2362,71.9109,peak,6,Tajikistan
 Semenov-Tyan-Shanskiy peak,45.0417,80.2575,peak,6,Kazakhstan
@@ -770,22 +732,16 @@ Snake River Canyon / Hells Canyon,45.25,-116.7,canyon,6,Oregon
 Soufrière,16.0438,-61.6634,volcano,6,France
 Soufrière Hills,16.7167,-62.1833,volcano,6,Montserrat
 South Rimo Glacier,35.3333,77.5167,glacier,6,Ladakh
-Staghar Glacier,35.7333,76.8333,glacier,6,Xinjiang
-Statue of Liberty / NY Harbor,40.689,-74.045,landmark,6,New Jersey
 Stromboli,38.789,15.213,volcano,6,Italy
 Sven Hedin Glacier,79.4962,-77.4908,glacier,6,Nunavut
-Säntis,47.2492,9.3433,peak,6,Switzerland
 Sīm Gang Glacier,35.9963,75.6675,glacier,6,Pakistan
 Tapuae-o-Uenuku,-41.9958,173.6625,peak,6,New Zealand
 Taxtakörpü SA,41.1532,48.9794,lake,6,Azerbaijan
 Tebulosmta,42.5733,45.3119,peak,6,Chechnya
-Teram-Shehr Glacier,35.4892,77.133,glacier,6,Siachen Glacier
 Terra Nivea,62.2755,-66.5143,glacier,6,Nunavut
 Thabana Ntlenyana,-29.4667,29.2667,peak,6,Lesotho
 Tian Shan,42.0,80.0,range,6,Xinjiang
 Tonle Sap,12.8833,104.0667,lake,6,Cambodia
-Trango Glacier,35.8,76.1333,glacier,6,Pakistan
-Tungurahua volcano,-1.4669,-78.4417,volcano,6,Ecuador
 Uludoruk,37.4857,44.0045,peak,6,Turkey
 Urmia Lake,37.662,45.405,lake,6,Iran
 Vancouver Island mountains,49.6,-125.5,range,6,British Columbia
@@ -800,7 +756,6 @@ Volcán Tacaná,15.1334,-92.1058,volcano,6,Guatemala
 Volcán Wolf,0.0333,-91.3333,volcano,6,Ecuador
 Vänern,58.9167,13.5,lake,6,Sweden
 Vättern,58.4,14.6,lake,6,Sweden
-Vīrjerab Glacier,36.2853,75.6446,glacier,6,Pakistan
 Wasatch Range,40.6,-111.65,range,6,Utah
 Washington DC Mall,38.889,-77.035,landmark,6,District of Columbia
 Wedge Mountain,50.1331,-122.7933,peak,6,British Columbia
@@ -812,16 +767,13 @@ Wildspitze,46.8853,10.8672,peak,6,Austria
 Wuxi,31.569,120.289,city,6,Jiangsu
 Xi’an,34.258,108.929,city,6,Shaanxi
 Yangra,28.3917,85.1272,peak,6,Xizang
-Yashkuk Yaz Glacier,36.7771,74.337,glacier,6,Pakistan
 Yerupajá,-10.2689,-76.9053,peak,6,Peru
-Yāzghil Glacier,36.3718,75.3724,glacier,6,Pakistan
 Zard Kuh,32.3644,50.0775,peak,6,Iran
 Zugspitze,47.421,10.985,peak,6,Germany
 Öræfajökull,64.0254,-16.6421,volcano,6,Iceland
 Aberdeen Lake,64.5667,-98.95,lake,5,Nunavut
 Acamarachi,-23.2958,-67.6172,volcano,5,Chile
 Adwa,10.07,40.84,volcano,5,Ethiopia
-Aguilera,-50.2846,-73.6684,volcano,5,Chile
 Aira Caldera,31.65,130.7,volcano,5,Japan
 Ajusco,19.2075,-99.2581,volcano,5,Distrito Federal
 Akademia Nauk,53.9667,159.45,volcano,5,Kamchatka
@@ -842,9 +794,7 @@ Antofagasta de la Sierra,-25.9681,-67.5358,volcano,5,Argentina
 Antuco,-37.41,-71.3511,volcano,5,Chile
 Aracar,-24.29,-67.7833,volcano,5,Argentina
 Arches National Park,38.7281,-109.54,park,5,Utah
-Argentino Lake,-50.2333,-72.7667,lake,5,Argentina
 Argentière Glacier,45.9603,6.9794,glacier,5,France
-Arintica,-18.75,-69.05,volcano,5,Chile
 Arnasai Lakes,40.937,66.055,lake,5,Uzbekistan
 Asacha,52.355,157.827,volcano,5,Kamchatka
 Atlanta,33.749,-84.388,city,5,Georgia
@@ -859,15 +809,12 @@ Bagabag,-4.8,146.2333,volcano,5,Papua New Guinea
 Bakening,53.905,158.0667,volcano,5,Kamchatka
 Baker Lake,64.1667,-95.5,lake,5,Nunavut
 Baluan Island,-2.55,147.2833,volcano,5,Papua New Guinea
-Baluran,-7.8464,114.3622,volcano,5,Indonesia
 Banc d'Arguin National Park,20.2347,-16.1089,park,5,Mauritania
 Band-e Amir National Park,34.8397,67.2308,park,5,Afghanistan
 Beardmore Glacier,-83.75,171.0,glacier,5,Antarctica
 Becharof Lake,57.9522,-156.3761,lake,5,Alaska
 Beloye Lake,60.1667,37.6333,lake,5,Vologda
-Biafo Glacier,35.6833,75.9167,glacier,5,Pakistan
 Białowieża National Park,52.7667,23.8667,park,5,Poland
-Biscayne Bay,25.5658,-80.2164,lake,5,Florida
 Bosten Lake,42.0,87.0,lake,5,Xinjiang
 Bras d'Or Lake,45.8603,-60.7789,lake,5,Nova Scotia
 Bratsk Reservoir,56.25,101.75,lake,5,Irkutsk
@@ -885,19 +832,14 @@ Callaqui,-37.9167,-71.45,volcano,5,Chile
 Canada Glacier,-77.6167,162.9833,glacier,5,Antarctica
 Canaima National Park,5.3193,-61.7954,park,5,Venezuela
 Caniapiscau Reservoir,54.6667,-69.9833,lake,5,Québec
-Carihuairazo volcano,-1.4069,-78.75,volcano,5,Ecuador
 Carlsbad Caverns National Park,32.1753,-104.4439,park,5,New Mexico
 Cedar Lake,53.3667,-100.0,lake,5,Manitoba
 Central Island,3.5,36.05,volcano,5,Kenya
 Cerro Azul,-35.6533,-70.7608,volcano,5,Chile
 Cerro Bayo Complex,-25.4167,-68.5833,volcano,5,Argentina
 Cerro El Cóndor,-26.6309,-68.3614,volcano,5,Argentina
-Cerro El Muerto,-27.0575,-68.4839,volcano,5,Chile
 Cerro Paniri,-22.0592,-68.2283,volcano,5,Chile
-Cerro Solo,-27.1083,-68.7167,volcano,5,Argentina
 Cerro Tuzgle,-24.056,-66.479,volcano,5,Argentina
-Cerro del Azufre,-21.7831,-68.2397,volcano,5,Chile
-Cerro del Nacimiento,-27.2783,-68.5247,volcano,5,Argentina
 Chachani,-16.1942,-71.5317,volcano,5,Peru
 Chagulak Island,52.5722,-171.1414,volcano,5,Alaska
 Chapada dos Veadeiros National Park,-14.0833,-47.6667,park,5,Goiás
@@ -914,7 +856,6 @@ Cofre de Peru en tanga,19.4919,-97.15,volcano,5,Veracruz
 Coiba,7.48,-81.79,park,5,Panama
 Comoé National Park,8.8225,-3.5906,park,5,Côte d'Ivoire
 Copiapó volcano,-27.3056,-69.1317,volcano,5,Chile
-Corazón volcano,-0.5333,-78.6667,volcano,5,Ecuador
 Corcovado Volcano,-43.1931,-72.7928,volcano,5,Chile
 Cormorant Lake,54.2514,-100.866,lake,5,Manitoba
 Cot Seulawah Agam,5.448,95.658,volcano,5,Indonesia
@@ -947,22 +888,17 @@ Ebeko,50.6889,156.015,volcano,5,Sakhalin
 Eiríksjökull,64.7733,-20.4094,volcano,5,Iceland
 Eldgjá,63.9667,-18.6092,volcano,5,Iceland
 Emas National Park,-18.0833,-52.9167,park,5,Goiás
-Esjufjöll,64.2544,-16.5381,volcano,5,Iceland
 Etosha National Park,-18.7853,16.2639,park,5,Namibia
 Everglades,25.5,-80.9,feature,5,Florida
 Eyjafjörður,65.85,-18.1333,coast,5,Iceland
-Falso Azufre,-26.8,-68.37,volcano,5,Argentina
 Faydat Umm Shuwayjah,30.8433,45.0253,lake,5,Iraq
 Faydat al Jawbu,31.3464,43.5756,lake,5,Iraq
-Fee Glacier,46.0636,7.8972,glacier,5,Switzerland
-Ferrar Glacier,-77.8184,162.5259,glacier,5,Antarctica
 Filchner-Ronne Ice Shelf,-77.8592,-61.2992,glacier,5,
 Fimbul Ice Shelf,-70.5,-0.1667,glacier,5,Antarctica
 Fiordland National Park,-45.386,167.347,park,5,New Zealand
 Firth of Forth,56.1667,-2.75,coast,5,UK
 Fort Jesus Museum,-4.0712,39.6821,park,5,Kenya
 Fourpeaked Mountain,58.77,-153.6719,volcano,5,Alaska
-Franz Josef Glacier,-43.475,170.2,glacier,5,New Zealand
 Fuss Peak,50.2697,155.2475,volcano,5,Sakhalin
 Gamalama,0.8072,127.3339,volcano,5,Indonesia
 Gangotri Glacier,30.9833,78.9833,glacier,5,Uttarakhand
@@ -972,9 +908,7 @@ Gareloi Volcano,51.7867,-178.8031,volcano,5,Alaska
 Geirangerfjord,62.0944,7.0806,coast,5,Norway
 Geureudong,4.8105,96.8169,volcano,5,Indonesia
 Gir National Park,21.1356,70.7967,park,5,Gujarat
-Glacier Bay National Park and Preserve,58.7,-137.0,park,5,Alaska
 Gods Lake,54.6739,-94.2467,lake,5,Manitoba
-Gorely,52.5583,158.0333,volcano,5,Kamchatka
 Gorky Reservoir,57.4833,42.1,lake,5,Ivanovo
 Gouin Reservoir,48.5833,-74.8333,lake,5,Québec
 Gowd-e Zerah,29.8353,61.9417,lake,5,Afghanistan
@@ -982,7 +916,6 @@ Great Sitkin Volcano,52.0764,-176.1108,volcano,5,Alaska
 Gros Morne National Park,49.6894,-57.7381,park,5,Newfoundland and Labrador
 Guhkesjávri,68.905,25.1884,lake,5,Norway
 Gunung Guntur,-7.1433,107.8397,volcano,5,Indonesia
-Gunung Malabar,-7.13,107.65,volcano,5,Indonesia
 Gunung Mulu National Park,4.0425,114.8125,park,5,Malaysia
 Gunung Muria,-6.6167,110.8833,volcano,5,Indonesia
 Gunung Rajabasa,-5.7833,105.625,volcano,5,Indonesia
@@ -995,9 +928,7 @@ Hardangerfjord,60.1667,6.0,coast,5,Norway
 Hawaiʻi Volcanoes National Park,19.4008,-155.1236,park,5,Hawaii
 Herbert Island,52.7497,-170.1192,volcano,5,Alaska
 Herðubreið,65.1833,-16.35,volcano,5,Iceland
-Hispar Glacier,36.0833,75.2667,glacier,5,Pakistan
 Hongze Lake,33.2861,118.5847,lake,5,Jiangsu
-Hualca Hualca,-15.7203,-71.8606,volcano,5,Peru
 Hualālai,19.6922,-155.8672,volcano,5,Hawaii
 Hulun Lake,48.9731,117.4356,lake,5,Inner Mongol
 Huuhtijärvi,62.3867,28.2433,lake,5,Finland
@@ -1005,9 +936,7 @@ IJsselmeer,52.8167,5.25,lake,5,Netherlands
 Ichkeul National Park,37.1234,9.6554,park,5,Tunisia
 Iiruunjärvi,63.0636,24.0321,lake,5,Finland
 Iliamna Lake,59.536,-155.024,lake,5,Alaska
-Illinizas,-0.6594,-78.7136,volcano,5,Ecuador
 Ilulissat Icefjord,69.15,-49.55,coast,5,Greenland
-Imbabura Volcano,0.2581,-78.1797,volcano,5,Ecuador
 Ironbridge Gorge,52.6264,-2.4728,canyon,5,UK
 Irruputuncu,-20.7333,-68.5667,volcano,5,Chile
 Isanotski Peaks,54.7686,-163.729,volcano,5,Alaska
@@ -1029,7 +958,6 @@ Karangetang,2.7778,125.4075,volcano,5,Indonesia
 Kasba Lake,60.2833,-102.0061,lake,5,Northwest Territories
 Keli Ebulobo,-8.82,121.18,volcano,5,Indonesia
 Kentur Lokon,1.3581,124.7919,volcano,5,Indonesia
-Kerlingarfjöll,64.65,-19.25,volcano,5,Iceland
 Kevladev National Park,27.1667,77.5167,park,5,Rajasthan
 Khan Tengri,42.2108,80.175,peak,5,Kyrgyzstan
 Khangar,54.75,157.3667,volcano,5,Kamchatka
@@ -1039,7 +967,6 @@ Khar-Us Lake,48.0353,92.2695,lake,5,Mongolia
 Khodutka,52.063,157.703,volcano,5,Kamchatka
 Khyargas Nuur,49.1715,93.3478,lake,5,Mongolia
 Kluane National Park and Reserve,60.4536,-137.8292,park,5,Yukon
-Kohala,20.0861,-155.7172,volcano,5,Hawaii
 Korovin Volcano,52.3817,-174.1658,volcano,5,Alaska
 Krasheninnikov,54.5933,160.2733,volcano,5,Kamchatka
 Kremenchuk Reservoir,49.2667,32.6333,lake,5,Ukraine
@@ -1048,7 +975,6 @@ Krýsuvík,63.875,-22.063,volcano,5,Iceland
 Kuju Mountains,33.0822,131.2408,volcano,5,Japan
 Kumpupintil Lake,-23.5,122.8333,lake,5,Western Australia
 Kuybyshev Reservoir,53.45,49.1667,lake,5,Samara
-Kverkfjöll,64.6611,-16.6654,volcano,5,Iceland
 La Garita Caldera,37.7564,-106.9342,volcano,5,Colorado
 Lac Bienville,55.0833,-72.8833,lake,5,Québec
 Lac Courte Oreilles,45.8833,-91.4167,lake,5,Wisconsin
@@ -1096,9 +1022,7 @@ Lake Ohrid,41.0333,20.7167,lake,5,North Macedonia
 Lake Sacajawea,46.2497,-118.8796,lake,5,Washington
 Lake Saint Clair,42.4503,-82.6757,lake,5,Ontario
 Lake St. John,48.5944,-72.03,lake,5,Québec
-Lake Tai,31.1667,120.15,lake,5,Jiangsu
 Lake Tengiz,50.4397,68.9,lake,5,Kazakhstan
-Lake Texcoco,19.5,-98.99,lake,5,México
 Lake Tharthar,33.9667,43.1833,lake,5,Iraq
 Lake Tuz,38.8333,33.3333,lake,5,Turkey
 Lake Volta,7.4006,0.1947,lake,5,Ghana
@@ -1111,7 +1035,6 @@ Lars Christensen Peak,-68.8333,-90.6167,volcano,5,Antarctica
 Larsen Ice Shelf,-67.5,-62.5,glacier,5,Antarctica
 Las Cumbres,-0.37,-91.5433,volcano,5,Ecuador
 Lascar,-23.3667,-67.7464,volcano,5,Chile
-Lastarria,-25.1667,-68.5,volcano,5,Chile
 Lautaro,-49.019,-73.504,volcano,5,Chile
 Lençóis Maranhenses National Park,-2.4833,-43.1333,park,5,Maranhão
 Lesser Slave Lake,55.4406,-115.4886,lake,5,Alberta
@@ -1121,18 +1044,14 @@ Linzor,-22.15,-67.9667,volcano,5,Chile
 Lonquimay,-38.3792,-71.5899,volcano,5,Chile
 Lopevi,-16.8333,168.5,volcano,5,Vanuatu
 Los Katíos National Park,7.8,-77.15,park,5,Colombia
-Los Patos,-27.3011,-68.8089,volcano,5,Argentina
-Maderas,11.4458,-85.515,volcano,5,Nicaragua
 Mahaiganyanhu,38.3,94.1833,lake,5,Qinghai
 Makian,0.3333,127.3667,volcano,5,Indonesia
 Malinche,19.2308,-98.0319,volcano,5,Tlaxcala
 Mammoth Cave National Park,37.1869,-86.1011,park,5,Kentucky
-Mammoth Mountain,37.6306,-119.033,volcano,5,California
 Mana Pools,-15.75,29.3333,park,5,Zambia
 Manas National Park,26.7167,90.9333,park,5,Assam
 Manovo-Gounda St. Floris National Park,8.5,21.5,park,5,Central African Republic
 Marion Island,-46.9061,37.7369,volcano,5,South Africa
-Marmolejo,-33.7171,-69.8645,volcano,5,Argentina
 Mascarin Peak,-46.7,37.5,volcano,5,South Africa
 Matanuska Glacier,61.6558,-147.581,glacier,5,Alaska
 McMurdo Ice Shelf,-78.0,167.0,glacier,5,Antarctica
@@ -1142,7 +1061,6 @@ Merelava,-14.4639,168.0383,volcano,5,Vanuatu
 Michinmahuida,-42.7992,-72.4458,volcano,5,Chile
 Minnesota Glacier,-79.0,-83.0,glacier,5,Antarctica
 Miñiques Volcano,-23.8167,-67.7667,volcano,5,Chile
-Mojanda,0.13,-78.27,volcano,5,Ecuador
 Mont Ross,-49.6,69.5,volcano,5,French Southern and Antarctic Lands
 Monte Burney,-52.3272,-73.3708,volcano,5,Chile
 Montejaque reservoir,36.7539,-5.2431,lake,5,Spain
@@ -1155,17 +1073,14 @@ Mount Akutan,54.1331,-165.9856,volcano,5,Alaska
 Mount Alayta,12.8881,40.5719,volcano,5,Ethiopia
 Mount Amagi,34.8628,139.0017,volcano,5,Japan
 Mount Aniakchak,56.9072,-158.1489,volcano,5,Alaska
-Mount Ara,40.4056,44.4522,volcano,5,Armenia
 Mount Arayat,15.2,120.742,volcano,5,Philippines
 Mount Awu,3.6813,125.4539,volcano,5,Indonesia
 Mount Ayalu,10.0822,40.7017,volcano,5,Ethiopia
-Mount Azuma-kofuji,37.73,140.25,volcano,5,Japan
 Mount Bachelor,43.9792,-121.6883,volcano,5,Oregon
 Mount Belinda,-58.4333,-26.3333,volcano,5,South Georgia and the Islands
 Mount Bental,33.1281,35.7856,volcano,5,Israel
 Mount Besar,-4.4372,103.6714,volcano,5,Indonesia
 Mount Bosavi,-6.6142,142.8267,volcano,5,Papua New Guinea
-Mount Carlisle,52.8939,-170.054,volcano,5,Alaska
 Mount Chōkai,39.0992,140.0489,volcano,5,Japan
 Mount Douglas,58.86,-153.533,volcano,5,Alaska
 Mount Egon,-8.6667,122.45,volcano,5,Indonesia
@@ -1174,8 +1089,6 @@ Mount Fentale,8.9667,39.9333,volcano,5,Ethiopia
 Mount Gamkonora,1.38,127.53,volcano,5,Indonesia
 Mount Gassan,38.5456,140.0269,volcano,5,Japan
 Mount Gede,-6.7883,106.9817,volcano,5,Indonesia
-Mount Hakone,35.23,139.0239,volcano,5,Japan
-Mount Haruna,36.4769,138.8781,volcano,5,Japan
 Mount Hermon,33.4,35.85,peak,5,Syria
 Mount Hibok-Hibok,9.2006,124.6681,volcano,5,Philippines
 Mount Hokkaido Koma,42.0633,140.6772,volcano,5,Japan
@@ -1183,7 +1096,6 @@ Mount Hudson,-45.92,-72.95,volcano,5,Chile
 Mount Iraya,20.4664,122.0117,volcano,5,Philippines
 Mount Isarog,13.6592,123.3733,volcano,5,Philippines
 Mount Iwaki,40.6533,140.3067,volcano,5,Japan
-Mount Iwate,39.8525,141.0011,volcano,5,Japan
 Mount Kalatungan,7.955,124.8025,volcano,5,Philippines
 Mount Kanaga,51.9233,-177.1681,volcano,5,Alaska
 Mount Kawi,-7.92,112.45,volcano,5,Indonesia
@@ -1191,18 +1103,13 @@ Mount Klabat,1.4533,125.0308,volcano,5,Indonesia
 Mount Kupe,4.801,9.707,volcano,5,Cameroon
 Mount Kusatsu-Shirane,36.6453,138.5283,volcano,5,Japan
 Mount Liamuiga,17.3667,-62.8,volcano,5,Saint Kitts and Nevis
-Mount Mahawu,1.358,124.858,volcano,5,Indonesia
 Mount Makiling,14.13,121.2,volcano,5,Philippines
 Mount Manengouba,5.03,9.83,volcano,5,Cameroon
 Mount Matutum,6.4333,125.1083,volcano,5,Philippines
 Mount Meakan,43.3861,144.0089,volcano,5,Japan
 Mount Nantai,36.7619,139.4939,volcano,5,Japan
-Mount Nikkō-Shirane,36.7983,139.3742,volcano,5,Japan
-Mount Norikura,36.1064,137.5536,volcano,5,Japan
 Mount Okmok,53.43,-168.13,volcano,5,Alaska
-Mount Papandayan,-7.329,107.7157,volcano,5,Indonesia
 Mount Parnassus,38.533,22.6167,peak,5,Greece
-Mount Penanggungan,-7.62,112.63,volcano,5,Indonesia
 Mount Ragang,7.6944,124.5075,volcano,5,Philippines
 Mount Rausu,44.0758,145.1225,volcano,5,Japan
 Mount Rishiri,45.1786,141.2419,volcano,5,Japan
@@ -1218,24 +1125,17 @@ Mount Talang,-0.986,100.6925,volcano,5,Indonesia
 Mount Tarumae,42.69,141.3781,volcano,5,Japan
 Mount Tendürek,39.3549,43.867,volcano,5,Turkey
 Mount Tokachi,43.4178,142.6862,volcano,5,Japan
-Mount Tomuraushi,43.5272,142.8486,volcano,5,Japan
 Mount Wilis,-7.808,111.758,volcano,5,Indonesia
-Mount Wrangell,62.0069,-144.0158,volcano,5,Alaska
-Mount Yōtei,42.8272,140.8064,volcano,5,Japan
 Mountain Karang,-6.2692,106.05,volcano,5,Indonesia
 Mountain Patuha,-7.1603,107.4,volcano,5,Indonesia
 Mountain Tampomas,-6.77,107.95,volcano,5,Indonesia
-Mountain Telomoyo,-7.37,110.4,volcano,5,Indonesia
-Mountain Ungaran,-7.18,110.33,volcano,5,Indonesia
 Mutnovsky,52.453,158.195,volcano,5,Kamchatka
 Nahanni National Park Reserve,61.5971,-125.852,park,5,Northwest Territories
 Nairobi National Park,-1.3733,36.8589,park,5,Kenya
 Namtso,30.7208,90.4681,lake,5,Xizang
 Nettilling Lake,66.4833,-70.3333,lake,5,Nunavut
 Neusiedl Lake,47.8333,16.75,lake,5,Austria
-Nevado San Francisco,-26.9183,-68.2631,volcano,5,Argentina
 Nevado del Quindío,4.7156,-75.3883,glacier,5,Colombia
-Nevado del Tolima,4.6667,-75.3333,glacier,5,Colombia
 Nizhnekamsk Reservoir,55.8833,52.75,lake,5,Tatarstan
 Noel Kempff Mercado National Park,-14.2303,-60.8467,park,5,Bolivia
 Northern Patagonian Ice Field,-47.0,-73.5,glacier,5,Chile
@@ -1243,55 +1143,42 @@ Novosibirsk Reservoir,54.7569,82.8928,lake,5,Novosibirsk
 Nueltin Lake,59.9993,-99.8339,lake,5,Manitoba
 Nærøyfjord,60.9436,6.9314,coast,5,Norway
 O'Higgins/San Martín Lake,-48.8333,-72.6,lake,5,Argentina
-Ok,64.6023,-20.8795,volcano,5,Iceland
 Ollagüe,-21.3025,-68.1792,volcano,5,Bolivia
 Opinaca Reservoir,52.6494,-76.3317,lake,5,Québec
-Palpana,-21.5464,-68.5227,volcano,5,Chile
 Pantelleria Island,36.7833,12.0,volcano,5,Italy
 Paradise,36.097,-115.147,city,5,Nevada
 Paris 16 Passy,48.864,2.277,city,5,France
 Payun Matru,-36.42,-69.2,volcano,5,Argentina
 Petrified Forest National Park,35.0881,-109.806,park,5,Arizona
 Philadelphia,39.952,-75.164,city,5,Pennsylvania
-Pichu Pichu,-16.4411,-71.2404,volcano,5,Peru
 Pine Island Glacier,-75.1667,-100.0,glacier,5,Antarctica
 Porak,40.02,45.78,volcano,5,Armenia
 Potanin Glacier,49.14,87.92,glacier,5,Mongolia
 Puerto Princesa Subterranean River National Park,10.1667,118.9167,park,5,Philippines
-Pular,-24.2005,-68.0665,volcano,5,Chile
 Puracé,2.3142,-76.3942,volcano,5,Colombia
 Purnululu National Park,-17.4488,128.5461,park,5,Western Australia
-Putana,-22.5573,-67.8528,volcano,5,Bolivia
 Päijänne,61.5081,25.3791,lake,5,Finland
 Qarhan Playa,37.0195,95.1636,lake,5,Qinghai
 Quebrada de Humahuaca,-23.1999,-65.3489,canyon,5,Argentina
-Quetrupillán,-39.4971,-71.7233,volcano,5,Chile
-Rawa Pening Lake,-7.2833,110.4333,lake,5,Indonesia
 Red Lake,48.0735,-95.029,lake,5,Minnesota
 Reindeer Lake,57.25,-102.2503,lake,5,Saskatchewan
 Reventador,-0.0769,-77.6561,volcano,5,Ecuador
-Rhone Glacier,46.6045,8.386,glacier,5,Switzerland
 Riiser-Larsen Ice Shelf,-72.6667,-16.0,glacier,5,Antarctica
 Rincón de la Vieja Volcano,10.83,-85.3239,volcano,5,Costa Rica
 Robert-Bourassa Reservoir,53.75,-77.0,lake,5,Québec
 Rock Islands Southern Lagoon,7.2469,134.3525,lake,5,Palau
 Rocky Mountain National Park,40.35,-105.6833,park,5,Colorado
-Rongbuk Glacier,28.102,86.8652,glacier,5,Xizang
 Rukwa Lake,-8.0,32.35,lake,5,Tanzania
-Rumiñahui,-0.5897,-78.5089,volcano,5,Ecuador
 Rybinsk Reservoir,58.3667,38.4333,lake,5,Yaroslavl'
 Réservoir La Grande 3,53.7675,-75.5008,lake,5,Québec
 Réservoir Laforge 1,54.3511,-72.1394,lake,5,Québec
-Sagarmatha National Park,27.8911,86.693,park,5,Nepal
 Sairecabur,-22.7189,-67.8906,volcano,5,Chile
 Salar de Coipasa,-19.4333,-68.15,lake,5,Bolivia
 Salonga National Park,-2.0,21.0,park,5,Democratic Republic of the Congo
 Samariá Gorge National Park,35.2711,23.9614,canyon,5,Greece
 San Carlos,3.3561,8.5131,volcano,5,Equatorial Guinea
 San José,-33.7817,-69.8972,volcano,5,Chile
-Sangay National Park,-1.8333,-78.3333,park,5,Ecuador
 Sangeang Api,-8.18,119.05,volcano,5,Indonesia
-Santa Isabel,4.8167,-75.3667,volcano,5,Colombia
 Saratov Reservoir,52.0514,47.7553,lake,5,Saratov
 Sarik Merapi,0.686,99.539,volcano,5,Indonesia
 Sarychev Peak,48.0906,153.2014,volcano,5,Sakhalin
@@ -1304,15 +1191,11 @@ Shackleton Glacier,-84.5833,-176.3333,glacier,5,Antarctica
 Shackleton Ice Shelf,-66.0,100.0,glacier,5,Antarctica
 Shalkarteniz,48.0755,63.1764,lake,5,Kazakhstan
 Shatt al Gharsah,34.117,7.8438,lake,5,Tunisia
-Shinmoedake,31.9096,130.8864,volcano,5,Japan
-Siachen Glacier,35.1986,77.2014,glacier,5,Siachen Glacier
 Sierra Negra,-0.83,-91.17,volcano,5,Ecuador
-Sierra Velluda,-37.4667,-71.4333,volcano,5,Chile
 Siling Lake,31.8333,89.0,lake,5,Xizang
 Simien Mountains National Park,13.1833,38.0667,park,5,Ethiopia
 Singgalang,-0.3914,100.3311,volcano,5,Indonesia
 Skelton Glacier,-78.6935,161.642,glacier,5,Antarctica
-Skjaldbreiður,64.41,-20.7622,volcano,5,Iceland
 Smallwood Reservoir,54.0964,-64.0111,lake,5,Newfoundland and Labrador
 Sobradinho Reservoir,-9.6722,-41.5042,lake,5,Bahia
 Sognefjord,61.1,5.1667,coast,5,Norway
@@ -1331,59 +1214,38 @@ Taapaca,-18.1128,-69.5075,volcano,5,Chile
 Tacora,-17.7167,-69.7667,volcano,5,Chile
 Tanaga,51.8839,-178.1414,volcano,5,Alaska
 Tanghe Shuiku,35.9047,114.2747,lake,5,Henan
-Tangkuban Perahu,-6.77,107.6,volcano,5,Indonesia
 Tarso Toussidé,21.0408,16.4736,volcano,5,Chad
 Tatra National Park,49.1803,19.9194,park,5,Slovakia
 Taunshits,54.5333,159.8,volcano,5,Kamchatka
-Taylor Glacier,-77.7333,162.1667,glacier,5,Antarctica
 Taymyr,74.5333,101.6333,lake,5,Krasnoyarsk
 Taï National Park,5.75,-7.12,park,5,Côte d'Ivoire
 Tecuamburro,14.1561,-90.4069,volcano,5,Guatemala
 Telica,12.6019,-86.845,volcano,5,Nicaragua
 Three Gorges Reservoir Region,31.044,109.782,lake,5,Chongqing
-Tindfjallajökull,63.7928,-19.5806,volcano,5,Iceland
 Tinguiririca Volcano,-34.8182,-70.3503,volcano,5,Chile
-Tipas,-27.2,-68.55,volcano,5,Argentina
-Tocorpuri,-22.4389,-67.8875,volcano,5,Bolivia
 Tongariro National Park,-39.2,175.5833,park,5,New Zealand
-Torfajökull,63.8942,-19.0103,volcano,5,Iceland
 Torres del Paine National Park,-50.9831,-72.9664,park,5,Chile
 Tres Vírgenes,27.4697,-112.591,volcano,5,Baja California Sur
 Tromen,-37.142,-70.03,volcano,5,Argentina
 Trondheimsfjord,63.5,10.4667,coast,5,Norway
 Três Marias Reservoir,-18.6339,-45.2417,lake,5,Minas Gerais
-Trölladyngja,64.8931,-17.2547,volcano,5,Iceland
 Tsimlyansk Reservoir,47.8333,42.8333,lake,5,Volgograd
 Tulare Lake,36.0666,-119.751,lake,5,California
-Tungnafellsjökull,64.7517,-17.9177,glacier,5,Iceland
 Tunka valley,51.5,102.5,volcano,5,Buryat
 Tunupa volcano,-19.83,-67.64,volcano,5,Bolivia
-Tupungatito,-33.4239,-69.7981,volcano,5,Argentina
 Turrialba,10.0333,-83.7667,volcano,5,Costa Rica
 Tutupaca,-17.0264,-70.3717,volcano,5,Peru
 Tyatya,44.3541,146.251,volcano,5,Sakhalin
 Ubinas,-16.3486,-70.9022,volcano,5,Peru
-Udina,55.7583,160.5267,volcano,5,Kamchatka
 Ulungur Lake,47.25,87.3167,lake,5,Xinjiang
-Unteraar Glacier,46.565,8.2191,glacier,5,Switzerland
-Upper Grindelwald Glacier,46.6189,8.0944,glacier,5,Switzerland
 Upsala Glacier,-49.7603,-73.2754,glacier,5,Argentina
 Uturuncu,-22.2645,-67.1869,volcano,5,Bolivia
-Uzon,54.5,159.9167,volcano,5,Kamchatka
 Valley of Flowers National Park,30.73,79.6175,park,5,Uttarakhand
-Valley of Geysers,54.4306,160.1394,canyon,5,Kamchatka
-Vandzhyakh Glacier,38.767,72.283,glacier,5,Tajikistan
 Varangerfjord,70.0911,29.0087,coast,5,Norway
 Vembanad,9.85,76.35,lake,5,Kerala
-Viedma,-49.3583,-73.2833,volcano,5,Argentina
 Viedma Lake,-49.5833,-72.5,lake,5,Argentina
-Volcán Azufral,1.0853,-77.7188,volcano,5,Colombia
-Volcán Darwin,-0.1833,-91.2833,volcano,5,Ecuador
 Volcán Maipo,-34.1639,-69.8322,volcano,5,Argentina
 Volcán San Cristóbal,12.7035,-87.0062,volcano,5,Nicaragua
-Volcán San Pedro,14.6559,-91.2659,volcano,5,Guatemala
-Volcán Tenorio,10.6728,-85.015,volcano,5,Costa Rica
-Volcán Tolimán,14.6125,-91.1892,volcano,5,Guatemala
 Volgograd Reservoir,49.3728,45.0181,lake,5,Volgograd
 Votkinsk Reservoir,57.1667,55.0,lake,5,Perm'
 Vygozero,63.6167,34.7,lake,5,Karelia
@@ -1400,17 +1262,12 @@ Yate,-41.7589,-72.4003,volcano,5,Chile
 Yathkyed Lake,62.6667,-97.9667,lake,5,Nunavut
 Yoho National Park,51.3953,-116.487,park,5,British Columbia
 Yucamane,-17.18,-70.2,volcano,5,Peru
-Yunaska Island,52.6314,-170.6969,volcano,5,Alaska
-Zemu Glacier,27.75,88.2667,glacier,5,Sikkim
 Zheltovsky,51.5771,157.3281,volcano,5,Kamchatka
-volcano Atacazo,-0.3572,-78.6192,volcano,5,Ecuador
 Þrándarjökull,64.6956,-14.9097,glacier,5,Iceland
-Þórisjökull,64.5438,-20.7101,glacier,5,Iceland
 Aagaard Glacier,-66.7667,-64.5167,glacier,4,Antarctica
 Aaron Glacier,-85.1333,-90.6667,glacier,4,Antarctica
 Abbot Ice Shelf,-72.75,-96.0,glacier,4,Antarctica
 Abel Tasman National Park,-40.9,172.9715,park,4,New Zealand
-Aberdare National Park,-0.38,36.6992,park,4,Kenya
 Abidjan,5.354,-4.002,city,4,Côte d'Ivoire
 Abisko National Park,68.3243,18.6807,park,4,Sweden
 "Abruzzo, Lazio and Molise National Park",41.8084,13.7865,park,4,Italy
@@ -1418,92 +1275,62 @@ Absheron National Park,40.2836,50.3594,park,4,Azerbaijan
 Aby Lagoon,5.2794,-3.2247,lake,4,Côte d'Ivoire
 Academy Glacier,-84.25,-61.0,glacier,4,Antarctica
 Acosta Glacier,-71.9667,-100.917,glacier,4,Antarctica
-Adams Glacier,-78.1167,163.633,glacier,4,Antarctica
 Adams Glacier,-66.8333,109.667,glacier,4,Antarctica
 Adie Inlet,-66.4167,-62.3333,coast,4,Antarctica
 Adirondacks,44.11,-73.92,range,4,New York
-Adishi Glacier,43.0244,43.0181,glacier,4,Georgia
 Aeronaut Glacier,-73.2667,163.6,glacier,4,Antarctica
 Agalina Glacier,-64.4389,-61.4333,glacier,4,Antarctica
-Agia Eirini Gorge,35.2995,23.8346,canyon,4,Greece
 Ahern Glacier,-81.7833,159.167,glacier,4,Antarctica
 Ahlmann Glacier,-67.8667,-65.75,glacier,4,Antarctica
 Ahmedabad,23.026,72.587,city,4,Gujarat
 Ahrnsbrak Glacier,-79.8,-82.3,glacier,4,Antarctica
 Aibi Lake,44.9167,82.9167,lake,4,Xinjiang
-Aigüestortes i Estany de Sant Maurici National Park,42.5772,0.9478,park,4,Spain
-Aiken Glacier,-77.6333,163.4,glacier,4,Antarctica
 Airy Glacier,-69.2167,-66.3333,glacier,4,Antarctica
 Aitkenhead Glacier,-63.95,-58.7333,glacier,4,Antarctica
 Akagera National Park,-1.6333,30.7833,park,4,Rwanda
 Akebono Glacier,-68.1167,42.8833,glacier,4,Antarctica
 Alam-Kuh,36.3758,50.9625,peak,4,Iran
 Albanus Glacier,-85.8667,-151.0,glacier,4,Antarctica
-Alberich Glacier,-77.6,161.6,glacier,4,Antarctica
-Alberts Glacier,-66.8667,-64.8833,glacier,4,Antarctica
 Albone Glacier,-64.2167,-59.7,glacier,4,Antarctica
 Albrecht Penck Glacier,-76.6667,162.333,glacier,4,Antarctica
 Alexandria,31.202,29.916,city,4,Egypt
 Algarve coast,37.08,-8.2,coast,4,Portugal
 Algie Glacier,-82.1333,162.083,glacier,4,Antarctica
-Alice Glacier,-83.9667,170.0,glacier,4,Antarctica
-Alley Glacier,-79.9667,158.083,glacier,4,Antarctica
-Allison Glacier,-78.2667,161.917,glacier,4,Antarctica
 Alt Glacier,-71.1,162.517,glacier,4,Antarctica
 Altafjord,69.99,23.3242,coast,4,Norway
 Altarduken Glacier,-71.65,11.4333,glacier,4,Antarctica
-Altimir Glacier,-64.5972,-63.15,glacier,4,Antarctica
-Alturas de Nique,7.7017,-77.7275,peak,4,Colombia
 Altyn-Emel National Park,44.0,78.8,park,4,Kazakhstan
 Alvand,34.6642,48.4867,peak,4,Iran
-Alvarez Glacier,-70.8833,162.333,glacier,4,Antarctica
 Alyabiev Glacier,-71.7,-72.6667,glacier,4,Antarctica
 Ambergris Glacier,-65.7167,-62.6167,glacier,4,Antarctica
 Amisk Lake,54.5833,-102.2503,lake,4,Saskatchewan
 Ammassalik Fjord,65.8333,-37.05,coast,4,Greenland
 Amne Machin,34.7983,99.4625,peak,4,Qinghai
-Amos Glacier,-77.8167,163.65,glacier,4,Antarctica
-Anderson Glacier,-66.3793,-63.9885,glacier,4,Antarctica
 Andfjorden,69.056,16.0519,coast,4,Norway
-Andrew Glacier,-63.8833,-59.6667,glacier,4,Antarctica
 Angikuni Lake,62.3333,-100.0,lake,4,Nunavut
 Angilaaq Mountain,73.2283,-78.6208,peak,4,Nunavut
 Angna Mountain,66.5575,-62.0208,peak,4,Nunavut
 Anna Glacier,-62.0333,-58.2,glacier,4,Antarctica
-Antelao,46.4525,12.2606,peak,4,Italy
 Anuchin Glacier,-71.2833,13.5167,glacier,4,Antarctica
 Apfel Glacier,-66.4167,100.583,glacier,4,Antarctica
 Aphrodite Glacier,-68.7833,-64.5333,glacier,4,Antarctica
-Apollo Glacier,-68.8333,-64.75,glacier,4,Antarctica
 Arago Glacier,-64.85,-62.3833,glacier,4,Antarctica
-Arapya Glacier,-78.1944,-84.9,glacier,4,Antarctica
 Arc Dome,38.8327,-117.353,peak,4,Nevada
-Arcalod,45.6819,6.2283,peak,4,France
 Arena Glacier,-63.4,-57.05,glacier,4,Antarctica
-Arensky Glacier,-71.65,-72.25,glacier,4,Antarctica
 Argentina Glacier,-62.6833,-60.4,glacier,4,Antarctica
 Argonaut Glacier,-73.2167,166.7,glacier,4,Antarctica
 Argosy Glacier,-83.1333,157.5833,glacier,4,Antarctica
 Armstrong Glacier,-71.5167,-67.5,glacier,4,Antarctica
 Arnarfjörður,65.7618,-23.7167,coast,4,Iceland
 Arnavad Peak,38.5653,71.5225,peak,4,Tajikistan
-Arneb Glacier,-72.4167,170.033,glacier,4,Antarctica
-Arolla Glacier,45.9919,7.4947,glacier,4,Switzerland
 Arthur Glacier,-77.05,-145.25,glacier,4,Antarctica
 Artillery Lake,63.1667,-107.8667,lake,4,Northwest Territories
-Arusha National Park,-3.25,36.8333,park,4,Tanzania
 Asafiev Glacier,-71.0833,-70.75,glacier,4,Antarctica
 Ashuanipi Lake,52.75,-66.2494,lake,4,Newfoundland and Labrador
 Ashworth Glacier,-85.0267,169.265,glacier,4,Antarctica
-Asimutbreen Glacier,-71.3833,13.7,glacier,4,Antarctica
 Assender Glacier,-67.6,46.4167,glacier,4,Antarctica
 Astafjorden,68.7875,17.2445,coast,4,Norway
-Astakhov Glacier,-70.75,163.35,glacier,4,Antarctica
-Astapenko Glacier,-70.6667,162.8667,glacier,4,Antarctica
-Aster Glacier,-78.5833,-85.0,glacier,4,Antarctica
-Astro Glacier,-82.9,157.333,glacier,4,Antarctica
 Astrolabe Glacier,-66.75,139.917,glacier,4,Antarctica
-Astronaut Glacier,-73.0833,164.083,glacier,4,Antarctica
 Atatürk Reservoir,37.5738,38.591,lake,4,Turkey
 Atikonak Lake,52.6667,-64.5325,lake,4,Newfoundland and Labrador
 Atkinson Glacier,-71.5,167.417,glacier,4,Antarctica
@@ -1512,51 +1339,34 @@ Attlee Glacier,-66.2167,-63.7667,glacier,4,Antarctica
 Aubry Lake,67.4001,-126.4521,lake,4,Northwest Territories
 Aukštaitija National Park,55.3711,26.0067,park,4,Lithuania
 Aulavik National Park,73.7003,-119.919,park,4,Northwest Territories
-Aurlandsfjord,61.0111,7.0477,coast,4,Norway
-Aurora Glacier,-77.6167,167.633,glacier,4,Antarctica
 Auster Glacier,-67.2,50.75,glacier,4,Antarctica
 Austin,30.267,-97.743,city,4,Texas
 Austreskorve Glacier,-71.8333,5.6667,glacier,4,Antarctica
-Auyuittuq National Park,67.5,-66.0,park,4,Nunavut
 Aveiro Lagoon,40.6849,-8.6557,lake,4,Portugal
 Aviator Glacier,-73.8333,165.05,glacier,4,Antarctica
 Avsyuk Glacier,-67.1167,-67.25,glacier,4,Antarctica
-Awash National Park,9.0,40.0,park,4,Ethiopia
 Aylmer Lake,64.1333,-108.5,lake,4,Northwest Territories
 Azimuthbjerg,63.4325,-41.6642,peak,4,Greenland
 Aýrybaba,37.8333,66.5667,peak,4,Uzbekistan
-Baba Mountain,40.9167,21.1667,peak,4,North Macedonia
 Babadağ,36.5303,29.1809,peak,4,Turkey
 Babine Lake,54.75,-126.0,lake,4,British Columbia
-Bach Ice Shelf,-72.0,-72.0,glacier,4,Antarctica
 Bader Glacier,-67.6167,-66.75,glacier,4,Antarctica
 Baga Bogd,44.8967,101.5767,peak,4,Mongolia
 Baghdad,33.341,44.401,city,4,Iraq
 Bahaya,11.2833,49.7667,peak,4,Somalia
-Baintha Brakk,35.9478,75.7536,peak,4,Pakistan
 Baiyang Lake,38.85,116.0,lake,4,Hebei
-Baker Glacier,-72.7667,169.25,glacier,4,Antarctica
-Balakirev Glacier,-71.4167,-70.0167,glacier,4,Antarctica
 Balchen Glacier,-76.3833,-145.167,glacier,4,Antarctica
-Bale Mountains National Park,6.75,39.75,park,4,Ethiopia
 Balish Glacier,-79.4167,-84.5,glacier,4,Antarctica
-Bally Glacier,-81.3667,159.2,glacier,4,Antarctica
 Balsfjorden,69.4749,18.9349,coast,4,Norway
 Baltimore,39.29,-76.612,city,4,Maryland
 Bandhavgarh National Park,23.6994,80.9619,park,4,Madhya Pradesh
-Bandipur National Park,11.6644,76.6272,park,4,Karnataka
 Bao'an,22.552,113.883,city,4,Guangdong
-Baranowski Glacier,-62.2,-58.45,glacier,4,Antarctica
 Barber Glacier,-70.4333,162.75,glacier,4,Antarctica
 Barcus Glacier,-74.25,-62.0,glacier,4,Antarctica
 Bardiya National Park,28.47,81.47,park,4,Nepal
-Barkov Glacier,-71.7667,10.45,glacier,4,Antarctica
-Barne Glacier,-77.6,166.433,glacier,4,Antarctica
-Barnes Glacier,-67.5333,-66.4167,glacier,4,Antarctica
 Barnett Glacier,-70.9833,167.5,glacier,4,Antarctica
 Barrett Glacier,-84.6167,-174.167,glacier,4,Antarctica
 Barsakelmes Lake,46.2,59.6,lake,4,Kazakhstan
-Bartlett Glacier,-86.25,-152.0,glacier,4,Antarctica
 Bartrum Glacier,-79.7333,158.733,glacier,4,Antarctica
 Bartók Glacier,-69.6333,-71.0,glacier,4,Antarctica
 Bashful Peak,61.3075,-148.8697,peak,4,Alaska
@@ -1564,43 +1374,24 @@ Baskatong Reservoir,46.8,-75.8,lake,4,Québec
 Batnfjorden,62.9064,7.7016,coast,4,Norway
 Battye Glacier,-70.8697,67.7592,glacier,4,Antarctica
 Bayano Lake,9.15,-78.76,lake,4,Panama
-Beaglehole Glacier,-66.55,-64.1167,glacier,4,Antarctica
 Beaman Glacier,-70.9667,164.633,glacier,4,Antarctica
-Beaver Glacier,-67.0333,50.6667,glacier,4,Antarctica
 Beaver Glacier,-83.6667,169.8333,glacier,4,Antarctica
 Beitstadfjorden,63.9341,11.0809,coast,4,Norway
 Bellsund,77.6667,14.25,coast,4,Norway
-Bender Glacier,-78.7167,-85.3333,glacier,4,Antarctica
 Bengaluru,12.972,77.594,city,4,Karnataka
-Benson Glacier,-76.8167,162.2,glacier,4,Antarctica
-Beowulf Glacier,-77.6242,161.842,glacier,4,Antarctica
 Berill Mountain,62.3958,141.3267,peak,4,Sakha (Yakutia)
-Bering Glacier,60.3022,-143.42,glacier,4,Alaska
-Berkovitsa Glacier,-62.5722,-60.6875,glacier,4,Antarctica
 Bernardo O'Higgins National Park,-50.0,-74.0,park,4,Chile
 Berry Glacier,-75.0,-134.0,glacier,4,Antarctica
-Bertrab Glacier,-54.6167,-35.95,glacier,4,South Georgia and the Islands
-Berufjörður,64.6803,-14.3042,coast,4,Iceland
-Bevin Glacier,-66.2833,-63.7833,glacier,4,Antarctica
 Bhalu Lek,28.9833,82.4,peak,4,Nepal
 Bicaz Canyon,46.812,25.8189,canyon,4,Romania
 Bieler Lake,70.3833,-73.0833,lake,4,Nunavut
 Big Moose Lake,43.8294,-74.8512,lake,4,New York
 Big Trout Lake,53.7833,-90.0072,lake,4,Ontario
-Bigourdan Fjord,-67.55,-67.3833,coast,4,Antarctica
-Billefjorden,78.5833,16.4667,coast,4,Norway
-Bindschadler Glacier,-77.9667,162.167,glacier,4,Antarctica
 Bingham Glacier,-69.3833,-63.1667,glacier,4,Antarctica
 Biogradska Gora,42.8981,19.6019,park,4,Montenegro
-Birkenhead Peak,50.5111,-122.6208,peak,4,British Columbia
-Birkkarspitze,47.4114,11.4375,peak,4,Austria
-Birnhorn,47.4747,12.7336,peak,4,Austria
-Biscayne National Park,25.5019,-80.181,park,4,Florida
 Bistcho Lake,59.7425,-118.845,lake,4,Alberta
 Bjarnarfjörður,65.77,-21.4271,coast,4,Iceland
 Bjugnfjorden,63.7434,9.5786,coast,4,Norway
-Bjørnafjorden,60.1167,5.5667,coast,4,Norway
-Black Canyon of the Colorado,35.8056,-114.7117,canyon,4,Nevada
 Black Glacier,-71.6667,164.7,glacier,4,Antarctica
 Black Lake,59.2,-105.25,lake,4,Saskatchewan
 Blackwall Glacier,-86.1667,-159.667,glacier,4,Antarctica
@@ -1612,14 +1403,9 @@ Bluenose Lake,68.4667,-119.75,lake,4,Nunavut
 Blyde River Canyon,-24.5639,30.8075,canyon,4,South Africa
 Blåmannsisen,67.25,16.0667,glacier,4,Norway
 Boboiob,40.8489,70.3433,peak,4,Tajikistan
-Boccherini Inlet,-71.8333,-72.3333,coast,4,Antarctica
-Bogatyr Ridge,44.833,147.342,peak,4,Sakhalin
 Bogotá,4.61,-74.082,city,4,Colombia
 Boknafjord,59.1667,5.5333,coast,4,Norway
-Bolgrad Glacier,-78.7333,-85.1333,glacier,4,Antarctica
 Bolon,49.8614,136.4653,lake,4,Khabarovsk
-Bombardier Glacier,-64.3167,-59.9833,glacier,4,Antarctica
-Bondhusbreen,60.0611,6.3106,glacier,4,Norway
 Boom Gorge,42.5833,75.8,canyon,4,Kyrgyzstan
 Borah Peak,44.1374,-113.7811,peak,4,Idaho
 Borchgrevink Glacier,-73.0667,168.5,glacier,4,Antarctica
@@ -1627,34 +1413,17 @@ Borchgrevinkisen,-72.1667,21.5,glacier,4,Antarctica
 Borgarfjörður,64.4932,-22.0253,coast,4,Iceland
 Borgarfjörður Eystri,65.5435,-13.7841,coast,4,Iceland
 Borjomi Gorge,41.8481,43.41,canyon,4,Georgia
-Borjomi-Kharagauli National Park,41.8616,43.1315,park,4,Georgia
 Bosque Fray Jorge National Park,-30.6625,-71.6828,park,4,Chile
 Boston,42.358,-71.06,city,4,Massachusetts
 Botev Peak,42.7167,24.9333,peak,4,Bulgaria
 Bou-Hedma National Park,34.4167,9.5,park,4,Tunisia
-Bourgeois Fjord,-67.6667,-67.0833,coast,4,Antarctica
-Bowers Glacier,-72.6167,169.05,glacier,4,Antarctica
-Bowers Piedmont Glacier,-77.7167,164.233,glacier,4,Antarctica
 Bowin Glacier,-84.8833,177.333,glacier,4,Antarctica
-Bowman Glacier,-85.5667,-162.0,glacier,4,Antarctica
-Boyana Glacier,-62.705,-60.0917,glacier,4,Antarctica
-Boyd Glacier,-77.2333,-145.417,glacier,4,Antarctica
-Brady Glacier,58.5811,-136.784,glacier,4,Alaska
-Brahms Inlet,-71.4667,-73.6833,coast,4,Antarctica
 Brandau Glacier,-84.9,173.5,glacier,4,Antarctica
 Brandberg,-21.1495,14.5775,peak,4,Namibia
-Branscomb Glacier,-78.5333,-86.0833,glacier,4,Antarctica
-Breguet Glacier,-64.1667,-60.8,glacier,4,Antarctica
-Breitfuss Glacier,-66.9667,-64.8667,glacier,4,Antarctica
-Breiðamerkurjökull,64.1389,-16.3645,glacier,4,Iceland
 Brisbane,-27.468,153.028,city,4,Queensland
 Brofjorden,58.3601,11.4286,coast,4,Sweden
 Brown Peak,-67.4333,164.7667,peak,4,Antarctica
 Brunonia Glacier,-54.05,-37.4833,glacier,4,South Georgia and the Islands
-Brøgger Glacier,-54.5333,-36.4333,glacier,4,South Georgia and the Islands
-Brúarjökull,64.7167,-16.1167,glacier,4,Iceland
-Brüggen Glacier,-49.2167,-74.0,glacier,4,Chile
-Buarbreen,60.0422,6.4231,glacier,4,Norway
 Buenos Aires,-34.613,-58.377,city,4,Argentina
 Buffalo,42.886,-78.878,city,4,New York
 Buffalo Lake,60.2333,-115.4333,lake,4,Northwest Territories
@@ -1666,14 +1435,11 @@ Bunnefjorden,59.8337,10.7257,coast,4,Norway
 Bunner Glacier,-74.4667,-110.667,glacier,4,Antarctica
 Butrint National Park,39.7461,20.0203,park,4,Albania
 Buyu Balease,-2.4069,120.5421,peak,4,Indonesia
-Byfjorden,59.0094,5.6756,coast,4,Norway
 Bénoué National Park,8.3333,13.8333,park,4,Cameroon
 Bøkfjorden,69.7656,30.0991,coast,4,Norway
 Bømlafjorden,59.6333,5.2833,coast,4,Norway
 Børgefjell National Park,65.1833,13.9,park,4,Norway
-Bøyabreen,61.4958,6.7647,glacier,4,Norway
 Cabañeros National Park,39.3964,-4.4872,park,4,Spain
-Cabinet Inlet,-66.5833,-63.1667,coast,4,Antarctica
 Cabonga Reservoir,47.3325,-76.5769,lake,4,Québec
 Cadman Glacier,-65.6167,-63.7833,glacier,4,Antarctica
 Cairngorms National Park,57.0833,-3.6667,park,4,UK
@@ -1684,135 +1450,74 @@ Canham Glacier,-71.8167,163.0,glacier,4,Antarctica
 Canyon Glacier,-83.95,175.417,glacier,4,Antarctica
 Capitol Reef National Park,38.2,-111.167,park,4,Utah
 Cardiel Lake,-48.95,-71.2167,lake,4,Argentina
-Carey Glacier,-78.8833,-83.9167,glacier,4,Antarctica
-Carleton Glacier,-78.0167,162.5,glacier,4,Antarctica
 Carlson Glacier,-69.4167,-68.05,glacier,4,Antarctica
 Carroll Inlet,-73.3,-78.5,coast,4,Antarctica
-Carryer Glacier,-71.2833,162.633,glacier,4,Antarctica
 Casa de Piedra Reservoir,-38.2547,-67.3756,lake,4,Argentina
-Casey Glacier,-69.0,-63.8333,glacier,4,Antarctica
-Casey Inlet,-69.0,-63.5833,coast,4,Antarctica
-Catspaw Glacier,-77.7,161.717,glacier,4,Antarctica
-Cayley Glacier,-64.3333,-60.9667,glacier,4,Antarctica
-Cerro Arenales,-47.1972,-73.4675,peak,4,Chile
-Cerro Azul,-0.9167,-91.4083,peak,4,Ecuador
-Cerro Cañapa,-21.45,-68.0667,peak,4,Bolivia
 Cerro El Centinela (Torreón),25.1375,-103.2304,peak,4,Coahuila
-Cerro El Pital,14.3833,-89.1167,peak,4,Honduras
 Cerro El Potosí,24.8717,-100.2325,peak,4,Nuevo León
 Cerro El Toro,-29.13,-69.7867,peak,4,Argentina
 Cerro Las Conchas,18.7216,-102.9742,peak,4,Michoacán
 Cerro Peña Nevada,23.7709,-99.8611,peak,4,Nuevo León
-Cerro Tacarcuna,8.1506,-77.292,peak,4,Panama
 Cerro Tía Chena,26.1194,-100.5569,peak,4,Nuevo León
 Chagan Lake,45.2333,124.2833,lake,4,Jilin
 Chamechaude,45.2878,5.7883,peak,4,France
 Changla,30.1375,82.1958,peak,4,Xizang
-Channel Glacier,-64.7833,-63.3167,glacier,4,Antarctica
-Chao Lake,31.5282,117.5227,lake,4,Anhui
 Chaos Glacier,-69.0167,78.0,glacier,4,Antarctica
-Charles Glacier,-72.5667,-3.4333,glacier,4,Antarctica
 Charlotte,35.227,-80.843,city,4,North Carolina
 Charybdis Glacier,-70.4167,67.5,glacier,4,Antarctica
 Charyn Canyon,43.3619,79.0906,canyon,4,Kazakhstan
 Chatsquot Mountain,53.1422,-127.4772,peak,4,British Columbia
-Chaukhamba,30.7497,79.2911,peak,4,Uttarakhand
 Chaupi Orco,-14.6533,-69.2283,peak,4,Bolivia
 Chavez Glacier,-73.9167,-101.25,glacier,4,Antarctica
 Cheekha Dar,36.7753,44.9186,peak,4,Iran
 Cherangany Hills,1.2517,35.4505,peak,4,Kenya
-Chesapeake Bay Bridge,38.99,-76.38,landmark,4,Maryland
 Chiemsee,47.87,12.45,lake,4,Germany
-Chijire Glacier,-68.05,43.3833,glacier,4,Antarctica
 Chiribiquete National Park,0.7006,-72.8054,park,4,Colombia
 Chiricahua Peak,31.8459,-109.2913,peak,4,Arizona
-Chogolisa,35.6106,76.5744,peak,4,Pakistan
 Chott el Hodna,35.4417,4.7667,lake,4,Algeria
 Christensen Glacier,-54.4667,3.4,glacier,4,
 Christiaensen Glacier,-71.5333,35.6167,glacier,4,Antarctica
-Chumerna Glacier,-64.1361,-62.1056,glacier,4,Antarctica
 Churchill Lake,55.9964,-108.3215,lake,4,Saskatchewan
-Chutine Peak,57.7753,-132.335,peak,4,British Columbia
 "Cilento, Vallo di Diano and Alburni National Park",40.2,15.2,park,4,Italy
 Cima Brenta,46.18,10.8992,peak,4,Italy
-Cima Dodici,45.9977,11.4682,peak,4,Italy
-Cima Valdritta,45.7265,10.8437,peak,4,Italy
-Clark Glacier,-77.4167,162.367,glacier,4,Antarctica
 Clarke Glacier,-68.8,-66.9333,glacier,4,Antarctica
 Clarke Glacier,-75.1833,-139.1,glacier,4,Antarctica
 Clarke Glacier,-75.4,162.0833,glacier,4,Antarctica
 Cleaves Glacier,-82.95,165.0,glacier,4,Antarctica
 Clinton-Colden Lake,63.9667,-107.4667,lake,4,Northwest Territories
-Co-pilot Glacier,-73.1833,164.367,glacier,4,Antarctica
-Coipasa Lake,-19.2,-68.1167,lake,4,Bolivia
 Col Nudo,46.2289,12.4014,peak,4,Italy
 Cold Lake,54.5501,-110.0008,lake,4,Alberta
-Cole Glacier,-68.7,-66.1,glacier,4,Antarctica
 Coleman Glacier,-75.7833,-132.55,glacier,4,Antarctica
 Columbia Glacier,61.2197,-146.895,glacier,4,Alaska
 Columbus,39.961,-82.999,city,4,Ohio
-Colville Lake,67.1667,-126.0,lake,4,Northwest Territories
-Commonwealth Glacier,-77.5667,163.25,glacier,4,Antarctica
-Conchie Glacier,-71.6,-67.25,glacier,4,Antarctica
-Concordia,35.7444,76.525,glacier,4,Pakistan
 Concordia Subglacial Lake,-74.1,125.15,lake,4,Antarctica
 Congaree National Park,33.7833,-80.7833,park,4,South Carolina
 Conger Glacier,-66.0333,103.55,glacier,4,Antarctica
-Conn Lake,70.5333,-73.5667,lake,4,Nunavut
 Connemara National Park,53.5511,-9.9447,park,4,Ireland
 Contwoyto Lake,65.6,-110.6167,lake,4,Nunavut
-Cook Glacier,-49.3139,69.0414,glacier,4,French Southern and Antarctic Lands
 Cook Ice Shelf,-68.6667,152.5,glacier,4,Antarctica
 Cooke Glacier,-72.7333,-88.5667,glacier,4,Antarctica
 Corcovado National Park,8.55,-83.5833,park,4,Costa Rica
-Cornwall Glacier,-83.0667,162.3333,glacier,4,Antarctica
 Cornwall Glacier,-80.7833,-26.2667,glacier,4,Antarctica
 Cornwall coast,50.2,-5.3,coast,4,UK
-Cosgrove Ice Shelf,-73.5667,-100.367,glacier,4,Antarctica
-Cosmonaut Glacier,-73.4333,164.5,glacier,4,Antarctica
-Cosmonette Glacier,-73.6167,164.85,glacier,4,Antarctica
-Cotton Glacier,-77.1167,161.667,glacier,4,Antarctica
-Cotuahusi canion,-15.27,-73.03,canyon,4,Peru
-Coulston Glacier,-72.4167,167.967,glacier,4,Antarctica
-Cox Glacier,-72.1833,-101.25,glacier,4,Antarctica
-Craft Glacier,-72.2,-101.367,glacier,4,Antarctica
-Crane Glacier,-65.3333,-62.25,glacier,4,Antarctica
 Craters of the Moon,43.417,-113.517,volcano,4,Idaho
 Crazy Peak,46.018,-110.2768,peak,4,Montana
-Creagh Glacier,-78.0,161.2,glacier,4,Antarctica
-Crescent Glacier,-77.6667,163.217,glacier,4,Antarctica
-Croll Glacier,-72.4833,167.3,glacier,4,Antarctica
 Cross Lake,54.7483,-97.5019,lake,4,Manitoba
 Crosson Ice Shelf,-74.95,-109.5,glacier,4,Antarctica
-Crosswell Glacier,-78.2833,-85.4,glacier,4,Antarctica
-Crowfoot Glacier,51.6341,-116.4345,glacier,4,Alberta
-Crume Glacier,-71.55,169.35,glacier,4,Antarctica
 Curonian Spit National Park,55.481,21.097,park,4,Lithuania
-Cuyahoga Valley National Park,41.2417,-81.5497,park,4,Ohio
 Cát Tiên National Park,11.3472,107.1514,park,4,Vietnam
 Cévennes National Park,44.2,3.4,park,4,France
 Dadès Gorges,31.5833,-5.9,canyon,4,Morocco
-Dalgopol Glacier,-62.9214,-62.4619,glacier,4,Antarctica
-Dalsfjorden,61.35,5.25,coast,4,Norway
 Danmark Fjord,81.0757,-22.0227,coast,4,Greenland
 Danube Bend,47.8,18.95,feature,4,Hungary
 Dar es Salaam,-6.823,39.27,city,4,Tanzania
 Dargomyzhsky glacier,-71.8333,-70.8333,glacier,4,Antarctica
-Darwin Glacier,-79.8833,159.0,glacier,4,Antarctica
-Dater Glacier,-78.2833,-84.5833,glacier,4,Antarctica
 Dauphin Lake,51.2696,-99.7792,lake,4,Manitoba
-David Glacier,-75.3334,161.256,glacier,4,Antarctica
 Davidson Glacier,59.0817,-135.4725,glacier,4,Alaska
-Davis Glacier,-75.75,162.167,glacier,4,Antarctica
-DeWald Glacier,-72.3167,167.0,glacier,4,Antarctica
-Debenham Glacier,-77.1833,162.633,glacier,4,Antarctica
 Deception Glacier,-78.55,158.55,glacier,4,Antarctica
 Delhi,28.652,77.231,city,4,Delhi
-Dennistoun Glacier,-71.1833,168.0,glacier,4,Antarctica
-Denton Glacier,-77.4833,162.583,glacier,4,Antarctica
 Denver,39.739,-104.985,city,4,Colorado
 Deosai National Park,35.0189,75.4144,park,4,Pakistan
-Descent Glacier,-77.85,162.867,glacier,4,Antarctica
 Deschambault Lake,54.7548,-103.5153,lake,4,Saskatchewan
 Desembarco del Granma National Park,19.8833,-77.6333,park,4,Cuba
 Deseret Peak,40.4595,-112.6263,peak,4,Utah
@@ -1822,176 +1527,84 @@ Dhaka,23.71,90.407,city,4,Bangladesh
 Dhārāvi,19.05,72.867,city,4,Maharashtra
 Diamond Peak,44.1417,-113.083,peak,4,Idaho
 Dibble Glacier,-66.2833,134.6,glacier,4,Antarctica
-Dick Glacier,-84.8833,-175.833,glacier,4,Antarctica
 Dickey Glacier,-81.5833,161.0,glacier,4,Antarctica
 Dicksonfjorden,78.7225,15.3472,coast,4,Norway
-Dilijan National Park,40.6564,45.0214,park,4,Armenia
-Dimkov Glacier,-64.4194,-62.6278,glacier,4,Antarctica
 Dirfi,38.6268,23.8409,peak,4,Greece
 Djebel Chélia,35.3183,6.6375,peak,4,Algeria
 Dnieper Reservoir,47.96,35.1144,lake,4,Ukraine
 Dnieper-Bug Estuary,46.6167,31.95,lake,4,Ukraine
 Dniester Canyon,48.7661,25.5995,canyon,4,Ukraine
 Dniester Lyman,46.2333,30.35,lake,4,Ukraine
-Dobbratz Glacier,-79.4,-85.0833,glacier,4,Antarctica
-Dobrudzha Glacier,-62.6578,-59.9542,glacier,4,Antarctica
 Doi Inthanon,18.5922,98.4867,peak,4,Thailand
-Domeyko Glacier,-62.0667,-58.45,glacier,4,Antarctica
 Dongguan,23.018,113.749,city,4,Guangdong
 Dorrer Glacier,-82.6833,163.083,glacier,4,Antarctica
 Dorsoidong Co,33.3833,89.8667,lake,4,Xizang
 Doré Lake,54.7667,-107.3,lake,4,Saskatchewan
 Dotson Ice Shelf,-74.4,-112.3667,glacier,4,Antarctica
-Doubtful Sound / Patea,-45.345,167.03,coast,4,New Zealand
 Douglas Glacier,-73.5167,-61.75,glacier,4,Antarctica
 Dovrefjell–Sunndalsfjella National Park,62.3967,9.1731,park,4,Norway
-Dozois Reservoir,47.5,-77.0833,lake,4,Québec
-Drammensfjord,59.6667,10.41,coast,4,Norway
-Driscoll Glacier,-79.7,-83.0,glacier,4,Antarctica
 Drygalski Fjord,-54.8167,-36.0,coast,4,South Georgia and the Islands
-Drygalski Glacier,-64.7167,-60.7333,glacier,4,Antarctica
-Drygalski Ice Tongue,-75.4,163.5,glacier,4,Antarctica
 Du Toits Peak,-33.755,19.1867,peak,4,South Africa
 Dufek Massif,-82.6282,-53.1194,glacier,4,Antarctica
-Dugdale Glacier,-71.6333,169.833,glacier,4,Antarctica
-Dunajec River Gorge,49.4133,20.4293,canyon,4,Poland
 Dunn Peak massif,51.4369,-119.9544,peak,4,British Columbia
-Dyngjujökull,64.7667,-16.8833,glacier,4,Iceland
 Dzūkija National Park,54.0819,24.3767,park,4,Lithuania
 Dålk Glacier,-69.4333,76.45,glacier,4,Antarctica
-Dýrafjörður,65.9214,-23.6913,coast,4,Iceland
-Earnshaw Glacier,-68.75,-65.1833,glacier,4,Antarctica
 Eastmain Reservoir,52.1817,-75.8739,lake,4,Québec
-Ebbe Glacier,-71.05,164.75,glacier,4,Antarctica
-Eckernförde Bay,54.478,9.945,coast,4,Germany
-Edisto Glacier,-72.45,169.883,glacier,4,Antarctica
 Edith Ronne Land,-78.5,-61.0,glacier,4,
 Edmonton,53.55,-113.469,city,4,Alberta
 Edward VIII Ice Shelf,-66.8333,56.55,glacier,4,Antarctica
-Eidfjorden,60.4883,6.9761,coast,4,Norway
 Ein Avdat,30.8264,34.7664,canyon,4,Israel
 Eiskar Glacier,46.6106,12.9064,glacier,4,Italy
-Ekmanfjorden,78.6333,14.6667,coast,4,Norway
 Ekström Ice Shelf,-71.0,-8.0,glacier,4,Antarctica
-El Cogulló,42.3637,0.998,peak,4,Spain
 Elbe Sandstone Mountains,50.93,14.08,range,4,Germany
-Elder Glacier,-72.5833,168.767,glacier,4,Antarctica
 Elivai Malai,10.94,76.6325,peak,4,Kerala
-Ellen Glacier,-78.2167,-84.5,glacier,4,Antarctica
 Ellis Glacier,-71.9667,24.2833,glacier,4,Antarctica
-Ellmauer Halt,47.5617,12.3022,peak,4,Austria
 Embalse Cerros Colorados,-38.5508,-68.8225,lake,4,Argentina
 Embree Glacier,-77.9833,-85.1667,glacier,4,Antarctica
 Endurance Glacier,-61.1667,-55.1333,glacier,4,Antarctica
-Engilchek Glacier,42.18,79.82,glacier,4,Kyrgyzstan
 Ennadai Lake,60.9667,-101.3331,lake,4,Nunavut
 Entuziasty Glacier,-70.5,14.5,glacier,4,Antarctica
-Epler Glacier,-86.25,-161.0,glacier,4,Antarctica
-Erebus Glacier,-77.6667,167.1,glacier,4,Antarctica
-Erebus Glacier Tongue,-77.7,166.717,glacier,4,Antarctica
-Eresfjorden,62.73,8.064,coast,4,Norway
-Eros Glacier,-71.3,-68.3333,glacier,4,Antarctica
 Erskine Glacier,-66.4833,-65.6667,glacier,4,Antarctica
 Escondido Lake,-54.65,-67.78,lake,4,Argentina
-Esefjorden,61.2169,6.5085,coast,4,Norway
-Esmark Glacier,-54.2167,-37.2167,glacier,4,South Georgia and the Islands
 Eufaula Lake,35.2808,-95.5297,lake,4,Oklahoma
-Eureka Glacier,-69.716,-67.933,glacier,4,Antarctica
-Evans Glacier,-83.7833,170.0,glacier,4,Antarctica
-Evans Glacier,-65.0833,-61.6667,glacier,4,Antarctica
 Exasperation Inlet,-65.3333,-62.0,coast,4,Antarctica
 Exodus Glacier,-79.8333,156.367,glacier,4,Antarctica
 Exum Glacier,-73.5,-94.2333,glacier,4,Antarctica
-Ezcurra Inlet,-62.1667,-58.5667,coast,4,Antarctica
 Faber Lake,63.8833,-117.4667,lake,4,Northwest Territories
 Falak Sar,35.6828,72.7853,peak,4,Pakistan
 Falcon International Reservoir,26.65,-99.2,lake,4,Tamaulipas
-Fannefjorden,62.7695,7.492,coast,4,Norway
 Fansipan,22.3033,103.7753,peak,4,Vietnam
 Fedafjorden,58.2167,6.7167,coast,4,Norway
 Fendley Glacier,-71.3,168.783,glacier,4,Antarctica
-Fendorf Glacier,-79.5,-84.8167,glacier,4,Antarctica
 Fengari,40.4361,25.5875,peak,4,Greece
-Fensfjorden,60.7813,5.1835,coast,4,Norway
 Fernan Vaz Lagoon,-1.5143,9.2083,lake,4,Gabon
 Finger Lakes,42.65,-76.8,lake,4,New York
-Finley Glacier,-73.5833,165.633,glacier,4,Antarctica
-Firth of Tay,56.44,-3.0,coast,4,UK
 Fisher Glacier,-73.25,66.0,glacier,4,Antarctica
-Fitch Glacier,-72.0167,168.117,glacier,4,Antarctica
-Fitzgerald Glacier,-73.55,166.25,glacier,4,Antarctica
-Fjaðrárgljúfur,63.7713,-18.1719,canyon,4,Iceland
-Fjærlandsfjorden,61.2833,6.6667,coast,4,Norway
-Flanagan Glacier,-79.4833,-82.7,glacier,4,Antarctica
-Flask Glacier,-65.7833,-62.4167,glacier,4,Antarctica
-Flat Top Mountain,40.3725,-112.1892,peak,4,Utah
-Fleming Glacier,-69.4167,-66.6667,glacier,4,Antarctica
-Flensburg Firth,54.8667,9.55,coast,4,Denmark
 Flogeken Glacier,-72.0667,4.4167,glacier,4,Antarctica
 Folda,64.6636,10.6842,coast,4,Norway
 Folda,67.614,14.883,coast,4,Norway
 Foldfjorden,63.2279,8.3973,coast,4,Norway
-Foreman Glacier,-69.3,-71.3667,glacier,4,Antarctica
-Forman Glacier,-84.65,-177.167,glacier,4,Antarctica
-Forno Glacier,46.3244,9.7014,glacier,4,Switzerland
-Fortuna Glacier,-54.1,-36.85,glacier,4,South Georgia and the Islands
 Foundation Ice Stream,-83.25,-60.0,glacier,4,Antarctica
-Fourcade Glacier,-62.2167,-58.6667,glacier,4,Antarctica
-Fowlie Glacier,-71.6667,168.067,glacier,4,Antarctica
 Foz de Lumbier,42.6304,-1.301,canyon,4,Spain
 Franca Glacier,-68.3833,-65.5667,glacier,4,Antarctica
 Franklin D. Roosevelt Lake,47.9561,-118.9806,lake,4,Washington
 Fraser Canyon,49.6333,-121.417,canyon,4,British Columbia
 Frierfjord,59.0991,9.6182,coast,4,Norway
-Frobisher Lake,56.3623,-108.2759,lake,4,Saskatchewan
-Fuerza Aérea Glacier,-62.5069,-59.6611,glacier,4,Antarctica
 Fulufjället National Park,61.5456,12.7394,park,4,Sweden
-Fusafjorden,60.2,5.5667,coast,4,Norway
-Førde Fjord,61.45,5.5,coast,4,Norway
-Gamchen,54.9731,160.7008,peak,4,Kamchatka
-Gandsfjord,58.9132,5.7603,coast,4,Norway
 Gangshiqia Peak,37.6933,101.505,peak,4,Gansu
-Gannutz Glacier,-70.4,162.183,glacier,4,Antarctica
 Gardner Inlet,-74.9667,-62.8667,coast,4,Antarctica
-Garni Gorge,40.1194,44.7231,canyon,4,Armenia
 Garry Lake,65.9667,-100.3,lake,4,Nunavut
-Garwood Glacier,-78.0167,163.95,glacier,4,Antarctica
-Gatun Lake,9.2,-79.9,lake,4,Panama
 Gauja National Park,57.4167,25.4167,park,4,Latvia
-Gauri Sankar,27.9533,86.3358,peak,4,Xizang
-Gauss Glacier,-77.9667,163.733,glacier,4,Antarctica
-Gaussiran Glacier,-80.0,159.167,glacier,4,Antarctica
-Geitlandsjökull,64.6,-20.6,glacier,4,Iceland
 Geladaindong Peak,33.5008,91.0517,peak,4,Qinghai
-George VI Ice Shelf,-71.75,-68.0,glacier,4,Antarctica
 Gezer,31.8592,34.9192,park,4,Israel
-Giaever Glacier,-72.6167,31.15,glacier,4,Antarctica
-Gibbs Glacier,-68.4667,-66.0,glacier,4,Antarctica
-Gilbert Glacier,-70.0,-71.0,glacier,4,Antarctica
 Gilchrist Glacier,-66.1167,114.1,glacier,4,Antarctica
-Gildea Glacier,-78.6333,-85.65,glacier,4,Antarctica
 Gillett Ice Shelf,-69.5833,159.7,glacier,4,Antarctica
-Gillock Glacier,-72.0,24.1333,glacier,4,Antarctica
-Gilsfjörður,65.4313,-21.844,coast,4,Iceland
-Giétro Glacier,45.995,7.3883,glacier,4,Switzerland
-Gjel Glacier,-71.8833,24.9167,glacier,4,Antarctica
-Glacier National Park,51.3,-117.519,park,4,British Columbia
 Glacier Peak,48.112,-121.114,volcano,4,Washington
-Glen Canyon,36.8644,-111.5879,canyon,4,Arizona
-Glen Glacier,-80.7333,-25.2667,glacier,4,Antarctica
 Glenveagh National Park,55.0167,-8.05,park,4,Ireland
-Glimpse Glacier,-78.2667,162.767,glacier,4,Antarctica
-Glitrefonna Glacier,-71.95,25.55,glacier,4,Antarctica
 Gluvreklett Glacier,-72.2333,2.5833,glacier,4,Antarctica
-Glärnisch,46.9986,8.9986,glacier,4,Switzerland
-Goetel Glacier,-62.0667,-58.3167,glacier,4,Antarctica
-Goldman Glacier,-77.7,162.85,glacier,4,Antarctica
 Goldsmith Glacier,-78.9333,-27.7,glacier,4,Antarctica
-Gole dell'Alcantara,37.8801,15.1734,canyon,4,Italy
 Gombe National Park,-4.6667,29.6333,park,4,Tanzania
-Gomukh,30.9268,79.0808,glacier,4,Uttarakhand
 Good Glacier,-84.2,177.833,glacier,4,Antarctica
-Goodell Glacier,-72.9167,-88.5,glacier,4,Antarctica
 Goodenough Glacier,-72.0,-66.6667,glacier,4,Antarctica
 Goose Lake,41.9167,-120.434,lake,4,California
 Gora Babash-Ata,41.4103,72.9131,peak,4,Kyrgyzstan
@@ -2001,164 +1614,80 @@ Gordon Glacier,-80.2833,-26.15,glacier,4,Antarctica
 Gorges du Gardon,43.938,4.4325,canyon,4,France
 Gorongosa National Park,-18.6903,34.3136,park,4,Mozambique
 Gough Glacier,-84.7,-171.583,glacier,4,Antarctica
-Gould Glacier,-66.7833,-64.65,glacier,4,Antarctica
-Gowan Glacier,-79.1167,-85.65,glacier,4,Antarctica
-Grace Glacier,-54.0667,-37.3833,glacier,4,South Georgia and the Islands
 Gran Campo Nevado,-52.8333,-73.1667,glacier,4,Chile
-Gran Glacier,-76.9333,161.233,glacier,4,Antarctica
-Gran Paradiso,45.517,7.267,peak,4,Italy
-Gran Sasso e Monti della Laga National Park,42.4907,13.4952,park,4,Italy
-Grand Combin,45.9375,7.2992,peak,4,Switzerland
-Grande Tête de l'Obiou,44.775,5.8397,peak,4,France
 Granville Lake,56.2994,-100.4828,lake,4,Manitoba
-Gratangen,68.7317,17.3697,coast,4,Norway
-Great Basin National Park,39.0058,-114.2197,park,4,Nevada
-Great Himalayan National Park,31.8043,77.951,park,4,Himachal Pradesh
 Greater Chimgan,41.4944,70.0578,peak,4,Uzbekistan
-Green Glacier,-79.7167,156.167,glacier,4,Antarctica
-Green Glacier,-64.9667,-61.8667,glacier,4,Antarctica
 Greenland's Grand Canyon,79.0,-46.0,canyon,4,Greenland
-Greenwell Glacier,-71.3333,165.0,glacier,4,Antarctica
 Gressitt Glacier,-71.5,161.25,glacier,4,Antarctica
-Grey Glacier,-50.95,-73.25,glacier,4,Chile
-Gries Glacier,46.4444,8.3403,glacier,4,Switzerland
-Griffith Glacier,-86.1833,-149.4,glacier,4,Antarctica
 Griffiths Glacier,-77.1667,162.267,glacier,4,Antarctica
-Grimley Glacier,-69.15,-64.6667,glacier,4,Antarctica
-Grimming,47.5206,14.0169,peak,4,Austria
 Grintovec,46.3571,14.5354,peak,4,Slovenia
-Großer Priel,47.7169,14.0633,peak,4,Austria
-Guadalupe Mountains National Park,31.9167,-104.8667,park,4,Texas
 Guartelá Canyon,-24.5494,-50.2694,canyon,4,Paraná
 Guiana Amazonian Park,2.8383,-53.7722,park,4,France
-Gullmarn,58.2625,11.45,coast,4,Sweden
-Gunnestad Glacier,-72.05,23.8333,glacier,4,Antarctica
 Gwaii Haanas National Park Reserve and Haida Heritage Site,52.3892,-131.471,park,4,British Columbia
 Göygöl National Park,40.4058,46.3225,park,4,Azerbaijan
 Ha Gorge,35.085,25.835,canyon,4,Greece
 Haas Glacier,-85.75,-164.9167,glacier,4,Antarctica
-Haathi Parvat,30.685,79.7058,peak,4,Uttarakhand
-Haba Snow Mountain,27.3183,100.1,peak,4,Yunnan
-Hadselfjord,68.4729,14.7655,coast,4,Norway
-Haefeli Glacier,-67.3,-66.3833,glacier,4,Antarctica
-Hafrsfjord,58.928,5.6486,coast,4,Norway
 Hagen Fjord,81.7436,-23.8375,coast,4,Greenland
 Hall Lake,68.6833,-82.2833,lake,4,Nunavut
-Hammond Glacier,-77.4167,-146.0,glacier,4,Antarctica
 Hamoun-e Puzak,31.4307,61.785,lake,4,Afghanistan
-Hampton Glacier,-69.3333,-70.0833,glacier,4,Antarctica
 Hamra National Park,61.7569,14.808,park,4,Sweden
-Hanagita Peak,61.0683,-143.7089,peak,4,Alaska
-Hannan Ice Shelf,-67.6,47.5833,glacier,4,Antarctica
 Hanoi,21.024,105.841,city,4,Vietnam
-Hansen Glacier,-78.35,-84.55,glacier,4,Antarctica
 Har Hu,38.2957,97.5921,lake,4,Qinghai
 Harbin,45.75,126.65,city,4,Heilongjiang
 Harbord Glacier,-75.9167,162.4,glacier,4,Antarctica
 Hardisty Lake,64.6169,-117.7515,lake,4,Northwest Territories
 Hargreaves Glacier,-69.7667,74.3333,glacier,4,Antarctica
 Harhiraa,49.5697,91.3853,peak,4,Mongolia
-Hariot Glacier,-69.0,-66.3333,glacier,4,Antarctica
-Harker Glacier,-54.3667,-36.5333,glacier,4,South Georgia and the Islands
-Hart Glacier,-77.5167,162.433,glacier,4,Antarctica
 Hasagt Hairhan,46.7892,95.8008,peak,4,Mongolia
-Hatherton Glacier,-79.9167,157.583,glacier,4,Antarctica
-Haukivesi,62.1,28.4333,lake,4,Finland
-Haute Cime,46.1608,6.9231,peak,4,Switzerland
 Haydn Inlet,-70.2167,-70.75,coast,4,Antarctica
-Hayes Glacier,-76.2667,-27.9,glacier,4,Antarctica
 Hayford Peak,36.6577,-115.201,peak,4,Nevada
-Haynes Glacier,-75.4167,-109.5,glacier,4,Antarctica
-Hearfield Glacier,-72.4333,167.7,glacier,4,Antarctica
-Hedblom Glacier,-76.5667,162.4,glacier,4,Antarctica
 Hei Glacier,-72.4833,0.5833,glacier,4,Antarctica
 Heitō Glacier,-69.2667,39.8,glacier,4,Antarctica
-Hektoria Glacier,-65.05,-61.5167,glacier,4,Antarctica
-Held Glacier,-84.7833,-177.0,glacier,4,Antarctica
-Hell's Gate National Park,-0.8754,36.3191,park,4,Kenya
-Helm Glacier,-83.1167,162.5,glacier,4,Antarctica
 Hemis National Park,33.9833,77.4333,park,4,Ladakh
-Hermes Glacier,-68.9833,-65.25,glacier,4,Antarctica
-Herodium,31.6658,35.2414,park,4,Palestine
-Hestfjörður,65.95,-22.9167,coast,4,Iceland
 Hette Glacier,-71.7167,26.5833,glacier,4,Antarctica
 Hewitt Glacier,-83.2833,167.833,glacier,4,Antarctica
 Hiawatha Glacier,78.8283,-67.0439,glacier,4,Greenland
 Higashi-naga-iwa Glacier,-68.45,41.6333,glacier,4,Antarctica
 Hill Glacier,-73.05,-75.6667,glacier,4,Antarctica
-Himalchuli,28.4361,84.6394,peak,4,Nepal
-Hinkley Glacier,-78.45,-85.3333,glacier,4,Antarctica
-Hippocrates Glacier,-64.3667,-62.3667,glacier,4,Antarctica
 Hirkan National Park,38.6306,48.7117,park,4,Azerbaijan
 Hjeltefjorden,60.53,4.9484,coast,4,Norway
 Hjälmaren,59.25,15.75,lake,4,Sweden
-Hjørundfjorden,62.2111,6.5145,coast,4,Norway
 Hkusam Mountain,50.335,-125.841,peak,4,British Columbia
 Hlubeck Glacier,-72.5,-97.15,glacier,4,Antarctica
 Hmuifang,23.4499,92.7577,peak,4,Mizoram
 Ho Chi Minh City,10.823,106.63,city,4,Vietnam
-Hobbs Glacier,-77.9,164.4,glacier,4,Antarctica
 Hochtor,47.5617,14.6328,peak,4,Austria
-Hoffellsjökull,64.4473,-15.4935,glacier,4,Iceland
-Hohe Tauern National Park,47.1356,12.3253,park,4,Austria
 Hollingsworth Glacier,-75.55,159.95,glacier,4,Antarctica
 Hollywood,34.098,-118.327,city,4,California
 Hong Lake,29.8478,113.3405,lake,4,Hubei
-Honnør Glacier,-69.3833,39.8333,glacier,4,Antarctica
-Hood Canal,47.8,-122.7,coast,4,Washington
 Hornsund,76.9722,15.7181,coast,4,Norway
-Horntvedt Glacier,-54.4167,3.35,glacier,4,
 Horsens Fjord,55.85,10.0,coast,4,Denmark
 Hoseason Glacier,-67.1,58.1167,glacier,4,Antarctica
-Hoshko Glacier,-71.8167,163.4,glacier,4,Antarctica
 Hot Springs National Park,34.5136,-93.0536,park,4,Arkansas
 Hottah Lake,65.5,-118.4833,lake,4,Northwest Territories
-Hough Glacier,-78.5333,-84.3333,glacier,4,Antarctica
-Houliston Glacier,-72.0,164.567,glacier,4,Antarctica
-Hovde Glacier,-69.25,76.9167,glacier,4,Antarctica
-Howchin Glacier,-78.2,163.3667,glacier,4,Antarctica
 Howson Peak,54.4186,-127.7439,peak,4,British Columbia
 Hrútafjörður,65.3027,-21.1408,coast,4,Iceland
-Huandoy,-9.0286,-77.6656,peak,4,Peru
 Huangmaojian Peak,27.89,119.1864,peak,4,Zhejiang
 Huantsán,-9.5158,-77.31,peak,4,Peru
 Huaytunas Lake,-12.9178,-65.5183,lake,4,Bolivia
 Hudson Bay coast,58.77,-94.17,coast,4,Manitoba
-Hughes Glacier,-77.7333,162.467,glacier,4,Antarctica
 Hull Glacier,-75.0833,-137.25,glacier,4,Antarctica
 Humboldt Glacier,79.5,-63.0,glacier,4,Greenland
-Hunter Glacier,-71.7333,163.0,glacier,4,Antarctica
-Hvalfjörður,64.3012,-21.8614,coast,4,Iceland
-Hvammsfjörður,65.1166,-21.8611,coast,4,Iceland
 Hwange National Park,-18.735,26.955,park,4,Zimbabwe
-Hyde Glacier,-79.8,-83.7,glacier,4,Antarctica
 Hyefjorden,61.7801,5.9657,coast,4,Norway
 Hålisen Glacier,-72.0333,8.85,glacier,4,Antarctica
-Høgsfjord,58.9093,6.0439,coast,4,Norway
-Húnafjörður,65.6429,-20.4786,coast,4,Iceland
 Ibapah Peak,39.8283,-113.9197,peak,4,Utah
-Icebreaker Glacier,-73.6167,166.167,glacier,4,Antarctica
-Ichime Glacier,-68.3833,42.1333,glacier,4,Antarctica
 Iddefjorden,59.0736,11.3889,coast,4,Norway
 Ikh Bogd,44.995,100.2308,peak,4,Mongolia
-Il Polo Glacier,-69.8333,74.9,glacier,4,Antarctica
-Iliad Glacier,-64.45,-63.45,glacier,4,Antarctica
 Ilmen,58.2667,31.2833,lake,4,Novgorod
 Ilısu Reservoir,37.7311,41.7817,lake,4,Turkey
 Imandra,67.5542,33.0484,lake,4,Murmansk
-Imbros Gorge,35.2467,24.1681,canyon,4,Greece
 Independence Fjord,82.1333,-28.0,coast,4,Greenland
-Indian Arm,49.3667,-122.8833,coast,4,British Columbia
-Irwin Glacier,-71.1167,163.417,glacier,4,Antarctica
 Isalo National Park,-22.4351,45.2884,park,4,Madagascar
-Isbrecht Glacier,-72.2333,-100.767,glacier,4,Antarctica
 Isefjord,55.85,11.8,coast,4,Denmark
-Isfjorden,62.5769,7.7282,coast,4,Norway
 Isfjorden,78.1667,14.0,coast,4,Norway
-Ising Glacier,-72.4,0.95,glacier,4,Antarctica
 Isle Royale National Park,47.9959,-88.9093,park,4,Michigan
 Isle of Wight / Needles,50.662,-1.59,island,4,UK
-Itatiaia National Park,-22.4958,-44.5628,park,4,Rio de Janeiro
 Ivankovo Reservoir,56.7978,36.8961,lake,4,Tver'
 Ivindo National Park,0.088,12.63,park,4,Gabon
 Ivvavik National Park,69.5197,-139.525,park,4,Yukon
@@ -2166,133 +1695,69 @@ Jabal Al Harim,25.9764,56.2325,peak,4,Oman
 Jabal al-Lawz,28.6542,35.3058,peak,4,Saudi Arabia
 Jacksonville,30.332,-81.656,city,4,Florida
 Jacobel Glacier,-77.7333,-148.283,glacier,4,Antarctica
-Jacoby Glacier,-75.8,-132.1,glacier,4,Antarctica
 Jakupica,41.7042,21.4053,peak,4,North Macedonia
 Janq'u Uma,-15.8533,-68.5408,peak,4,Bolivia
-Jebel Kawr (peak),23.1387,57.0141,peak,4,Oman
-Jeffries Glacier,-79.0333,-28.2,glacier,4,Antarctica
 Jelbart Ice Shelf,-70.5,-4.5,glacier,4,Antarctica
-Jiehkkevárri,69.4692,19.8767,peak,4,Norway
-Jigme Dorji National Park,27.75,89.5167,park,4,Bhutan
 Jirisan,35.3369,127.7306,peak,4,Republic of Korea
-Johns Hopkins Glacier,58.8067,-137.25,glacier,4,Alaska
 Jones Glacier,-66.6,91.5,glacier,4,Antarctica
-Jorum Glacier,-65.2333,-62.05,glacier,4,Antarctica
-Juneau Icefield,58.6,-134.5,glacier,4,Alaska
 Jupiter Glacier,-70.95,-68.5,glacier,4,Antarctica
 Jutulstraumen Glacier,-71.5833,-0.5,glacier,4,Antarctica
-Jôf di Montasio,46.4378,13.4333,peak,4,Italy
-Jökulfirðir,66.2905,-22.8504,coast,4,Iceland
 Jökulsárgljúfur,65.9289,-16.5369,canyon,4,Iceland
-Jøssingfjorden,58.3176,6.3364,coast,4,Norway
-K12,35.3213,76.9854,peak,4,Siachen Glacier
-K6,35.4183,76.5517,peak,4,Pakistan
-Kahurangi National Park,-41.13,172.61,park,4,New Zealand
 Kajmakčalan,40.9303,21.7861,peak,4,Greece
 Kakisa Lake,60.9167,-117.6667,lake,4,Northwest Territories
 Kakum National Park,5.3536,-1.3833,park,4,Ghana
-Kaldfjorden,69.7694,18.6821,coast,4,Norway
-Kali Gandaki Gorge,28.7068,83.6453,canyon,4,Nepal
 Kallavesi,62.8167,27.7833,lake,4,Finland
 Kamianske Reservoir,48.7961,34.1125,lake,4,Ukraine
 Kamilukuak Lake,62.3193,-101.802,lake,4,Nunavut
 Kaminak Lake,62.1833,-95.0833,lake,4,Nunavut
-Kamp Glacier,-71.75,25.4,glacier,4,Antarctica
-Kander Glacier,46.4775,7.7908,glacier,4,Switzerland
 Kangerlussuaq,68.2167,-32.0333,coast,4,Greenland
 Kangerlussuaq Fjord,66.5,-52.1167,coast,4,Greenland
 Kangiqtualuk Uqquqti,70.5012,-71.1475,coast,4,Nunavut
-Kangshung Glacier,27.9851,87.0496,glacier,4,Xizang
 Kanha National Park,22.2275,80.645,park,4,Madhya Pradesh
 Kaniv Reservoir,49.9794,31.2425,lake,4,Ukraine
-Kanjiroba,29.3783,82.6392,peak,4,Nepal
 Kanjiroba Himal,29.3918,82.7528,peak,4,Nepal
-Kanjut Sar,36.205,75.4183,peak,4,Pakistan
 Karachi,24.861,67.01,city,4,Pakistan
-Karakul,39.04,73.42,lake,4,Tajikistan
-Karkar Island,-4.6333,145.9667,peak,4,Papua New Guinea
 Karpinsky Glacier,79.6344,98.3319,glacier,4,Krasnoyarsk
-Kasabova Glacier,-63.9389,-59.9083,glacier,4,Antarctica
 Kaskawulsh Glacier,60.8047,-138.6067,glacier,4,Yukon
-Kasumi Glacier,-68.3333,42.35,glacier,4,Antarctica
-Katmai National Park and Preserve,58.5,-155.0,park,4,Alaska
-Kawaikini,22.0567,-159.497,peak,4,Hawaii
 Kayrakkum Reservoir,40.29,70.06,lake,4,Tajikistan
-Kaʻala,21.5069,-158.1428,volcano,4,Hawaii
 Keibul Lamjao National Park,24.4856,93.8402,park,4,Manipur
 Kejser Franz Joseph Fjord,73.45,-25.0,coast,4,Greenland
 Keller Lake,63.9501,-121.5849,lake,4,Northwest Territories
-Kelly Glacier,-72.3167,168.917,glacier,4,Antarctica
-Keltie Glacier,-84.8833,170.3333,glacier,4,Antarctica
 Kenai Fjords National Park,59.9178,-149.9875,park,4,Alaska
 Kennedy Peak,23.3175,93.7617,peak,4,Myanmar
-Kennicott Glacier,61.6003,-143.07,glacier,4,Alaska
-Kent Glacier,-82.8333,163.1667,glacier,4,Antarctica
 Kenting National Park,21.98,120.7969,park,4,Taiwan
-Ketchum Glacier,-75.0,-63.75,glacier,4,Antarctica
-Kezhen Peak,35.925,76.175,peak,4,Xinjiang
 Khantayskoye Lake,68.2825,90.4944,lake,4,Krasnoyarsk
 Khao Luang,8.4936,99.73,peak,4,Thailand
 Khar Lake,48.0964,93.2173,lake,4,Mongolia
 Khasi Hills,25.5833,91.6333,peak,4,Meghalaya
-Khunyang Chhish,36.2053,75.2078,peak,4,Pakistan
 Khuvkhoitun,57.9167,160.6833,peak,4,Kamchatka
 Kichatna Spire,62.4231,-152.723,peak,4,Alaska
 Kichenside Glacier,-67.7667,47.6,glacier,4,Antarctica
-Kieler Förde,54.3678,10.1731,coast,4,Germany
 Killarney National Park,52.021,-9.5066,park,4,Ireland
-King Oscar Fjord,72.3667,-24.0,coast,4,Greenland
 King's Peak,40.7764,-110.3728,peak,4,Utah
 Kings Canyon,-24.258,131.563,canyon,4,Northern Territory
-Kings Canyon National Park,36.7893,-118.6729,park,4,California
 Kinshasa,-4.328,15.314,city,4,Democratic Republic of the Congo
 Kirkby Glacier,-70.7167,166.15,glacier,4,Antarctica
 Kirkpatrick Glacier,-75.15,-136.0,glacier,4,Antarctica
-Kisimngiuqtuq Peak,70.7992,-71.6517,peak,4,Nunavut
 Kispiox Mountain,55.3985,-127.9434,peak,4,British Columbia
-Kizimen,55.1325,160.3194,peak,4,Kamchatka
-Kjerulf Glacier,-54.35,-36.85,glacier,4,South Georgia and the Islands
-Klebelsberg Glacier,-67.3833,-66.3167,glacier,4,Antarctica
 Kluane Lake,61.2639,-138.7444,lake,4,Yukon
 Kobuk Valley National Park,67.3534,-159.1989,park,4,Alaska
-Koettlitz Glacier,-78.25,164.25,glacier,4,Antarctica
 Kohler Glacier,-74.9167,-113.75,glacier,4,Antarctica
 Kolahoi Peak,34.1658,75.3286,peak,4,Jammu and Kashmir
-Kolgrafafjörður,64.9601,-23.1213,coast,4,Iceland
-Kolka Glacier,42.7397,44.4733,glacier,4,Georgia
 Kolkheti National Park,42.1108,41.6961,park,4,Georgia
-Kollafjörður,64.1801,-21.8463,coast,4,Iceland
-Kollafjörður (Strandir),65.5821,-21.4297,coast,4,Iceland
-Koms Glacier,-72.05,25.3,glacier,4,Antarctica
-Kongsfjorden,78.9809,11.8988,coast,4,Norway
 Kootenay Lake,49.3,-116.75,lake,4,British Columbia
-Kootenay National Park,50.8831,-116.049,park,4,British Columbia
-Kornicker Glacier,-78.7167,-84.5833,glacier,4,Antarctica
-Kosciuszko National Park,-36.4128,148.4186,park,4,New South Wales
-Kosco Glacier,-84.45,-178.0,glacier,4,Antarctica
 Kovdozero,66.7828,32.0,lake,4,Murmansk
 Kozara National Park,45.0083,16.8917,park,4,Bosnia and Herzegovina
 Krasnoye Lake,64.4667,174.4167,lake,4,Chukchi Autonomous Okrug
-Krebs Glacier,-64.6333,-61.5167,glacier,4,Antarctica
 Kreitzer Glacier,-70.3667,72.6,glacier,4,Antarctica
 Krkonoše National Park,50.7361,15.7403,park,4,Czech Republic
-Krok Fjord,-68.6667,78.0,coast,4,Antarctica
-Krossfjorden,79.15,11.75,coast,4,Norway
-Krossfjorden,60.1619,5.1414,coast,4,Norway
 Kubenskoe,59.6403,39.4469,lake,4,Vologda
-Kubi Gangri,29.7658,82.7517,peak,4,Xizang
-Kuh-e Shashgal,35.9304,71.0794,peak,4,Afghanistan
-Kuhe Haji Ebrahim,36.55,45.0,peak,4,Iraq
-Kula Kangri,28.2267,90.6164,peak,4,Xizang
 Kvænangen,69.7462,22.0883,coast,4,Norway
 Kyiv Reservoir,50.9064,30.4994,lake,4,Ukraine
-Kåfjorden,69.9353,23.0454,coast,4,Norway
 Kåfjorden,69.5175,20.7291,coast,4,Norway
 Köprülü Canyon,37.2959,31.1407,canyon,4,Turkey
 La Camperona,42.8533,-5.1933,peak,4,Spain
 La Grande 4 Reservoir,53.9008,-73.2508,lake,4,Québec
-Labuche Kang,28.3042,86.3508,peak,4,Xizang
-Lac Albanel,51.0833,-73.0833,lake,4,Québec
 Lac Brochet,58.6094,-101.5789,lake,4,Manitoba
 Lac Evans,50.9036,-76.9647,lake,4,Québec
 Lac Joseph,52.7502,-65.2985,lake,4,Newfoundland and Labrador
@@ -2309,10 +1774,8 @@ Lac de Gras,64.5,-110.5167,lake,4,Northwest Territories
 Lac des Bois,66.8335,-125.152,lake,4,Northwest Territories
 Lac Île-à-la-Crosse,55.4444,-107.849,lake,4,Saskatchewan
 Lacha,61.3333,38.8,lake,4,Arkhangel'sk
-Laennec Glacier,-64.2,-62.2167,glacier,4,Antarctica
 Lagdo Reservoir,8.8833,13.8333,lake,4,Cameroon
 Lago de Coari,-4.0928,-63.3581,lake,4,Amazonas
-Lagoa Mangueira,-33.1167,-52.7667,lake,4,Rio Grande do Sul
 Lagos,6.454,3.395,city,4,Nigeria
 Laguna Superior,16.3307,-94.8944,lake,4,Oaxaca
 Lagune Iguéla,-1.9189,9.4558,lake,4,Gabon
@@ -2325,29 +1788,22 @@ Lake Alexandrina,-35.45,139.15,lake,4,South Australia
 Lake Anneen,-26.9333,118.3,lake,4,Western Australia
 Lake Bardawil,31.1906,33.1622,lake,4,Egypt
 Lake Beyşehir,37.782,31.5076,lake,4,Turkey
-Lake Bled,46.363,14.094,lake,4,Slovenia
 Lake Borgne,30.0281,-89.6175,lake,4,Louisiana
 Lake Brunner / Moana,-42.615,171.45,lake,4,New Zealand
 Lake Carnegie,-26.1667,122.5,lake,4,Western Australia
 Lake Chamo,5.8333,37.55,lake,4,Ethiopia
 Lake Chukchagirskoye,51.9878,136.5797,lake,4,Khabarovsk
 Lake Clark,60.2442,-154.2853,lake,4,Alaska
-Lake District,54.46,-3.09,range,4,UK
 Lake Eppalock,-36.8656,144.5219,lake,4,Victoria
 Lake Eğirdir,37.9936,30.8884,lake,4,Turkey
-Lake Fagnano,-54.6333,-68.0,lake,4,Argentina
 Lake Hazen,81.7972,-71.0167,lake,4,Nunavut
 Lake Izabal,15.5,-89.1667,lake,4,Guatemala
 Lake Keitele,62.8823,25.9772,lake,4,Finland
-Lake Keta,68.6897,90.4386,lake,4,Krasnoyarsk
 Lake Kisale,-8.2577,26.5038,lake,4,Democratic Republic of the Congo
 Lake Kulunda,53.0,79.5167,lake,4,Altay
-Lake Kwania,1.7167,32.7,lake,4,Uganda
 Lake Labaz,72.295,99.6053,lake,4,Krasnoyarsk
-Lake Lanao,7.88,124.2525,lake,4,Philippines
 Lake Livingston,30.74,-95.15,lake,4,Texas
 Lake Malombe,-14.6667,35.25,lake,4,Malawi
-Lake Manyara National Park,-3.5,35.8333,park,4,Tanzania
 Lake Marion,33.4622,-80.2514,lake,4,South Carolina
 Lake Marqaköl,48.75,85.75,lake,4,Kazakhstan
 Lake Michigan shore,43.0,-87.0,coast,4,Michigan
@@ -2360,7 +1816,6 @@ Lake Okeechobee,26.95,-80.8,lake,4,Florida
 Lake Orivesi,62.2667,29.4,lake,4,Finland
 Lake Pend Oreille,48.1667,-116.3333,lake,4,Idaho
 Lake Pihkva,58.0045,28.0119,lake,4,Pskov
-Lake Poso,-1.9795,120.6601,lake,4,Indonesia
 Lake Razelm,44.8267,28.9847,lake,4,Romania
 Lake Saint Pierre,46.2042,-72.8322,lake,4,Québec
 Lake Salvador,29.7238,-90.2462,lake,4,Louisiana
@@ -2376,186 +1831,86 @@ Lake Sélingué,11.6167,-8.2333,lake,4,Mali
 Lake Tacarigua o Valencia,10.1833,-67.7333,lake,4,Venezuela
 Lake Tasiujaq,56.2494,-76.2942,lake,4,Québec
 Lake Taupō,-38.8167,175.9167,lake,4,New Zealand
-Lake Te Anau,-45.2,167.8,lake,4,New Zealand
-Lake Tempe,-4.1178,119.9527,lake,4,Indonesia
 Lake Texoma,33.8319,-96.5711,lake,4,Texas
 Lake Timiskaming,47.3333,-79.5,lake,4,Ontario
 Lake Towuti,-2.7626,121.5223,lake,4,Indonesia
 Lake Tshangalele,-10.8603,27.0594,lake,4,Democratic Republic of the Congo
 Lake Tumba,-0.8333,18.0,lake,4,Democratic Republic of the Congo
-Lake Upemba,-8.6,26.44,lake,4,Democratic Republic of the Congo
 Lake Winnebago,44.017,-88.4095,lake,4,Wisconsin
 Lake Zway,8.0,38.83,lake,4,Ethiopia
 Lake of the Woods,49.3,-94.8,lake,4,Ontario
 Laksefjord,70.7667,26.8833,coast,4,Norway
 Lalla-Khedidja,36.4472,4.2286,peak,4,Algeria
-Lallemand Fjord,-67.1,-66.7,coast,4,Antarctica
 Lama,69.55,90.25,lake,4,Krasnoyarsk
-Lammefjord,55.7847,11.6502,coast,4,Denmark
-Lamplugh Glacier,58.8322,-136.895,glacier,4,Alaska
 Land Glacier,-75.6667,-141.75,glacier,4,Antarctica
-Lange Glacier,-62.1167,-58.5,glacier,4,Antarctica
-Langesundsfjord,59.0,9.8,coast,4,Norway
-Langfjorden,70.0817,22.6599,coast,4,Norway
-Langfjorden,62.7333,7.7833,coast,4,Norway
-Langflog Glacier,-72.1,4.2333,glacier,4,Antarctica
 Langskavlen Glacier,-72.0167,14.4833,glacier,4,Antarctica
-Langtang Lirung,28.2561,85.5194,peak,4,Nepal
-Langtang National Park,28.1738,85.5531,park,4,Nepal
-Larsen Glacier,-75.1,162.4667,glacier,4,Antarctica
-Laubeuf Fjord,-67.35,-67.7833,coast,4,Antarctica
-Lauca National Park,-18.2444,-69.3539,park,4,Chile
-Laurel Canyon,34.1172,-118.3753,canyon,4,California
 Law Glacier,-84.0833,161.0,glacier,4,Antarctica
-Lawrie Glacier,-66.0667,-64.6,glacier,4,Antarctica
 Lazarev Ice Shelf,-69.6167,14.75,glacier,4,Antarctica
-Leap Year Glacier,-71.7,164.25,glacier,4,Antarctica
 Lednik Petrova,41.8955,78.3083,glacier,4,Kyrgyzstan
 Leech Lake,47.1667,-94.3667,lake,4,Minnesota
-Lekhziri Glacier,43.1553,42.7678,glacier,4,Georgia
 Lennon Glacier,-69.2,-71.9833,glacier,4,Antarctica
-Lennox-King Glacier,-83.4167,168.0,glacier,4,Antarctica
-Lensen Glacier,-72.3,166.8,glacier,4,Antarctica
-Leppard Glacier,-65.9667,-62.5,glacier,4,Antarctica
 Lerchenfeld Glacier,-77.9167,-34.25,glacier,4,Antarctica
-Letnitsa Glacier,-63.0514,-62.6069,glacier,4,Antarctica
-Levko Glacier,-72.4167,-96.0333,glacier,4,Antarctica
-Liangzi Lake,30.2333,114.4833,lake,4,Hubei
-Liefdefjorden,79.6006,12.8686,coast,4,Norway
-Lillie Glacier,-70.75,163.9167,glacier,4,Antarctica
 Lima,-12.043,-77.028,city,4,Peru
-Liotard Glacier,-66.6167,139.5,glacier,4,Antarctica
-Lister Glacier,-77.9833,163.0833,glacier,4,Antarctica
 Liushi Shan,35.3158,80.9158,peak,4,Xizang
 Liv Glacier,-84.9167,-168.0,glacier,4,Antarctica
 Llancanelo Lake,-35.6222,-69.1425,lake,4,Argentina
-Llanquihue Lake,-41.1324,-72.81,lake,4,Chile
-Lliboutry Glacier,-67.5,-66.7667,glacier,4,Antarctica
 Lobéké National Park,2.25,15.75,park,4,Cameroon
 Loch Long,56.072,-4.868,coast,4,UK
 Loch Long,57.2911,-5.5,coast,4,UK
-Loch Muick,56.9333,-3.1667,lake,4,UK
 Loe Nekan,30.2625,67.3013,peak,4,Pakistan
 Loi Leng,22.65,98.0667,peak,4,Myanmar
 Loi Pangnao,21.3035,100.3131,peak,4,Myanmar
 Lokka Reservoir,67.9172,27.5761,lake,4,Finland
-Loma Alto de la Bandera,18.8128,-70.6272,peak,4,Dominican Republic
-Long Glacier,-72.5,-96.7167,glacier,4,Antarctica
 Long Island / Hamptons,40.9,-72.5,coast,4,New York
 Long Lake,44.0333,-70.65,lake,4,Maine
 Longgan Lake,29.9333,116.15,lake,4,Anhui
 Longyangxia Reservoir,36.0333,100.7333,lake,4,Qinghai
 Lopé National Park,-0.5253,11.5428,park,4,Gabon
-Los Alerces National Park,-42.8075,-71.8989,park,4,Argentina
 Lough Neagh,54.6183,-6.3953,lake,4,UK
-Lower Victoria Glacier,-77.3,162.667,glacier,4,Antarctica
-Lowery Glacier,-82.5833,163.25,glacier,4,Antarctica
-Loðmundarfjörður,65.3502,-13.7689,coast,4,Iceland
 Ludeman Glacier,-84.45,172.667,glacier,4,Antarctica
-Lunde Glacier,-71.8833,6.25,glacier,4,Antarctica
-Lunkho e Dosare,36.7758,72.44,peak,4,Afghanistan
 Lunpo Gangri,29.8333,84.6133,peak,4,Xizang
-Lurabee Glacier,-69.25,-63.6167,glacier,4,Antarctica
-Lurë-Dejë Mountain National Park,41.7833,20.1833,park,4,Albania
-Lustrafjorden,61.2986,7.2892,coast,4,Norway
-Lyngen,69.8671,20.4373,coast,4,Norway
 Lysefjord,59.01,6.359,coast,4,Norway
 M'Goun,31.51,-6.44,peak,4,Morocco
 MacAlpine Lake,66.6667,-102.8167,lake,4,Nunavut
 MacKay Lake,63.9167,-111.0333,lake,4,Northwest Territories
-MacKinnon Glacier,-71.5333,163.2167,glacier,4,Antarctica
-Mackay Glacier,-76.9667,162.0,glacier,4,Antarctica
 Madidi National Park and Integrated Management Natural Area,-14.3333,-68.3333,park,4,Bolivia
 Magdalenefjorden,79.565,10.875,coast,4,Norway
 Mago National Park,5.6667,36.1667,park,4,Ethiopia
-Maiella,42.05,14.05,peak,4,Italy
-Maitland Glacier,-68.7167,-65.0,glacier,4,Antarctica
 Maja e Këndrevicës,40.2864,19.8489,peak,4,Albania
-Makalu Barun National Park,27.7569,87.1136,park,4,Nepal
-Malangen,69.4171,18.4273,coast,4,Norway
-Mali i Çikës,40.2,19.6167,peak,4,Albania
 Mallery Lake,63.9833,-98.3833,lake,4,Nunavut
-Malpighi Glacier,-64.2667,-62.25,glacier,4,Antarctica
-Mamostong Kangri,35.1408,77.5775,peak,4,Ladakh
-Manakau,-42.225,173.617,peak,4,New Zealand
 Manam,-4.0833,145.0333,peak,4,Papua New Guinea
 Mandioré Lake,-18.1333,-57.55,lake,4,Mato Grosso do Sul
 Manirang,31.9533,78.3667,peak,4,Himachal Pradesh
-Manna Glacier,-69.75,159.667,glacier,4,Antarctica
 Manuel Antonio National Park,9.3756,-84.1358,park,4,Costa Rica
 Manych-Gudilo,46.3167,42.8667,lake,4,Kalmyk
 Mar Menor,37.75,-0.7833,lake,4,Spain
-Margerie Glacier,58.9678,-137.176,glacier,4,Alaska
 Mariager Fjord,56.6833,10.0333,coast,4,Denmark
-Mariner Glacier,-73.25,167.5,glacier,4,Antarctica
-Markermeer,52.5667,5.2167,lake,4,Netherlands
 Marojejy National Park,-14.435,49.706,park,4,Madagascar
 Mars Glacier,-71.9,-68.3833,glacier,4,Antarctica
-Marsh Glacier,-82.8667,158.5,glacier,4,Antarctica
-Marston Glacier,-76.9,162.5,glacier,4,Antarctica
-Martin Glacier,-68.4833,-66.8833,glacier,4,Antarctica
 Masoala National Park,-15.65,50.1833,park,4,Madagascar
-Matataua Glacier,-78.1,162.05,glacier,4,Antarctica
-Mate Grande,-45.5911,-73.1308,volcano,4,Chile
-Matka Canyon,41.94,21.3,canyon,4,North Macedonia
 Matobo National Park,-20.55,28.508,park,4,Zimbabwe
-Mavrovo National Park,41.6372,20.6669,park,4,North Macedonia
 Mawhpung Bum,26.95,96.0667,peak,4,Myanmar
-Mawson Glacier,-76.217,162.083,glacier,4,Antarctica
-McArthur Glacier,-71.3333,-67.4833,glacier,4,Antarctica
 McClary Glacier,-68.0667,-67.0,glacier,4,Antarctica
-McCleary Glacier,-79.55,156.833,glacier,4,Antarctica
-McCraw Glacier,-80.1167,156.583,glacier,4,Antarctica
 McDonald Ice Rumples,-75.4667,-26.3,glacier,4,Antarctica
 McDonald Peak,47.3828,-113.919,peak,4,Montana
-McKinnon Glacier,-70.6333,67.75,glacier,4,Antarctica
-McLean Glacier,-70.9833,164.75,glacier,4,Antarctica
-McLin Glacier,-71.2,163.45,glacier,4,Antarctica
-McManus Glacier,-69.4667,-71.45,glacier,4,Antarctica
-McNeile Glacier,-63.9,-59.4333,glacier,4,Antarctica
 Medicine Lake Volcano,41.6,-121.6,volcano,4,California
-Mefjell Glacier,-71.9667,25.0,glacier,4,Antarctica
-Megdor,38.6,72.3,glacier,4,Tajikistan
 Meguro,35.632,139.702,city,4,Japan
-Meinardus Glacier,-73.3667,-61.9167,glacier,4,Antarctica
 Mela Taung,17.2,98.0833,peak,4,Myanmar
-Melungtse,27.9711,86.4375,peak,4,Xizang
-Mendeleyev Glacier,-71.9167,14.55,glacier,4,Antarctica
-Mendelssohn Inlet,-71.2833,-72.8667,coast,4,Antarctica
-Mendenhall Glacier,58.4958,-134.5322,glacier,4,Alaska
 Mercantour National Park,44.1667,7.0833,park,4,France
-Mercury Glacier,-71.5667,-68.2333,glacier,4,Antarctica
 Merowe Reservoir,18.8686,32.1056,lake,4,Sudan
-Merrick Glacier,-80.2167,158.867,glacier,4,Antarctica
 Mertz Glacier,-67.5,144.75,glacier,4,Antarctica
-Midship Glacier,-76.8667,161.5,glacier,4,Antarctica
-Migriggyangzham Co,33.4314,90.2806,lake,4,Qinghai
-Mikado Glacier,-69.8833,-70.6667,glacier,4,Antarctica
 Mikumi National Park,-7.35,37.15,park,4,Tanzania
-Milam Glacier,30.4833,80.1,glacier,4,Uttarakhand
 Milan,45.464,9.19,city,4,Italy
-Mill Glacier,-85.1667,168.5,glacier,4,Antarctica
 Mill Stream Glacier,-85.3333,171.0,glacier,4,Antarctica
 Mille Lacs Lake,46.2381,-93.6434,lake,4,Minnesota
 Miller Peak,31.4094,-110.293,peak,4,Arizona
-Millington Glacier,-84.5333,178.0,glacier,4,Antarctica
 Milne Ice Shelf,82.75,-81.9167,glacier,4,Nunavut
 Milwaukee,43.039,-87.906,city,4,Wisconsin
 Mingachevir reservoir,40.9185,46.8037,lake,4,Azerbaijan
 Minneapolis,44.98,-93.264,city,4,Minnesota
-Miravalles Volcano,10.7473,-85.1509,peak,4,Costa Rica
-Mitterling Glacier,-66.8333,-64.3,glacier,4,Antarctica
 Mizri Ghar,31.3408,70.0292,peak,4,Pakistan
-Miðfjörður,65.4044,-20.9842,coast,4,Iceland
-Mjell Glacier,-72.1167,26.1,glacier,4,Antarctica
 Mjøsa,60.6667,11.0,lake,4,Norway
-Mobiloil Inlet,-68.5833,-64.75,coast,4,Antarctica
-Moffett Glacier,-85.8667,-161.0,glacier,4,Antarctica
-Moiry Glacier,46.0783,7.5986,glacier,4,Switzerland
-Mol Len,25.4942,94.7517,peak,4,Nagaland
-Moldefjorden,62.7283,7.1094,coast,4,Norway
 Mole National Park,9.3684,-2.0935,park,4,Ghana
-Molle Glacier,-67.5167,47.1667,glacier,4,Antarctica
 Molson Lake,54.2011,-96.75,lake,4,Manitoba
 Monfragüe National Park,39.82,-5.97,park,4,Spain
 Monkh Saridag,51.7188,100.5971,peak,4,Buryat
@@ -2564,279 +1919,144 @@ Mont Forel,66.9333,-36.7833,peak,4,Greenland
 Mont Marion-Dufresne,-46.4164,52.2569,volcano,4,French Southern and Antarctic Lands
 Mont Panié,-20.5883,164.7706,peak,4,New Caledonia
 Montalto,38.1589,15.9211,peak,4,Italy
-Monte Bondone,45.9881,11.0308,peak,4,Italy
 Monte Cimone,44.1939,10.7014,peak,4,Italy
 Monte Gordo,16.6208,-24.3542,volcano,4,Republic of Cabo Verde
 Montreal Lake,54.3333,-105.667,lake,4,Saskatchewan
 Moosehead Lake,45.6333,-69.65,lake,4,Maine
 Moran Glacier,-69.2333,-70.2667,glacier,4,Antarctica
 Morelli Glacier,-72.9833,-102.633,glacier,4,Antarctica
-Morley Glacier,-71.2,162.75,glacier,4,Antarctica
-Mosby Glacier,-73.15,-61.6667,glacier,4,Antarctica
 Moscow University Ice Shelf,-67.0,121.0,glacier,4,Antarctica
 Mosquito Lake,62.6003,-103.3673,lake,4,Northwest Territories
 Mount Abuna Yosef,12.1408,39.1817,peak,4,Ethiopia
 Mount Addala-Shukhgelmeer,42.3392,46.2494,peak,4,Dagestan
 Mount Ainos,38.1167,20.6667,peak,4,Greece
-Mount Aka,35.9706,138.37,peak,4,Japan
-Mount Amukta,52.4978,-171.2547,volcano,4,Alaska
-Mount Anderson,-78.15,-86.217,peak,4,Antarctica
 Mount Arlan,39.6733,54.5433,peak,4,Turkmenistan
-Mount Augusta,60.3053,-140.4603,peak,4,Yukon
-Mount Banahaw,14.0667,121.4833,peak,4,Philippines
 Mount Bangeta,-6.3139,147.0883,peak,4,Papua New Guinea
-Mount Bear,61.2839,-141.142,peak,4,Alaska
 Mount Benum,3.8233,102.094,peak,4,Malaysia
 Mount Bintang,5.4294,100.8661,peak,4,Malaysia
 Mount Bintumani,9.225,-11.1167,peak,4,Sierra Leone
-Mount Brewster,-72.945,169.3808,peak,4,Antarctica
-Mount Bruce,-70.5333,162.5,peak,4,Antarctica
 Mount Bulusan,12.77,124.05,peak,4,Philippines
-Mount Carse,-54.7167,-36.0833,peak,4,South Georgia and the Islands
-Mount Chown,53.3969,-119.417,peak,4,Alberta
-Mount Cleveland,48.9245,-113.848,peak,4,Montana
 Mount Cronin,54.93,-126.8639,peak,4,British Columbia
 Mount Darnley,-59.0404,-26.5334,volcano,4,South Georgia and the Islands
-Mount Deborah,63.6375,-147.237,peak,4,Alaska
 Mount Discovery,-78.3667,165.0167,peak,4,Antarctica
 Mount Dyultydag,41.9594,46.9222,peak,4,Dagestan
-Mount Eddy,41.32,-122.4792,peak,4,California
-Mount Elizabeth,-83.9,168.383,peak,4,Antarctica
-Mount Ellen,38.1088,-110.814,peak,4,Utah
-Mount Fitz Roy,-49.2714,-73.0433,peak,4,Argentina
-Mount Forbes,51.8597,-116.9317,peak,4,Alberta
 Mount Frakes,-76.8,-117.7,peak,4,Antarctica
-Mount Friesland,-62.6708,-60.1863,peak,4,Antarctica
-Mount Fryatt,52.55,-117.9103,peak,4,Alberta
 Mount Garrin,33.9592,48.4817,peak,4,Iran
-Mount Giona,38.6139,22.2531,peak,4,Greece
-Mount Goodsir,51.2067,-116.4044,peak,4,British Columbia
 Mount Guna,11.7108,38.2367,peak,4,Ethiopia
 Mount Haddington,-64.2167,-57.6333,peak,4,Antarctica
 Mount Hakkyō,34.1736,135.9075,peak,4,Japan
-Mount Hector,51.575,-116.2594,peak,4,Alberta
 Mount Hikurangi,-37.919,178.061,peak,4,New Zealand
 Mount Hiuchi,36.9221,138.0672,peak,4,Japan
 Mount Hodson,-56.7,-27.15,volcano,4,
 Mount Igikpak,67.4131,-154.966,peak,4,Alaska
 Mount Inamura,33.7383,133.3722,peak,4,Japan
 Mount Irving,-61.2833,-54.1333,peak,4,Antarctica
-Mount Jarvis,62.0235,-143.6201,volcano,4,Alaska
-Mount Jefferson,38.752,-116.927,peak,4,Nevada
-Mount Joffre,50.5283,-115.2069,peak,4,British Columbia
 Mount Judge Howay,49.5069,-122.322,peak,4,British Columbia
 Mount Kadam,1.7631,34.7092,peak,4,Uganda
-Mount Kailash,31.0669,81.3128,peak,4,Xizang
 Mount Kaplan,-84.55,175.3167,peak,4,Antarctica
 Mount Kaputjugh,39.15,46.0,peak,4,Armenia
-Mount Kershaw,-67.5318,-66.9858,peak,4,Antarctica
-Mount Kisokoma,35.7894,137.8044,peak,4,Japan
 Mount Kruzenshtern,75.1758,57.826,peak,4,Arkhangel'sk
 Mount Kulal,2.7333,36.9167,peak,4,Kenya
 Mount Kyllini,37.9392,22.3967,peak,4,Greece
 Mount Labo,14.0133,122.7875,peak,4,Philippines
 Mount Lemmon,32.4431,-110.7884,peak,4,Arizona
-Mount Martha Black,60.6714,-137.6222,peak,4,Yukon
-Mount McClintock,-80.2167,157.4333,peak,4,Antarctica
 Mount Melbourne,-74.3333,164.7,peak,4,Antarctica
 Mount Miller,60.4605,-142.301,peak,4,Alaska
 Mount Mitchell,35.7648,-82.2649,peak,4,North Carolina
 Mount Moco,-12.4667,15.1833,peak,4,Angola
-Mount Moffett,51.9333,-176.742,volcano,4,Alaska
 Mount Morning,-78.5017,163.5392,peak,4,Antarctica
 Mount Moroto,2.525,34.7725,peak,4,Uganda
-Mount Murchison,-73.421,166.2983,peak,4,Antarctica
 Mount Mutis,-9.5261,124.2386,peak,4,Indonesia
 Mount Narodnaya,65.0333,60.1167,peak,4,Khanty-Mansiy
-Mount Natazhat,61.5219,-141.101,peak,4,Alaska
-Mount Neacola,60.7986,-153.394,peak,4,Alaska
 Mount Nebo,39.8214,-111.76,peak,4,Utah
-Mount Nemërçkë,40.1333,20.4,peak,4,Albania
 Mount Nirvana,61.8747,-127.68,peak,4,Northwest Territories
-Mount Nishiazuma,37.7381,140.1406,volcano,4,Japan
 Mount Nyangani,-18.3111,32.8506,peak,4,Zimbabwe
 Mount Olympus,34.9367,32.8639,peak,4,Cyprus
-Mount Ossa,39.8,22.7,peak,4,Greece
 Mount Ossa,-41.871,146.0333,peak,4,Tasmania
-Mount Pandim,27.5775,88.2158,peak,4,Sikkim
-Mount Paris,-68.9656,-70.8663,peak,4,Antarctica
-Mount Peale,38.4383,-109.2292,peak,4,Utah
 Mount Perseus,52.3542,-120.533,peak,4,British Columbia
 Mount Priestley,55.2294,-128.872,peak,4,British Columbia
 Mount Prindle,65.4608,-146.4756,peak,4,Alaska
 Mount Rumput,1.7167,109.6667,peak,4,Malaysia
 Mount Rushmore / Black Hills,43.879,-103.459,landmark,4,South Dakota
-Mount Russell,62.7989,-151.882,peak,4,Alaska
 Mount San Antonio,34.2889,-117.647,peak,4,California
-Mount Seattle,60.0883,-139.1986,peak,4,Alaska
 Mount Seguam,52.315,-172.51,volcano,4,Alaska
-Mount Shani,42.6758,44.7575,peak,4,Ingush
 Mount Shungol,-6.8633,146.716,peak,4,Papua New Guinea
 Mount Simpson,-10.0345,149.563,peak,4,Papua New Guinea
-Mount Steller,60.5203,-143.091,peak,4,Alaska
 Mount Stuart,47.4753,-120.901,peak,4,Washington
-Mount Supernal,-73.0667,165.7,peak,4,Antarctica
 Mount Sylvia,58.0817,-124.4689,peak,4,British Columbia
 Mount Tabwemasana,-15.35,166.75,peak,4,Vanuatu
 Mount Temehani,-16.828,-151.452,volcano,4,French Polynesia
-Mount Thomlinson,55.5439,-127.4864,peak,4,British Columbia
-Mount Tianzhu,30.1167,116.0833,peak,4,Anhui
-Mount Timpanogos,40.3908,-111.6459,peak,4,Utah
 Mount Tod,50.9167,-119.941,peak,4,British Columbia
 Mount Tsurugi,33.8536,134.0942,peak,4,Japan
-Mount Verne,-67.7451,-67.5524,peak,4,Antarctica
 Mount Veve,-7.95,157.075,peak,4,Solomon Islands
 "Mount Victoria, Palawan",9.365,118.3342,peak,4,Philippines
-Mount Walsh,61.0,-140.017,peak,4,Yukon
 Mount Welel,8.8775,34.8117,peak,4,Ethiopia
 Mount Yong Belar,4.6506,101.3608,peak,4,Malaysia
 Mousa Ali,12.4708,42.405,peak,4,Djibouti
 Muddus National Park,66.9163,20.1973,park,4,Sweden
-Mudumalai National Park,11.6,76.5,park,4,Tamil Nadu
-Mueller Glacier,-43.747,170.02,glacier,4,New Zealand
 Muir Glacier,59.2059,-136.4445,glacier,4,Alaska
-Muller Ice Shelf,-67.25,-66.8667,glacier,4,Antarctica
-Mulock Glacier,-79.0,160.0,glacier,4,Antarctica
 Mundafan,18.56,45.34,lake,4,Saudi Arabia
 Murphy Glacier,-66.9739,-66.1483,glacier,4,Antarctica
 Murray Glacier,-71.65,170.0,glacier,4,Antarctica
-Mururata,-16.5306,-67.8275,peak,4,Bolivia
-Mus-Khaya,62.5833,140.9,peak,4,Sakha (Yakutia)
 Mushketov Glacier,-71.3333,14.9167,glacier,4,Antarctica
-Muzat I,42.0378,80.5042,peak,4,Xinjiang
-Muztagh Tower,35.8283,76.3608,peak,4,Pakistan
-Myers Glacier,-72.2667,-100.117,glacier,4,Antarctica
 Myinmoletkat Taung,13.4667,98.8,peak,4,Myanmar
-Mölltaler Polinik,46.895,13.1582,peak,4,Austria
 Möng Ling Shan,23.3333,98.8833,peak,4,Yunnan
 Mönkh Khairkhan,46.89,91.4733,peak,4,Mongolia
-Nabesna Glacier,61.9333,-143.0906,glacier,4,Alaska
 Nagarhole National Park,12.06,76.1511,park,4,Karnataka
-Nahuel Huapi Lake,-41.0903,-71.3356,lake,4,Argentina
-Nahuel Huapi National Park,-41.0037,-71.5015,park,4,Argentina
 Naknek Lake,58.6364,-155.9408,lake,4,Alaska
 Nambung National Park,-30.5761,115.17,park,4,Western Australia
 Namib-Naukluft National Park,-24.5464,15.3297,park,4,Namibia
-Namsenfjorden,64.5402,11.1209,coast,4,Norway
-Nanda Devi National Park,30.4186,79.8497,park,4,Uttarakhand
-Nanda Kot,30.2817,80.0683,peak,4,Uttarakhand
 Nansen Ice Sheet,-74.8833,163.167,glacier,4,Antarctica
-Nantucket Inlet,-74.5833,-61.75,coast,4,Antarctica
 Napaktulik Lake,66.3333,-113.0,lake,4,Nunavut
 Naracoorte Caves National Park,-37.0361,140.7967,park,4,South Australia
-Narechen Glacier,-69.575,-71.6722,glacier,4,Antarctica
-Nash Glacier,-71.25,168.1667,glacier,4,Antarctica
 Nashville,36.166,-86.784,city,4,Tennessee
 National Park of American Samoa,-14.2583,-170.6833,park,4,American Samoa
 Nattaung,18.8167,97.0333,peak,4,Myanmar
 Nechako Reservoir,53.75,-126.003,lake,4,British Columbia
-Nechisar National Park,6.0333,37.5833,park,4,Ethiopia
 Nelson Lakes National Park,-42.042,172.608,park,4,New Zealand
-Nemesis Glacier,-70.5333,67.5,glacier,4,Antarctica
 Nenang,30.3033,93.651,peak,4,Xizang
-Neny Fjord,-68.2667,-66.8333,coast,4,Antarctica
-Neny Glacier,-68.25,-66.4167,glacier,4,Antarctica
-Neptune Glacier,-71.7333,-68.2833,glacier,4,Antarctica
 Nerpichye Lake,56.3697,162.6253,lake,4,Kamchatka
-Neumayer Glacier,-54.25,-36.6833,glacier,4,South Georgia and the Islands
-Nevado Queva,-24.3075,-66.7333,peak,4,Argentina
-Nevado del Plomo,-33.1033,-70.066,peak,4,Argentina
-New Forest,50.8631,-1.6181,park,4,UK
 New Orleans,29.955,-90.075,city,4,Louisiana
-Newcomer Glacier,-77.7833,-85.45,glacier,4,Antarctica
-Newtontoppen,79.0106,17.4908,peak,4,Norway
 Ng'iro,2.1917,36.8158,peak,4,Kenya
 Ngoring Lake,34.9,97.7,lake,4,Qinghai
 Niepce Glacier,-65.1167,-63.3667,glacier,4,Antarctica
-Nils Larsen Glacier,-68.7333,-90.65,glacier,4,Antarctica
-Nimitz Glacier,-78.9167,-85.1667,glacier,4,Antarctica
 Nimrod Glacier,-81.35,163.0,glacier,4,Antarctica
 Ninnis Glacier,-68.3333,147.5,glacier,4,Antarctica
-Nipe Glacier,-71.8667,25.25,glacier,4,Antarctica
-Nishi-naga-iwa Glacier,-68.5167,41.3,glacier,4,Antarctica
 Nissum Fjord,56.3573,8.1759,coast,4,Denmark
-Nobile Glacier,-64.5333,-61.4667,glacier,4,Antarctica
-Norddalsfjorden,62.2779,7.2234,coast,4,Norway
-Nordenskiöld Glacier,78.6667,17.1667,glacier,4,Norway
-Nordenskjöld Glacier,-54.3667,-36.3667,glacier,4,South Georgia and the Islands
-Nordfjord,61.8963,5.7092,coast,4,Norway
 Nordvestfjord,71.6667,-27.2833,coast,4,Greenland
-Nordåsvannet,60.3223,5.3137,coast,4,Norway
 Norfolk Glacier,-85.8833,-130.3,glacier,4,Antarctica
-Norsk Polarinstitutt Glacier,-72.5667,31.2667,glacier,4,Antarctica
 North Caribou Lake,52.799,-90.739,lake,4,Ontario
-North Cascades National Park,48.4831,-120.9114,park,4,Washington
 North Schell Peak,39.4132,-114.5997,peak,4,Nevada
-Northcliffe Glacier,-66.6667,98.8667,glacier,4,Antarctica
-Northeast Glacier,-68.15,-66.9667,glacier,4,Antarctica
 Northern Velebit National Park,44.6931,15.0069,park,4,Croatia
 Norton Sound,63.8492,-164.2689,coast,4,United States
 Norway Glacier,-86.5,-164.0,glacier,4,Antarctica
-Norðurfjörður,66.0508,-21.5653,coast,4,Iceland
 Nuup Kangerlua,64.5,-51.3833,coast,4,Greenland
-Nyegyi Kansang,27.9367,92.6667,peak,4,Xizang
 Nyungwe Forest,-2.5282,29.2758,park,4,Rwanda
-Oberst Glacier,-72.05,27.0667,glacier,4,Antarctica
 Obuyi Lake,59.089,-97.0697,lake,4,Manitoba
-Ochs Glacier,-76.5,-145.583,glacier,4,Antarctica
-Odell Glacier,-76.7333,159.917,glacier,4,Antarctica
 Odense Fjord,55.4833,10.5167,coast,4,Denmark
 Odzala National Park,0.8,14.9,park,4,Republic of the Congo
 Ofotfjorden,68.4292,16.4827,coast,4,Norway
 Okanagan Lake,49.85,-119.55,lake,4,British Columbia
 Okstindbreen,65.9872,14.1478,glacier,4,Norway
-Oku-iwa Glacier,-68.7,40.7667,glacier,4,Antarctica
-Olson Glacier,-72.8167,166.6833,glacier,4,Antarctica
-Omega Glacier,-68.6167,41.0167,glacier,4,Antarctica
 Omo National Park,6.0,35.8333,park,4,Ethiopia
-Ootsa Lake,53.7797,-126.1367,lake,4,British Columbia
-Ordesa y Monte Perdido National Park,42.6717,0.0556,park,4,Spain
 Orel,53.4656,139.7264,lake,4,Khabarovsk
-Orr Glacier,-71.6,162.8667,glacier,4,Antarctica
-Ortler,46.5089,10.545,peak,4,Italy
-Osicki Glacier,-84.6833,170.75,glacier,4,Antarctica
-Osuga Glacier,-72.5667,166.9167,glacier,4,Antarctica
-Osum Canyon,40.47,20.255,canyon,4,Albania
-Otago Glacier,-82.5333,161.1667,glacier,4,Antarctica
 Oulujärvi,64.3091,27.2681,lake,4,Finland
 Oxford Lake,54.8333,-95.5833,lake,4,Manitoba
-Paklenica,44.4436,15.2902,park,4,Croatia
-Palestrina Glacier,-69.35,-71.5833,glacier,4,Antarctica
 Palo Duro Canyon,34.95,-101.667,canyon,4,Texas
-Pamir National Park,38.7412,72.1198,park,4,Tajikistan
-Panchachuli,30.2142,80.4275,peak,4,Uttarakhand
-Panega Glacier,-62.5403,-60.1136,glacier,4,Antarctica
 Pangaion,40.8992,24.0836,peak,4,Greece
-Pangong Tso,33.7047,78.75,lake,4,Ladakh
-Pangpoche,28.6225,84.6775,peak,4,China
 Pankisi Gorge,42.1167,45.2667,canyon,4,Georgia
 Paoay Lake National Park,18.1203,120.54,lake,4,Philippines
 Paparoa National Park,-42.0833,171.5,park,4,New Zealand
-Parizhskaya Kommuna Glacier,-71.6333,12.0667,glacier,4,Antarctica
-Parker Glacier,-73.7833,165.55,glacier,4,Antarctica
-Parks Glacier,-77.1167,-125.917,glacier,4,Antarctica
 Pastra Glacier,-63.7667,-60.7333,glacier,4,Antarctica
-Patagonian Ice Sheet,-47.0,-73.0,glacier,4,Chile
-Paternostro Glacier,-69.4,158.617,glacier,4,Antarctica
 Patkhor Peak,37.8884,72.1877,peak,4,Tajikistan
-Pavlak Glacier,-82.9667,163.2,glacier,4,Antarctica
-Peak 5859,38.2675,72.7133,peak,4,Tajikistan
-Peak Ozodi,39.0559,72.0117,peak,4,Tajikistan
 Peale Inlet,-72.0167,-98.9667,coast,4,Antarctica
-Pearl Harbor Glacier,-72.25,167.6667,glacier,4,Antarctica
 Peckham Glacier,-80.35,157.4167,glacier,4,Antarctica
 Peleaga,45.3661,22.8944,peak,4,Romania
-Penck Glacier,-77.95,-34.7,glacier,4,Antarctica
 Pendjari National Park,11.05,1.5167,park,4,Benin
 Peneda-Gerês National Park,41.85,-8.25,park,4,Portugal
-Perez Glacier,-84.1,177.0,glacier,4,Antarctica
 Periyar National Park,9.5775,77.18,park,4,Kerala
-Perunika Glacier,-62.6125,-60.2633,glacier,4,Antarctica
 Peter Glacier,-73.3333,-1.15,glacier,4,Antarctica
-Peter Pond Lake,56.0092,-108.8692,lake,4,Saskatchewan
 Petermann Glacier,80.75,-60.75,glacier,4,Greenland
-Pettus Glacier,-63.8,-59.0667,glacier,4,Antarctica
-Peyto Glacier,51.6781,-116.547,glacier,4,Alberta
 Philippi Glacier,-66.75,88.3333,glacier,4,Antarctica
 Phnom Aural,12.0319,104.1706,peak,4,Cambodia
 Phoenix,33.448,-112.074,city,4,Arizona
@@ -2849,455 +2069,211 @@ Piché Lake,55.0367,-111.6022,lake,4,Alberta
 Pico Almanzor,40.2467,-5.2978,peak,4,Spain
 Pico Ruivo,32.7587,-16.9423,peak,4,Portugal
 Pico Turquino,19.9894,-76.8358,peak,4,Cuba
-Picos de Europa,43.2,-4.85,range,4,Spain
 Picó Bernat,42.0464,0.7901,peak,4,Spain
 Pielinen,63.251,29.6994,lake,4,Finland
 Pieljekaise National Park,66.3543,16.7683,park,4,Sweden
 Pihlajavesi,61.6808,28.6765,lake,4,Finland
-Pik Agasis,39.0167,71.5,peak,4,Tajikistan
 Pik Lyavirdyr,37.5635,75.1615,peak,4,Xinjiang
 Pik Sovetskikh Ofitserov,38.4239,73.3016,peak,4,Tajikistan
-Pik Tandykul,39.4483,71.0833,peak,4,Tajikistan
 Pilot Glacier,-73.3833,165.05,glacier,4,Antarctica
-Pilot Peak,41.0211,-114.077,peak,4,Nevada
 Pindus National Park,39.9,21.1167,park,4,Greece
 Pinehouse Lake,55.5333,-106.583,lake,4,Saskatchewan
 Pinnacles National Park,36.4869,-121.167,park,4,California
-Pitkevitch Glacier,-71.3833,168.8667,glacier,4,Antarctica
 Pittsburgh,40.441,-79.996,city,4,Pennsylvania
-Piz Kesch,46.6213,9.8726,peak,4,Switzerland
-Pizzo Coca,46.0714,10.0115,peak,4,Italy
-Plaine Morte Glacier,46.3798,7.5166,glacier,4,Switzerland
 Playgreen Lake,53.8667,-98.0833,lake,4,Manitoba
-Plummer Glacier,-79.9667,-81.5,glacier,4,Antarctica
-Pluto Glacier,-71.1167,-68.3667,glacier,4,Antarctica
 Podyjí National Park,48.8478,15.8972,park,4,Czech Republic
 Point Lake,65.2503,-113.068,lake,4,Northwest Territories
-Pointe Percée,45.9556,6.5561,peak,4,France
-Polar Record Glacier,-69.75,75.5,glacier,4,Antarctica
-Polar Times Glacier,-69.7667,74.5833,glacier,4,Antarctica
-Pollard Glacier,-65.8167,-64.2167,glacier,4,Antarctica
 Pollino,39.9,16.2167,peak,4,Italy
-Pollino National Park,39.9311,16.1261,park,4,Italy
 Poloniny National Park,49.0714,22.5336,park,4,Slovakia
-Pool Malebo,-4.2819,15.4886,lake,4,Democratic Republic of the Congo
-Porsanger Fjord,70.6333,25.6167,coast,4,Norway
 Port-Cros National Park,43.0042,6.3953,park,4,France
 Porta Westfalica,52.244,8.9196,canyon,4,Germany
 Portage Glacier,60.7531,-148.7856,glacier,4,Alaska
 Portnyagino Lake,74.15,107.1111,lake,4,Krasnoyarsk
-Posadowsky Glacier,-66.8333,89.4167,glacier,4,Antarctica
 Pothigai Hill,8.6167,77.2463,peak,4,Tamil Nadu
-Potter Glacier,-78.3833,162.2,glacier,4,Antarctica
 Poulter Glacier,-86.8333,-153.5,glacier,4,Antarctica
-Presanella,46.22,10.6639,peak,4,Italy
 Presidente Ríos Lake,-46.4667,-74.4167,lake,4,Chile
-Prespa Glacier,-62.7267,-60.2117,glacier,4,Antarctica
-Priestley Glacier,-74.3333,163.3667,glacier,4,Antarctica
-Primrose Lake,54.7875,-110.0325,lake,4,Alberta
 Prince Edward Glacier,-82.7667,159.533,glacier,4,Antarctica
-Prince Gustav Ice Shelf,-64.25,-58.5,glacier,4,Antarctica
-Prince of Wales Glacier,-82.7333,160.167,glacier,4,Antarctica
-Princess Anne Glacier,-82.9833,159.333,glacier,4,Antarctica
-Princess Mary Lake,63.95,-97.65,lake,4,Nunavut
-Prospect Glacier,-69.5333,-67.3333,glacier,4,Antarctica
 Providence,41.824,-71.413,city,4,Rhode Island
 Pryor Glacier,-70.0833,160.1667,glacier,4,Antarctica
-Publications Ice Shelf,-69.6333,75.3333,glacier,4,Antarctica
-Puddefjorden,60.3919,5.3002,coast,4,Norway
 Pudong,31.24,121.501,city,4,Shanghai
 Pukeashun Mountain,51.2047,-119.235,peak,4,British Columbia
 Pulicat Lake,13.5658,80.1747,lake,4,Andhra Pradesh
-Punchbowl Glacier,-65.1833,-61.95,glacier,4,Antarctica
 Punta La Marmora,39.9881,9.3242,peak,4,Italy
-Puruvesi,61.8333,29.45,lake,4,Finland
-Puu Kukui,20.8906,-156.586,peak,4,Hawaii
 Puula,61.8101,26.6938,lake,4,Finland
 Puxi,31.244,121.466,city,4,Shanghai
 Pyaozero,66.0833,30.9667,lake,4,Karelia
 Pyasino,69.67,87.86,lake,4,Krasnoyarsk
-Pyhäselkä,62.4667,29.7667,lake,4,Finland
 Pyramid Lake,40.0333,-119.5667,lake,4,Nevada
 Pyrénées National Park,42.8275,-0.1758,park,4,France
 Qamanirjuaq Lake,62.9833,-96.5667,lake,4,Nunavut
-Qiajivik Mountain,72.1802,-75.927,peak,4,Nunavut
 Qiandao Lake,29.6092,118.99,lake,4,Zhejiang
 Quar Ice Shelf,-71.3333,-11.0,glacier,4,Antarctica
-Quartermain Glacier,-67.0167,-65.15,glacier,4,Antarctica
-Quelccaya Ice Cap,-13.925,-70.8175,glacier,4,Peru
 Quissama National Park,-9.75,13.5833,park,4,Angola
-Quito Glacier,-62.45,-59.7833,glacier,4,Antarctica
 Quttinirpaaq National Park,82.2167,-72.2167,park,4,Nunavut
-Ragotzkie Glacier,-80.0333,157.75,glacier,4,Antarctica
 Rainy Lake,48.6369,-93.0314,lake,4,Ontario
 Rakiura National Park,-46.976,167.814,park,4,New Zealand
-Rakuda Glacier,-68.05,43.9,glacier,4,Antarctica
 Ramat Gan,32.082,34.811,city,4,Israel
 Rameau Inlet,-71.7667,-75.2167,coast,4,Antarctica
 Ramsey Glacier,-84.4,179.333,glacier,4,Antarctica
-Ranco Lake,-40.2475,-72.3853,lake,4,Chile
-Ranfjord,66.2381,13.5983,coast,4,Norway
 Ranomafana National Park,-21.22,47.43,park,4,Madagascar
 Ranthambore National Park,26.0173,76.5026,park,4,Rajasthan
-Ranvik Glacier,-69.1667,77.6667,glacier,4,Antarctica
 Rao Co,18.15,105.5833,peak,4,Vietnam
 Rapa Nui National Park,-27.0729,-109.3486,park,4,Chile
 Ras Muhammad National Park,27.7694,34.2097,park,4,Egypt
-Raudfjorden,79.6667,12.0,coast,4,Norway
-Raunefjorden,60.2667,5.15,coast,4,Norway
-Rawa Gelam Lake,-6.2026,106.9127,lake,4,Indonesia
-Rayner Glacier,-67.6667,48.4167,glacier,4,Antarctica
 Recovery Glacier,-81.1667,-28.0,glacier,4,Antarctica
 Redwood National Park,41.5292,-124.0583,park,4,California
 Reedy Glacier,-85.5,-134.0,glacier,4,Antarctica
-Reeves Glacier,-74.75,162.25,glacier,4,Antarctica
-Reiek,23.678,92.603,peak,4,Mizoram
-Reisafjorden,69.9238,21.1094,coast,4,Norway
-Remus Glacier,-68.3333,-66.7167,glacier,4,Antarctica
-Renard Glacier,-64.6667,-61.6333,glacier,4,Antarctica
-Rennell Glacier,-79.3833,-84.2,glacier,4,Antarctica
 Rennick Glacier,-70.5,160.75,glacier,4,Antarctica
-Reo Purgyil,31.8844,78.7353,peak,4,Xizang
-Repeater Glacier,-77.4667,162.85,glacier,4,Antarctica
 Repparfjorden,70.4997,24.1905,coast,4,Norway
-Retezat National Park,45.3333,22.8333,park,4,Romania
-Rettenbach glacier,46.9431,10.9298,glacier,4,Austria
 Reynolds Glacier,-77.6333,-145.917,glacier,4,Antarctica
 Reyðarfjörður,65.0209,-13.9325,coast,4,Iceland
-Rhesus Glacier,-64.5264,-63.2833,glacier,4,Antarctica
 Rhine Glacier,48.0867,9.2164,glacier,4,Germany
 Rhine Gorge,50.1,7.7,canyon,4,Germany
 Richter Glacier,-77.1667,-155.417,glacier,4,Antarctica
-Ried Glacier,46.1308,7.8578,glacier,4,Switzerland
-Rignot Glacier,-73.1,-102.0,glacier,4,Antarctica
 Riley Glacier,-70.05,-68.3333,glacier,4,Antarctica
-Rim Glacier,-77.2167,160.4167,glacier,4,Antarctica
-Ringkøbing Fjord,56.0,8.25,coast,4,Denmark
-Rippon Glacier,-66.6667,56.4833,glacier,4,Antarctica
-Risco Plateado,-34.9183,-69.9942,peak,4,Argentina
 Risnjak National Park,45.431,14.651,park,4,Croatia
-Robb Glacier,-82.6333,165.0,glacier,4,Antarctica
-Robert Glacier,-67.1667,56.3,glacier,4,Antarctica
-Roe Glacier,-85.6,-151.433,glacier,4,Antarctica
-Rogaguado Lake,-13.035,-65.9422,lake,4,Bolivia
-Rogstad Glacier,-72.35,1.3167,glacier,4,Antarctica
 Roman-Kosh,44.6128,34.2422,peak,4,Crimea
-Romarheimsfjorden,60.7221,5.6477,coast,4,Norway
-Rombaken,68.4592,17.5782,coast,4,Norway
-Romsdalsfjord,62.6523,7.2615,coast,4,Norway
-Romulus Glacier,-68.3833,-66.9167,glacier,4,Antarctica
 Rondane National Park,61.8333,9.8333,park,4,Norway
-Rosfjorden,58.077,7.0026,coast,4,Norway
-Roskilde Fjord,55.7109,12.0535,coast,4,Denmark
-Rotz Glacier,-69.2833,-65.7167,glacier,4,Antarctica
-Rouvas Municipal Unit,35.1333,24.9333,canyon,4,Greece
-Royal National Park,-34.1317,151.0511,park,4,New South Wales
 Ruaha National Park,-7.5311,34.6369,park,4,Tanzania
-Rudolph Glacier,-64.9,-62.4333,glacier,4,Antarctica
 Rugged Mountain,50.0323,-126.695,peak,4,British Columbia
 Ruinaulta,46.8081,9.3149,canyon,4,Switzerland
-Rumija,42.1029,19.1937,peak,4,Montenegro
-Rumyana Glacier,-78.2667,-85.8333,glacier,4,Antarctica
-Russell East Glacier,-63.7333,-58.3333,glacier,4,Antarctica
-Russell Fiord,59.8011,-139.3242,coast,4,Alaska
-Russell West Glacier,-63.6667,-58.8333,glacier,4,Antarctica
 Rutford Ice Stream,-79.0,-81.0,glacier,4,Antarctica
-Ryder Glacier,-71.1167,-67.3333,glacier,4,Antarctica
 Réservoir aux Outardes 4,50.1922,-69.2267,lake,4,Québec
-Réunion National Park,-21.15,55.5,park,4,France
 Rāzna National Park,56.2667,27.5,park,4,Latvia
 Sabine Lake,29.875,-93.8475,lake,4,Louisiana
-Sacajawea Peak,45.245,-117.2925,peak,4,Oregon
 Sahand,37.73,46.5,peak,4,Iran
 Sahuasiray,-13.2133,-71.99,peak,4,Peru
 Saint Lawrence River,46.8,-71.2,coast,4,Québec
 Saint Petersburg,59.939,30.314,city,4,City of St. Petersburg
 Saipal,29.8908,81.495,peak,4,Nepal
-Sal Glacier,-72.05,25.5167,glacier,4,Antarctica
 Saloum Delta National Park,13.8057,-16.7572,park,4,Senegal
-Saltfjorden,67.255,14.5167,coast,4,Norway
 Salto Grande reservoir,-30.9167,-57.9167,lake,4,Argentina
-Saltzman Glacier,-78.65,-84.85,glacier,4,Antarctica
-Samnangerfjorden,60.3167,5.6333,coast,4,Norway
 San Antonio,29.424,-98.494,city,4,Texas
 San Diego,32.716,-117.165,city,4,California
 San Martín Glacier,-82.4,-42.2333,glacier,4,Antarctica
-San Quintín Glacier,-46.7972,-74.0678,glacier,4,Chile
-San Rafael Glacier,-46.7,-73.8333,glacier,4,Chile
-Sandhøhallet Glacier,-71.8667,9.8333,glacier,4,Antarctica
 Sandsfjord,59.4604,6.2151,coast,4,Norway
 Sandy Lake,52.9667,-93.5833,lake,4,Ontario
 Sangpang Bum,26.4833,95.85,peak,4,Myanmar
-Saraghrar,36.5475,72.1167,peak,4,Pakistan
-Sarakina Gorge,35.0508,25.5748,canyon,4,Greece
 Sardinia coast (Costa Smeralda),41.1,9.55,coast,4,Italy
 Sarek National Park,67.2883,17.6691,park,4,Sweden
-Sarektjåkkå,67.4314,17.7214,peak,4,Sweden
-Sassenfjorden,78.4207,15.9192,coast,4,Norway
-Saturn Glacier,-72.0,-68.5833,glacier,4,Antarctica
-Saudafjorden,59.6238,6.3113,coast,4,Norway
-Sautso,69.7577,23.7242,canyon,4,Norway
-Saxon Switzerland National Park,50.9142,14.2784,park,4,Germany
 Sayram Lake,44.5981,81.1647,lake,4,Xinjiang
-Scambos Glacier,-77.7333,-149.417,glacier,4,Antarctica
-Scar Inlet,-65.9333,-61.8667,coast,4,Antarctica
-Schlatter Glacier,-77.6833,161.45,glacier,4,Antarctica
-Schneider Glacier,-79.4833,-84.2833,glacier,4,Antarctica
-Schubert Inlet,-70.8667,-70.9167,coast,4,Antarctica
-Schutt Glacier,-78.2667,161.517,glacier,4,Antarctica
-Schweitzer Glacier,-77.8333,-34.6667,glacier,4,Antarctica
 Schytt Glacier,-71.5833,-3.6667,glacier,4,Antarctica
 Scott Glacier,-85.75,-153.0,glacier,4,Antarctica
-Scott Glacier,-66.0125,100.1436,glacier,4,Antarctica
-Scott Keltie Glacier,-71.5333,169.8167,glacier,4,Antarctica
-Scylla Glacier,-70.3333,67.0,glacier,4,Antarctica
-Seafarer Glacier,-72.9,166.5667,glacier,4,Antarctica
 Sebkha Sidi El Hani,35.5685,10.4299,lake,4,Tunisia
 Sebkha d'Oran,35.5333,-0.8,lake,4,Algeria
-Sedgwick Glacier,-69.85,-69.3667,glacier,4,Antarctica
 Sedona red rocks,34.87,-111.76,feature,4,Arizona
 Segozero,63.3,33.75,lake,4,Karelia
-Selbjørnsfjorden,59.9492,5.1306,coast,4,Norway
 Selja Gorges,34.3617,8.3449,canyon,4,Tunisia
-Seller Glacier,-69.3167,-66.4,glacier,4,Antarctica
 Selwyn Lake,59.8894,-104.8732,lake,4,Saskatchewan
 Sendai,38.267,140.867,city,4,Japan
-Sennet Glacier,-80.2,158.7,glacier,4,Antarctica
 Sepphoris,32.7531,35.2792,park,4,Israel
-Sermilik,66.0,-37.8667,coast,4,Greenland
 Serra Imeri,0.4908,-65.3333,peak,4,Amazonas
 Serra de Santa Bárbara,38.7333,-27.3167,volcano,4,Portugal
-Sessums Glacier,-72.0,-100.55,glacier,4,Antarctica
 Sevier Lake,38.9389,-113.1619,lake,4,Utah
 Seweweekspoortpiek,-33.3828,21.3589,peak,4,South Africa
 Shabica Glacier,-70.35,-62.75,glacier,4,Antarctica
-Shah Dhar,36.6717,72.2317,peak,4,Pakistan
 Shaiyb al-Banat,26.9797,33.4864,peak,4,Egypt
-Shambles Glacier,-67.3333,-68.2167,glacier,4,Antarctica
 Sharktooth Mountain,58.5875,-127.9622,peak,4,British Columbia
-Shayaz,36.6483,72.8283,peak,4,Pakistan
-She Devil,45.3247,-116.5411,peak,4,Idaho
-Shebenik National Park,41.2226,20.45,park,4,Albania
 Shedin Peak,55.9392,-127.48,peak,4,British Columbia
-Sheehan Glacier,-70.9333,162.4,glacier,4,Antarctica
-Sheldon Glacier,-67.5,-68.3833,glacier,4,Antarctica
-Shell Glacier,-77.2667,166.417,glacier,4,Antarctica
 Shenandoah National Park,38.5333,-78.35,park,4,Virginia
 Shibuya,35.659,139.707,city,4,Japan
-Shingu Charpa,35.3539,76.4417,peak,4,Pakistan
 Shinnan Glacier,-67.9167,44.6333,glacier,4,Antarctica
-Shipley Glacier,-71.4333,169.2,glacier,4,Antarctica
 Shirase Glacier,-70.0833,38.75,glacier,4,Antarctica
 Shirvan National Park,39.5475,49.0156,park,4,Azerbaijan
 Shivasagar lake,17.4083,73.7597,lake,4,Maharashtra
-Shoemaker Glacier,-73.7833,164.75,glacier,4,Antarctica
-Shoesmith Glacier,-67.85,-67.2,glacier,4,Antarctica
-Shuman Glacier,-75.25,-139.5,glacier,4,Antarctica
-Shuswap Lake,51.0007,-119.0126,lake,4,British Columbia
-Sibelius Glacier,-69.9167,-70.0833,glacier,4,Antarctica
 Sibiloi National Park,3.9606,36.3425,park,4,Kenya
-Sickle Moon Peak,33.6025,76.1317,peak,4,Jammu and Kashmir
 Sierra Blanca Peak,33.3742,-105.8094,peak,4,New Mexico
-Sierra Gomas,26.301,-100.4676,peak,4,Nuevo León
 Sierra La Madera,27.0125,-102.3878,peak,4,Coahuila
-Sierra de Minas Viejas,26.0833,-100.4667,peak,4,Nuevo León
 Sierra de las Quijadas National Park,-32.5508,-67.0642,park,4,Argentina
-Sierra del Fraile,25.8986,-100.4764,peak,4,Nuevo León
-Sigmen Glacier,-64.0167,-61.9333,glacier,4,Antarctica
-Sigyn Glacier,-71.8667,8.6,glacier,4,Antarctica
-Sikorski Glacier,-71.8167,-98.4,glacier,4,Antarctica
 Sila National Park,39.3761,16.5919,park,4,Italy
 Siletiteniz,53.3397,73.1667,lake,4,Kazakhstan
 Silisili,-13.6183,-172.4858,peak,4,Samoa
 Silk Glacier,-81.15,158.917,glacier,4,Antarctica
 Silvertip Mountain,49.16,-121.218,peak,4,British Columbia
-Silvretta Glacier,46.8517,10.0772,glacier,4,Switzerland
-Singapore Strait,1.25,103.8,coast,4,Singapore
-Sipiwesk Lake,55.0883,-97.5753,lake,4,Manitoba
 Siple Dome,-81.6667,-148.8333,glacier,4,Antarctica
 Siq,30.323,35.4565,canyon,4,Jordan
-Sjogren Glacier,-64.2333,-59.0,glacier,4,Antarctica
-Skaftafellsjökull,64.0602,-16.8771,glacier,4,Iceland
 Skagafjörður,65.9385,-19.6779,coast,4,Iceland
-Skallen Glacier,-69.6667,39.55,glacier,4,Antarctica
-Skarnsund,63.8583,11.0617,coast,4,Norway
-Skarsbrotet Glacier,-71.8333,11.75,glacier,4,Antarctica
-Skarskvervet Glacier,-71.75,11.5,glacier,4,Antarctica
-Skeiðarárjökull,64.0619,-17.2467,glacier,4,Iceland
-Skerjafjörður,64.1146,-21.9541,coast,4,Iceland
-Skjomen,68.3039,17.2912,coast,4,Norway
-Skutulsfjörður,66.0777,-23.1046,coast,4,Iceland
-Skálafjørður,62.1443,-6.7429,coast,4,Faeroe Islands
 Slava Ice Shelf,-68.8167,154.733,glacier,4,Antarctica
-Sledgers Glacier,-71.4333,162.8,glacier,4,Antarctica
 Sleeping Bear Dunes,44.88,-86.05,desert,4,Michigan
 Slessor Glacier,-79.8333,-28.5,glacier,4,Antarctica
-Sloket Glacier,-71.9833,4.9,glacier,4,Antarctica
 Slovak Karst National Park,48.579,20.544,park,4,Slovakia
-Slovak Paradise National Park,48.9083,20.4,park,4,Slovakia
 Slītere National Park,57.6242,22.2944,park,4,Latvia
-Smith Glacier,-75.0833,-112.0,glacier,4,Antarctica
-Smithson Glacier,-71.25,163.8667,glacier,4,Antarctica
-Smolikas,40.0897,20.9261,peak,4,Greece
 Snedeker Glacier,-66.4667,106.8,glacier,4,Antarctica
 Snowbird Lake,60.6667,-103.0,lake,4,Northwest Territories
 Snowdonia,53.068,-4.076,range,4,UK
-Snowshoe Peak,48.2231,-115.6894,peak,4,Montana
-Snuggerud Glacier,-72.1167,7.8667,glacier,4,Antarctica
-Snøhetta,62.32,9.2683,peak,4,Norway
-Solbergfjorden,69.1401,17.6599,coast,4,Norway
 Sonfjället National Park,62.2775,13.5517,park,4,Sweden
 Songhua Lake,43.5317,126.9269,lake,4,Jilin
-Sorgfjorden,79.9,16.7667,coast,4,Norway
 Souapiti Reservoir,10.424,-13.253,lake,4,Guinea
 Souchez Glacier,-86.2833,-154.0,glacier,4,Antarctica
-South America Glacier,-77.8167,161.7833,glacier,4,Antarctica
 South Henik Lake,61.5,-97.3333,lake,4,Nunavut
 South Luangwa National Park,-13.0,31.5,park,4,Zambia
 Soviet Constitution Peak,42.036,78.908,peak,4,Kyrgyzstan
-Spegazzini Glacier,-50.25,-73.38,glacier,4,Chile
-Splettstoesser Glacier,-79.2,-84.15,glacier,4,Antarctica
 Stancomb-Wills Glacier,-75.3,-19.0,glacier,4,Antarctica
-Stapleton Glacier,-72.9333,-102.5,glacier,4,Antarctica
-Starbuck Glacier,-65.6333,-62.15,glacier,4,Antarctica
-Steagall Glacier,-85.6333,-161.9,glacier,4,Antarctica
-Stein Glacier,46.7072,8.4383,glacier,4,Switzerland
-Steingrímsfjörður,65.7022,-21.6369,coast,4,Iceland
-Stora Sjöfallet National Park,67.5669,17.9936,park,4,Sweden
-Store Lenangstind,69.71,20.0836,peak,4,Norway
 Storfjorden,77.824,19.6806,coast,4,Norway
-Storfjorden,62.4438,6.6028,coast,4,Norway
-Storglaciären,67.9,18.57,glacier,4,Sweden
 Storsjön,63.2167,14.3167,lake,4,Sweden
-Strange Glacier,-74.8333,-63.6667,glacier,4,Antarctica
 Stravinsky Inlet,-72.3333,-71.5,coast,4,Antarctica
 Strom Glacier,-85.1667,-165.0,glacier,4,Antarctica
 Stuart Lake,54.55,-124.5833,lake,4,British Columbia
-Stuorrajekna,67.1284,16.4833,glacier,4,Sweden
-Stuttflog Glacier,-71.9333,4.75,glacier,4,Antarctica
 Sudochye lake,43.5067,58.4127,lake,4,Uzbekistan
-Suess Glacier,-77.6333,162.6667,glacier,4,Antarctica
 Sulak Canyon,43.0095,46.8278,canyon,4,Dagestan
-Sullivan Glacier,-69.7,-70.75,glacier,4,Antarctica
 Sumidero Canyon,16.8483,-93.1056,canyon,4,Chiapas
 Sunfix Glacier,-69.2667,-64.5,glacier,4,Antarctica
-Sunnylvsfjorden,62.2242,7.0392,coast,4,Norway
 Sunset Peak,33.68,74.5408,peak,4,Jammu and Kashmir
 Support Force Glacier,-82.75,-46.5,glacier,4,Antarctica
-Surukwat Kangri,36.2872,76.3869,peak,4,Xinjiang
 Sutai Mountain,46.6175,93.5942,peak,4,Mongolia
 Sutjeska National Park,43.337,18.684,park,4,Bosnia and Herzegovina
 Suur-Längelmävesi,61.5353,24.3705,lake,4,Finland
-Suvorov Glacier,-69.9333,160.0,glacier,4,Antarctica
-Svea Glacier,-72.1333,1.8833,glacier,4,Antarctica
-Swan Lake,52.4994,-100.729,lake,4,Manitoba
 Szczecin Lagoon,53.8044,14.1403,lake,4,Germany
 São Paulo,-23.547,-46.636,city,4,São Paulo
 Söderåsen National Park,56.0241,13.2301,park,4,Sweden
-Sørfjorden,60.2389,6.5944,coast,4,Norway
-Sørsdal Glacier,-68.6833,78.25,glacier,4,Antarctica
-Sørvágsfjørður,62.0788,-7.3626,coast,4,Faeroe Islands
-Súgandafjörður,66.12,-23.46,coast,4,Iceland
 Tablas de Daimiel National Park,39.1449,-3.702,park,4,Spain
-Tafjorden,62.2877,7.3438,coast,4,Norway
-Tagish Lake,59.7167,-134.2333,lake,4,British Columbia
 Tahiryuaq,69.4167,-105.25,lake,4,Nunavut
 Taichung,24.147,120.684,city,4,Taiwan
 Taipei,25.053,121.526,city,4,Taiwan
-Taipei 101 / Yangmingshan,25.17,121.55,landmark,4,Taiwan
 Taito,35.707,139.779,city,4,Japan
 Tajo del Almendrón,36.8256,-3.8397,peak,4,Spain
-Takht-e-Sulaiman,31.6827,69.9366,peak,4,Pakistan
-Taku Glacier,58.595,-134.18,glacier,4,Alaska
-Talbot Glacier,-65.2,-63.2333,glacier,4,Antarctica
 Tama Glacier,-68.7833,40.3667,glacier,4,Antarctica
 Tamatea / Dusky Sound,-45.766,166.593,coast,4,New Zealand
 Tampa,27.948,-82.458,city,4,Florida
 Tanafjord,70.78,28.4505,coast,4,Norway
 Tangra Yumco,31.0,86.5667,lake,4,Xizang
 Tanquary Fiord,81.0153,-79.019,coast,4,Nunavut
-Tara River Canyon,43.2508,19.0085,canyon,4,Montenegro
 Tarangire National Park,-4.0,35.9786,park,4,Tanzania
 Taroko National Park,24.1667,121.3333,park,4,Taiwan
-Tathlina Lake,60.5167,-117.6667,lake,4,Northwest Territories
-Tebesjuak Lake,63.7667,-98.9167,lake,4,Nunavut
 Tehek Lake,64.9667,-95.5,lake,4,Nunavut
 Tel Aviv,32.081,34.781,city,4,Israel
-Telen Glacier,-69.6333,39.7,glacier,4,Antarctica
-Telescope Peak,36.1698,-117.0892,peak,4,California
-Tempelfjorden,78.3749,16.7761,coast,4,Norway
 Tequila Volcano,20.787,-103.847,peak,4,Jalisco
-Teram Kangri,35.58,77.0783,peak,4,Xinjiang
 Teslin Lake,59.9833,-132.4167,lake,4,British Columbia
 The Broads,52.6667,1.5,park,4,UK
-The Crown,36.1083,76.2125,peak,4,Xinjiang
-Thomas Glacier,-78.6667,-84.0,glacier,4,Antarctica
-Three Gorges,31.0428,109.5614,canyon,4,Chongqing
 Thudaka Peak,57.9269,-126.8483,peak,4,British Columbia
 Tianmen Mountain,29.0528,110.483,peak,4,Hunan
 Tidighin,34.8432,-4.5081,peak,4,Morocco
-Tierra del Fuego National Park,-54.6669,-68.5,park,4,Argentina
 Tiewadian of Fenghuang Mountains,32.8654,108.3721,peak,4,Shaanxi
-Tiger Leaping Gorge,27.23,100.14,canyon,4,Yunnan
 Timanfaya National Park,29.0114,-13.7797,park,4,Spain
-Tingvollfjorden,62.806,8.207,coast,4,Norway
-Tinker Glacier,-74.0,164.833,glacier,4,Antarctica
 Tippecanoe Lake,41.3278,-85.7597,lake,4,Indiana
 Titan Dome,-88.5,165.0,glacier,4,Antarctica
 Tjuvfjorden,77.3333,22.0,coast,4,Norway
-Todgha Gorge,31.5883,-5.5934,canyon,4,Morocco
-Tokyo Bay,35.5,139.85,coast,4,Japan
-Tomasamil,-21.3,-67.9667,peak,4,Bolivia
-Tomilin Glacier,-69.5,159.0,glacier,4,Antarctica
 Toney Mountain,-75.8,-115.8167,peak,4,Antarctica
 Tongshanjiabu,28.1867,89.9575,peak,4,Bhutan
 Topo da Coroa,17.0333,-25.2958,peak,4,Republic of Cabo Verde
 Topozero,65.65,32.0,lake,4,Karelia
 Tordoki Yani,48.8972,138.0528,peak,4,Khabarovsk
-Torii Glacier,-71.3167,35.6333,glacier,4,Antarctica
-Torneträsk,68.3667,19.1,lake,4,Sweden
-Tossal de Tous,42.394,0.8288,peak,4,Spain
-Tossal del Portell,42.3927,0.9154,peak,4,Spain
 Totten Glacier,-67.0,116.333,glacier,4,Antarctica
-Touchdown Glacier,-79.8,158.167,glacier,4,Antarctica
-Toynbee Glacier,-69.5833,-69.5833,glacier,4,Antarctica
 Tracy Arm,57.9114,-133.4022,coast,4,Alaska
 Tracy Glacier,-65.95,102.333,glacier,4,Antarctica
-Trafalgar Glacier,-72.4667,168.417,glacier,4,Antarctica
-Trainer Glacier,-72.5667,167.483,glacier,4,Antarctica
 Trakai Historical National Park,54.639,24.9361,park,4,Lithuania
-Trench Glacier,-70.2,-69.1833,glacier,4,Antarctica
-Trift Glacier,46.6611,8.3778,glacier,4,Switzerland
-Trisul,30.3128,79.7772,peak,4,Uttarakhand
-Trollfjord,68.3642,14.9775,coast,4,Norway
 Trongisvágsfjørður,61.5447,-6.7942,coast,4,Faeroe Islands
-Trou de Fer,-21.0403,55.5569,canyon,4,France
 Trout Lake,51.1983,-93.3092,lake,4,Ontario
 Tsalka Canyon,41.5826,44.1335,canyon,4,Georgia
 Tsambagarav,48.6817,90.725,peak,4,Mongolia
-Tsaneri Glacier,43.0747,42.9586,glacier,4,Georgia
-Tsanfleuron Glacier,46.3189,7.2225,glacier,4,Switzerland
 Tsavo East National Park,-2.7786,38.7717,park,4,Kenya
 Tsaydaychuz Peak,53.0214,-126.6428,peak,4,British Columbia
 Tskaltsitela Gorge Natural Monument,42.2778,42.7561,canyon,4,Georgia
-Tucker Glacier,-72.5333,169.25,glacier,4,Antarctica
 Tulemalu Lake,62.9667,-99.4167,lake,4,Nunavut
 Tumucumaque National Park,1.8333,-54.0,park,4,Amapá
-Tundzha Glacier,-62.5944,-60.5083,glacier,4,Antarctica
 Tunulliarfik fjord,61.0,-45.5833,coast,4,Greenland
-Turtmann Glacier,46.1333,7.6872,glacier,4,Switzerland
-Turó de la Guàrdia,42.3098,0.8582,peak,4,Spain
 Tverregg Glacier,-73.45,-3.6,glacier,4,Antarctica
-Tviberi Glacier,43.1228,42.8575,glacier,4,Georgia
-Tysfjorden,68.1851,16.1784,coast,4,Norway
-Tödi,46.8111,8.9147,peak,4,Switzerland
-Tønnesen Glacier,-72.0667,3.4667,glacier,4,Antarctica
-Türgen,49.6903,91.32,peak,4,Mongolia
-Tŝ’ilʔoŝ,51.3725,-123.8636,peak,4,British Columbia
 Ubinskoye,55.4725,80.081,lake,4,Novosibirsk
-Udren Zom,36.5333,71.9833,peak,4,Pakistan
-Ukpik Peak,70.6942,-71.3417,peak,4,Nunavut
-Ullsfjorden,69.7047,19.7206,coast,4,Norway
 Ulubey Canyon Nature Park,38.3844,29.2997,canyon,4,Turkey
 Uludağ,40.0705,29.222,peak,4,Turkey
 Ulugh Muztagh,36.4125,87.3842,peak,4,Xinjiang
@@ -3306,426 +2282,222 @@ Umbozero,67.6808,34.4108,lake,4,Murmansk
 Una National Park,44.4969,16.1581,park,4,Bosnia and Herzegovina
 Underwater Lake,65.1502,-119.5183,lake,4,Northwest Territories
 Underwood Glacier,-66.5833,108.0,glacier,4,Antarctica
-Union Glacier,-79.75,-82.5,glacier,4,Antarctica
-Upvan Lake,19.2216,72.956,lake,4,Maharashtra
-Uranus Glacier,-71.4,-68.3333,glacier,4,Antarctica
-Utah Lake,40.22,-111.8,lake,4,Utah
-Utopia Glacier,-71.85,-68.2667,glacier,4,Antarctica
 Utstikkar Glacier,-67.55,61.3333,glacier,4,Antarctica
 Uummannaq fjord,70.95,-53.0,coast,4,Greenland
-Valamara,40.7936,20.465,peak,4,Albania
-Valbonë Valley National Park,42.4533,19.8878,park,4,Albania
-Vallot Glacier,-67.3,-67.5,glacier,4,Antarctica
-Van Mijenfjorden,77.7909,15.5452,coast,4,Norway
-Vanderford Glacier,-66.5833,110.433,glacier,4,Antarctica
-Vangengeym Glacier,-71.2833,13.8,glacier,4,Antarctica
 Vanoise National Park,45.3333,6.8333,park,4,France
 Vashi Canyon,35.8753,52.7267,canyon,4,Iran
-Vatnsfjörður,65.553,-23.1656,coast,4,Iceland
 Vefsnfjord,65.8991,12.597,coast,4,Norway
-Vejle Fjord,55.6816,9.7139,coast,4,Denmark
 Venable Ice Shelf,-73.05,-87.3333,glacier,4,Antarctica
-Venus Glacier,-71.6333,-68.25,glacier,4,Antarctica
-Venzke Glacier,-75.0,-134.4,glacier,4,Antarctica
-Verdi Inlet,-71.6,-74.5,coast,4,Antarctica
-Vestfjorden,68.05,14.7667,coast,4,Norway
-Vestreskorve Glacier,-71.95,5.0833,glacier,4,Antarctica
 Veststraumen Glacier,-74.0,-13.0,glacier,4,Antarctica
 Victoria,22.288,114.144,city,4,Hong Kong
 Victoria Falls National Park,-17.951,25.8407,park,4,Zimbabwe
-Victoria Peak,50.0547,-126.101,peak,4,British Columbia
-Victoria Upper Glacier,-77.2667,161.417,glacier,4,Antarctica
-Victory Glacier,-63.8167,-58.4167,glacier,4,Antarctica
-Viedma Glacier,-49.4589,-73.1947,glacier,4,Argentina
-Vihren,41.7664,23.3994,peak,4,Bulgaria
-Vikos Gorge,39.9289,20.7408,canyon,4,Greece
-Vilyuchik,52.7056,158.277,peak,4,Kamchatka
-Vindegghallet Glacier,-71.8167,11.25,glacier,4,Antarctica
-Vinje Glacier,-71.9167,8.0,glacier,4,Antarctica
 Virgin Islands National Park,18.3281,-64.9333,park,4,United States Virgin Islands
-Vivaldi Glacier,-70.7833,-69.8333,glacier,4,Antarctica
 Vodlozero,62.3333,36.9167,lake,4,Karelia
-Voyageurs National Park,48.5,-92.8833,park,4,Minnesota
 Voyeykov Ice Shelf,-66.3333,124.633,glacier,4,Antarctica
 Vozhe,60.5894,39.0925,lake,4,Vologda
-Vudor Peak,38.2343,71.8013,peak,4,Tajikistan
-Vágsfjørður,61.4625,-6.7697,coast,4,Faeroe Islands
-Vågsfjorden,68.8662,16.903,coast,4,Norway
 Wadden Sea / Frisian Islands,53.5,6.5,coast,4,Netherlands
 Wadi Shab,22.839,59.2451,canyon,4,Oman
-Wahlenbergfjorden,79.6667,20.0,coast,4,Norway
-Waimea Canyon State Park,22.0561,-159.6653,canyon,4,Hawaii
-Walter Glacier,-69.2833,-70.35,glacier,4,Antarctica
-Waputik Icefield,51.5667,-116.45,glacier,4,Alberta
 Ward Hunt Ice Shelf,83.0403,-73.2605,glacier,4,Nunavut
-Waterton Lakes National Park,49.05,-113.9333,park,4,Alberta
-Webb Glacier,-77.3167,160.75,glacier,4,Antarctica
-Weber Inlet,-71.9333,-73.4667,coast,4,Antarctica
 Webster Glacier,-79.1,-86.1833,glacier,4,Antarctica
-Weddell Glacier,-54.6,-36.3667,glacier,4,South Georgia and the Islands
-Wessbecher Glacier,-78.8833,-84.3,glacier,4,Antarctica
-Wetmore Glacier,-74.6333,-63.5833,glacier,4,Antarctica
 Whanganui National Park,-39.5833,175.0833,park,4,New Zealand
 Whillans Ice Stream,-83.6667,-145.0,glacier,4,Antarctica
 Whirlwind Glaciers,-67.4,-65.5333,glacier,4,Antarctica
 White Desert,27.2773,28.2004,park,4,Egypt
-White Glacier,-75.75,-140.833,glacier,4,Antarctica
 Whitefish Lake,62.6836,-106.8008,lake,4,Northwest Territories
-Whitehall Glacier,-72.7167,169.417,glacier,4,Antarctica
-Whiting Peak,58.1389,-132.935,peak,4,British Columbia
-Whittle Glacier,-66.3667,114.217,glacier,4,Antarctica
 Wholdaia Lake,60.7169,-104.1673,lake,4,Northwest Territories
-Wijdefjorden,79.6292,15.45,coast,4,Norway
 Wilkins Ice Shelf,-70.25,-73.0,glacier,4,Antarctica
-Wilkinson Glacier,-66.8333,-66.3333,glacier,4,Antarctica
-Willey Glacier,-70.4167,-67.8333,glacier,4,Antarctica
 Williamson Glacier,-66.6667,114.1,glacier,4,Antarctica
-Wilson Piedmont Glacier,-77.25,163.1667,glacier,4,Antarctica
-Wind Cave National Park,43.5564,-103.4787,park,4,South Dakota
 Wolstenholme Fjord,76.6319,-68.6375,coast,4,Greenland
-Woodfjorden,79.5833,13.5,coast,4,Norway
-Wordie Ice Shelf,-69.25,-67.75,glacier,4,Antarctica
-Wotkyns Glacier,-86.0667,-131.417,glacier,4,Antarctica
-Wright Lower Glacier,-77.4167,163.0,glacier,4,Antarctica
 Wright Upper Glacier,-77.5333,160.583,glacier,4,Antarctica
-Wu Gorge,31.025,110.083,canyon,4,Chongqing
 Wuzhi Mountain,18.8994,109.7048,peak,4,Hainan
 Wuzhong,37.987,106.201,city,4,Ningxia
-Wyers Ice Shelf,-67.1833,49.9,glacier,4,Antarctica
 Xinfengjiang Reservoir,23.7904,114.569,lake,4,Guangdong
-Xueshan,24.3833,121.23,peak,4,Taiwan
-Yakoruda Glacier,-62.475,-59.9436,glacier,4,Antarctica
-Yala National Park,6.55,81.5,park,4,Sri Lanka
-Yamato Glacier,-71.4167,35.5833,glacier,4,Antarctica
 Yamdrok Lake,28.9781,90.7457,lake,4,Xizang
-Yanamax,42.285,81.0435,peak,4,Xinjiang
-Yancey Glacier,-80.2333,158.5,glacier,4,Antarctica
 Yasuni National Park,-0.77,-76.1,park,4,Ecuador
-Yoder Glacier,-75.1167,-114.4,glacier,4,Antarctica
 Yokohama,35.433,139.65,city,4,Japan
 Yolyn Am,43.4931,104.0838,canyon,4,Mongolia
-Young Glacier,-78.0667,-84.8167,glacier,4,Antarctica
 Yumurtalık Lagoon,36.6767,35.6345,lake,4,Turkey
 Yuzhu Peak,35.6525,94.2508,peak,4,Qinghai
 Zakouma National Park,10.8478,19.6478,park,4,Chad
-Zakros Gorge,35.1,26.24,canyon,4,Greece
 Zeller Glacier,-80.9167,156.5,glacier,4,Antarctica
-Zengezur National Park,39.0353,45.9233,park,4,Azerbaijan
-Zephyr Glacier,-69.4667,-68.6,glacier,4,Antarctica
-Zhangjiajie National Forest Park,29.3274,110.416,park,4,Hunan
 Zhari Namco,30.9167,85.6333,lake,4,Xizang
 Zhelin Reservoir,29.29,115.34,lake,4,Jiangxi
-Zimin volcano,55.8608,160.6058,peak,4,Kamchatka
-Zinberg Glacier,-72.35,-96.0667,glacier,4,Antarctica
 Zirbitzkogel,47.0566,14.5738,peak,4,Austria
-Zoller Glacier,-77.8833,162.3,glacier,4,Antarctica
-Zonda Glacier,-69.55,-68.5,glacier,4,Antarctica
 Zotikov Glacier,-85.0333,-169.25,glacier,4,Antarctica
 Zubchatyy Ice Shelf,-67.2167,49.0833,glacier,4,Antarctica
-Zykov Glacier,-70.6167,164.767,glacier,4,Antarctica
-Álftafjörður,65.0062,-22.6463,coast,4,Iceland
-Álftafjörður,66.0063,-23.0007,coast,4,Iceland
-Ásbyrgi,66.0149,-16.5036,canyon,4,Iceland
-Ébrié Lagoon,5.2719,-4.3392,lake,4,Côte d'Ivoire
-Ísafjarðardjúp,66.1667,-23.0,coast,4,Iceland
-Önundarfjörður,66.0625,-23.6102,coast,4,Iceland
-Öxarfjörður,66.2041,-16.6773,coast,4,Iceland
-Øksfjordjøkelen,70.1798,22.0602,glacier,4,Norway
-Þaralátursfjörður,66.2683,-22.1257,coast,4,Iceland
 Þistilfjörður,66.3333,-15.5,coast,4,Iceland
-Þorskafjörður,65.5544,-22.1742,coast,4,Iceland
 Đerdap National Park,44.6667,22.5167,park,4,Serbia
 Ķemeri National Park,56.9517,23.5125,park,4,Latvia
 Şişli,41.06,28.987,city,4,Turkey
 Šumava National Park,49.0606,13.4825,park,4,Czech Republic
-Aarid Maql Saab,34.4914,36.2758,peak,3,Lebanon
 Abajo Peak,37.8395,-109.4624,peak,3,Utah
 Agepsta,43.5483,40.4806,peak,3,Krasnodar
-Aiguille de Scolette,45.1598,6.7682,peak,3,France
-Aiguilles d'Arves,45.1231,6.3344,peak,3,France
 Akanda National Park,0.6167,9.55,park,3,Gabon
 Akiba,42.8753,41.9061,peak,3,Georgia
-Aksay,37.5483,74.6662,peak,3,Tajikistan
 Al Hoceima National Park,35.1803,-4.1216,park,3,Morocco
-Ala-Archa National Park,42.5475,74.4846,park,3,Kyrgyzstan
 Alberto de Agostini National Park,-54.7491,-70.4397,park,3,Chile
-Alerce Andino National Park,-41.578,-72.5441,park,3,Chile
-Alexander,32.3958,34.8653,park,3,Israel
-Alexandra Peak,49.7381,-125.492,peak,3,British Columbia
-Algeti National Park,41.7216,44.3023,park,3,Georgia
 Alta Murgia National Park,40.99,16.37,park,3,Italy
 Altos de Nsork National Park,1.16,11.12,park,3,Equatorial Guinea
-Altyaghach National Park,40.8867,48.8936,park,3,Azerbaijan
-Ama Dablam,27.8611,86.8614,peak,3,Nepal
 Amacayacu National Park,-3.4833,-70.2,park,3,Colombia
 Amak Volcano,55.4167,-163.15,volcano,3,Alaska
 Amazônia National Park,-4.4394,-56.8403,park,3,Pará
 Amber Mountain National Park,-12.595,49.155,park,3,Madagascar
 Ambitle,-4.0808,153.6214,volcano,3,Papua New Guinea
 Amboró National Park,-17.7833,-63.9833,park,3,Bolivia
-Ameringkogel,47.0711,14.8083,peak,3,Austria
 Amsterdam,52.374,4.89,city,3,Netherlands
-Anaimalai Tiger Reserve,10.3669,77.125,park,3,Tamil Nadu
 Anavilhanas National Park,-2.3947,-60.9206,park,3,Amazonas
 Andre Felix National Park,9.4408,23.3439,park,3,Central African Republic
-Antsiferov Island,50.2006,154.9814,volcano,3,Sakhalin
-Anárjohka National Park,68.8292,24.6431,park,3,Norway
 Aparados da Serra National Park,-29.1917,-50.0977,park,3,Santa Catarina
 Appennino Lucano - Val d'Agri - Lagonegrese National Park,40.34,15.9,park,3,Italy
-Appennino Tosco-Emiliano National Park,44.3183,10.2406,park,3,Italy
 Arabuko Sokoke National Park,-3.2667,39.8167,park,3,Kenya
 Araguaia National Park,-10.5,-50.167,park,3,Tocantins
 Archipiélago de Juan Fernández National Park,-33.7297,-79.8692,park,3,Chile
 Arcipelago Toscano National Park,42.8249,10.2687,park,3,Italy
-Arcipelago di La Maddalena National Park,41.2458,9.4118,park,3,Italy
 Ardoukoba,11.5719,42.4958,volcano,3,Djibouti
-Arevik National Park,39.0,46.15,park,3,Armenia
 Arikok National Park,12.4988,-69.9265,park,3,Aruba
 Arnøyhøgda,70.1534,20.7,peak,3,Norway
-Aroser Rothorn,46.7379,9.614,peak,3,Switzerland
-Arthur's Pass National Park,-42.8897,171.7214,park,3,New Zealand
 Ashdod,31.792,34.65,city,3,Israel
 Asinara National Park,41.058,8.276,park,3,Italy
-Aspromonte National Park,38.17,15.99,park,3,Italy
 Assagny National Park,5.2,-4.8833,park,3,Côte d'Ivoire
-Asterousia Mountains,34.9528,25.0944,peak,3,Greece
 Astoria,40.772,-73.93,city,3,New York
 Atavyros,36.1966,27.8394,peak,3,Greece
 Auckland,-36.849,174.763,city,3,New Zealand
 Ayubia National Park,34.0628,73.4278,park,3,Pakistan
 Ba Bể National Park,22.4053,105.6153,park,3,Vietnam
 Babia Góra,49.5731,19.5306,peak,3,Poland
-Babis Mta,43.1946,42.5149,peak,3,Kabardin-Balkar
 Babuyan Claro,19.5233,121.94,volcano,3,Philippines
 Bach Ma National Park,16.2,107.8667,park,3,Vietnam
 Bako National Park,1.7167,110.4667,park,3,Malaysia
 Ball's Pyramid,-31.7542,159.2517,volcano,3,Lord Howe Island
-Balmhorn,46.425,7.6936,peak,3,Switzerland
 Balpakram National Park,25.5,90.75,park,3,Meghalaya
-Baltoro Kangri,35.648,76.6697,peak,3,Pakistan
-Banco National Park,5.3945,-4.052,park,3,Côte d'Ivoire
 Bandingilo National Park,5.4328,32.2775,park,3,South Sudan
 Banke National Park,28.1911,81.9128,park,3,Nepal
-Bannerghatta National Park,12.8008,77.5756,park,3,Karnataka
 Baritú National Park,-22.5833,-64.6167,park,3,Argentina
 Barrington Tops National Park,-32.0483,151.5011,park,3,New South Wales
-Bat,43.7906,16.4849,peak,3,Croatia
 Batu Tara,-7.7917,123.5792,volcano,3,Indonesia
 Bayanaul National Park,50.8,75.6,park,3,Kazakhstan
 Bazaruto National Park,-21.6657,35.4659,park,3,Mozambique
-Beit Guvrin National Park,31.6131,34.8983,park,3,Israel
 Belezma National Park,35.5833,6.0333,park,3,Algeria
-Belvoir Fortress,32.5956,35.5214,park,3,Israel
-Bentsjordtinden,69.5119,18.6184,peak,3,Norway
-Berchtesgadener Hochthron,47.694,12.9861,peak,3,Germany
 Betla National Park,23.8878,84.1901,park,3,Jharkhand
 Bhagwan Mahaveer Sanctuary and Mollem National Park,15.3736,74.2586,park,3,Goa
 Bhitarkanika National Park,20.6625,86.9341,park,3,Odisha
-Biale,35.8042,76.2397,peak,3,Pakistan
 Bicuari National Park,-15.3333,14.8333,park,3,Angola
-Biellogáisa,69.3018,19.7437,peak,3,Norway
 Big Baldy Mountain,46.9685,-110.606,peak,3,Montana
-Big Baldy Mountain,49.7606,-126.134,peak,3,British Columbia
 Big Hatchet Peak,31.6357,-108.3987,peak,3,New Mexico
-Big Timothy Mountain,52.1022,-120.9311,peak,3,British Columbia
-Big White Mountain,49.7444,-118.935,peak,3,British Columbia
 Bikin National Park,46.6333,136.5833,park,3,Primor'ye
 Bilbao,43.263,-2.925,city,3,Spain
 Birmingham,52.481,-1.9,city,3,UK
-Bisaurin,42.7885,-0.64,peak,3,Spain
 Björnlandet National Park,63.974,18.0149,park,3,Sweden
-Black Peak,60.853,-152.4239,peak,3,Alaska
 Black Pine Mountains High Point,42.1387,-113.126,peak,3,Idaho
 Black River Gorges National Park,-20.4167,57.4167,park,3,Mauritius
 Blackbuck National Park,22.0333,72.0,park,3,Gujarat
 Blyznytsya,48.2227,24.2305,peak,3,Ukraine
 Blåfjella–Skjækerfjella National Park,64.2168,13.1093,park,3,Norway
-Blåtinden,69.8437,20.6102,peak,3,Norway
-Blåtinden,69.187,18.8275,peak,3,Norway
-Bobaye,29.9583,81.0213,peak,3,Nepal
-Bobotov Kuk,43.1278,19.0333,peak,3,Montenegro
 Bocaina Mountain National Park,-22.963,-44.67,park,3,Rio de Janeiro
 Bogani Nani Wartabone National Park,0.5606,123.68,park,3,Indonesia
 Bogoslof Island,53.9358,-168.0389,volcano,3,United States
 Boma National Park,6.489,33.914,park,3,South Sudan
-Bonanza Peak,48.2378,-120.866,peak,3,Washington
-Bony de Calama,42.1802,1.1178,peak,3,Spain
 Boodjamulla (Lawn Hill) National Park,-18.7014,138.488,park,3,Queensland
 Borawli,13.3039,40.9864,volcano,3,Ethiopia
 Border Ranges National Park,-28.3597,152.9861,park,3,New South Wales
-Botnafjellet,61.6602,6.3104,peak,3,Norway
-Botnkrona,65.9617,12.6283,peak,3,Norway
 Bouba Njida National Park,8.6236,14.6567,park,3,Cameroon
 Boucle du Baoulé National Park,14.0833,-8.8833,park,3,Mali
-Boumba Bek National Park,2.2167,15.7,park,3,Cameroon
 Bouzegza,36.6078,3.4444,peak,3,Algeria
 Box Elder Peak,41.6358,-112.0144,peak,3,Utah
-Braulio Carrillo National Park,10.1599,-83.9744,park,3,Costa Rica
 Brave Mountain,57.8814,-62.0264,peak,3,Newfoundland and Labrador
-Breheimen National Park,61.8,7.8333,park,3,Norway
 Breitinden,69.4554,17.6485,peak,3,Norway
-Brennisteinsalda,63.9808,-19.1458,volcano,3,Iceland
-Brennisteinsfjöll,63.9167,-21.8333,volcano,3,Iceland
-Brian Head,37.6811,-112.8314,peak,3,Utah
 Bridgeman Island,-62.0667,-56.7333,volcano,3,Antarctica
-Brienzer Rothorn,46.7869,8.0469,peak,3,Switzerland
 Broutona,46.7167,150.7333,volcano,3,Sakhalin
 Bruce Peninsula National Park,45.2389,-81.6142,park,3,Ontario
 Brussels,50.85,4.349,city,3,Belgium
 Bui National Park,8.2998,-2.3628,park,3,Ghana
-Buila-Vânturarița National Park,45.24,24.096,park,3,Romania
-Bukhansan National Park,37.675,126.982,park,3,Republic of Korea
-Bull Mountain,41.9117,-113.365,peak,3,Utah
 Burabay National Park,53.0833,70.3,park,3,Kazakhstan
-Burren National Park,53.01,-9.0,park,3,Ireland
 Buxa Tiger Reserve,26.65,89.58,park,3,West Bengal
-Buševa Mountain,41.4333,21.2,peak,3,North Macedonia
-Cabeço Gordo,38.5856,-28.7144,peak,3,Portugal
 Cabo Orange National Park,4.4333,-51.5167,park,3,Amapá
 Cabo de Hornos National Park,-55.833,-67.433,park,3,Chile
 Cabrera National Park,39.1583,2.9667,park,3,Spain
-Cache Peak,42.1863,-113.662,peak,3,Idaho
-Calanda,46.9,9.4672,peak,3,Switzerland
 Calanques National Park,43.2094,5.4492,park,3,France
 Calilegua National Park,-23.639,-64.838,park,3,Argentina
 Cameia National Park,-11.8833,21.6667,park,3,Angola
 Campbell Bay National Park,7.1128,93.7619,park,3,Andaman and Nicobar
 Campo Ma'an National Park,2.3453,9.9912,park,3,Cameroon
-Canchal de la Ceja,40.3061,-5.7214,peak,3,Spain
 Cangandala National Park,-9.8,16.75,park,3,Angola
 Cap Mountain,63.407,-123.2155,peak,3,Northwest Territories
 Cap de la Gallina Pelada,42.1894,1.738,peak,3,Spain
 Cape Arid National Park,-33.7039,123.369,park,3,Western Australia
 Cape Breton Highlands National Park,46.7167,-60.6597,park,3,Nova Scotia
 Cape Range National Park,-22.1233,113.921,park,3,Western Australia
-Capelinhos,38.6013,-28.8316,volcano,3,Portugal
 Caracas,10.488,-66.879,city,3,Venezuela
 Carara National Park,9.7472,-84.6278,park,3,Costa Rica
 Carrasco National Park,-17.3833,-65.05,park,3,Bolivia
-Carrauntoohil,51.9989,-9.7428,peak,3,Ireland
 Castle Peak,44.0396,-114.585,peak,3,Idaho
 Cavernas do Peruaçu National Park,-15.1225,-44.3243,park,3,Minas Gerais
 Cerro Cora National Park,-22.6514,-56.0179,park,3,Paraguay
 Cerro El Carrizal,26.7595,-100.59,peak,3,Coahuila
-Cerro El Petacal,19.6014,-103.8531,peak,3,Jalisco
-Cerro El Plata,-33.0158,-69.4553,peak,3,Argentina
-Cerro El Viejo,23.9933,-99.715,peak,3,Nuevo León
 Cerro Maltusado,-39.8325,-72.2158,peak,3,Chile
 Cerro Rosa,18.1778,-66.5322,peak,3,Puerto Rico
-Cerro de Punta,18.1725,-66.5919,peak,3,Puerto Rico
 Cerro de la Silla,25.6278,-100.2391,peak,3,Nuevo León
-Cerro de las Mitras,25.7184,-100.436,peak,3,Nuevo León
-Cerro del ¥wmaπB,25.35,-100.55,peak,3,Coahuila
-Cervati,40.2667,15.4667,peak,3,Italy
-Ch'iyar Juqhu,-15.9514,-68.4164,peak,3,Bolivia
 Chaco National Park,-26.8333,-59.6667,park,3,Argentina
-Chagres National Park,9.4,-79.5,park,3,Panama
 Chambi National Park,35.18,8.6952,park,3,Tunisia
-Chamlang,27.7758,86.98,peak,3,Nepal
 Chapada Diamantina National Park,-12.8803,-41.3722,park,3,Bahia
 Cheile Nerei-Beușnița National Park,44.9512,21.8882,park,3,Romania
 Chicoma Mountain,36.0073,-106.3846,peak,3,New Mexico
 Chiloé National Park,-42.5129,-74.0341,park,3,Chile
-Chitral Gol National Park,35.9333,71.6667,park,3,Pakistan
 Chrea National Park,36.4,2.8667,park,3,Algeria
 Christmas Island National Park,-10.4915,105.6232,park,3,Indian Ocean Territories
-Chugush,43.7972,40.2103,peak,3,Adygey
-Chulu East,28.7361,84.0347,peak,3,Nepal
 Chyulu Hills,-2.6,37.85,park,3,Kenya
-Cima Carega,45.7253,11.1291,peak,3,Italy
-Cima Piazzi,46.4165,10.2851,peak,3,Italy
-Cima Viola,46.3836,10.1964,peak,3,Italy
-Cima dei Preti,46.3424,12.4211,peak,3,Italy
 Cincinnati,39.127,-84.514,city,3,Ohio
-Cinglo Alt,42.0412,1.0407,peak,3,Spain
 Circeo National Park,41.235,13.064,park,3,Italy
 City of Westminster,51.498,-0.136,city,3,UK
 Clark Mountain,35.5256,-115.589,peak,3,California
 Colo,-0.17,121.608,volcano,3,Indonesia
 Colombo,6.935,79.849,city,3,Sri Lanka
-Conguillío National Park,-38.6667,-71.65,park,3,Chile
 Copo National Park,-25.9667,-61.8833,park,3,Argentina
-Cornettes de Bise,46.3325,6.7844,peak,3,Switzerland
-Cotapata National Park and Integrated Management Natural Area,-16.2167,-67.9,park,3,Bolivia
 Coñocranra,-8.8431,-78.0064,peak,3,Peru
-Cradle Mountain-Lake St Clair National Park,-41.8303,145.9242,park,3,Tasmania
 Crocker Range National Park,5.5833,116.0833,park,3,Malaysia
 Cross River National Park,5.4167,8.5833,park,3,Nigeria
-Crown Mountain,49.945,-125.813,peak,3,British Columbia
 Crêt de la Neige,46.2725,5.9436,peak,3,France
 Cuauhtémoc,19.445,-99.146,city,3,Distrito Federal
 Currant Mountain,38.9097,-115.4246,peak,3,Nevada
-Càrn Eige,57.2877,-5.1152,peak,3,UK
 Cíes Islands,42.2333,-8.9,park,3,Spain
 Călimani National Park,47.127,25.168,park,3,Romania
-Dachigam National Park,34.14,75.02,park,3,Jammu and Kashmir
 Dadia-Lefkimi-Soufli Forest National Park,41.13,26.2169,park,3,Greece
 Dajti National Park,41.3658,19.9256,park,3,Albania
-Dalby Söderskog National Park,55.675,13.3306,park,3,Sweden
-Day Forest National Park,11.8,42.6833,park,3,Djibouti
 Dayrah,25.271,55.302,city,3,United Arab Emirates
 Delano Peak,38.3692,-112.3714,peak,3,Utah
-Dent Parrachée,45.2917,6.7497,peak,3,France
-Dent de Cons,45.7296,6.3513,peak,3,France
-Dernjačišta,43.3203,19.0861,peak,3,Montenegro
 Des Moines,41.601,-93.609,city,3,Iowa
 Desatoya Peak,39.3652,-117.759,peak,3,Nevada
 Desert National Park,26.3167,70.5167,park,3,Rajasthan
-Devil's Castle,73.3719,-25.4908,peak,3,Greenland
 Diamond Peak,39.5849,-115.819,peak,3,Nevada
 Diawling National Park,16.4167,-16.35,park,3,Mauritania
 Dibru-Saikhowa National Park,27.6498,95.3403,park,3,Assam
-Didi Abuli,41.4381,43.6458,peak,3,Georgia
 Dieppe Mountain,58.4753,-125.4858,peak,3,British Columbia
-Diklosmta,42.4883,45.7753,peak,3,Chechnya
 Dinder National Park,12.0,35.2333,park,3,Sudan
-Diran,36.1167,74.6667,peak,3,Pakistan
 Divjakë-Karavasta National Park,40.9242,19.4931,park,3,Albania
-Djurdjura National Park,36.4667,4.1333,park,3,Algeria
-Djurö National Park,58.8468,13.4652,park,3,Sweden
-Dombai-Ulgen,43.2439,41.7258,peak,3,Karachay-Cherkess
-Domogled-Valea Cernei National Park,45.093,22.624,park,3,Romania
 Donostia / San Sebastián,43.313,-1.975,city,3,Spain
-Dora,32.6174,34.9164,park,3,Israel
 Dorrigo National Park,-30.3817,152.7511,park,3,New South Wales
 Double Mountain,35.0333,-118.487,peak,3,California
-Double Peak,60.7296,-152.5858,peak,3,Alaska
-Dovre National Park,62.0833,9.5333,park,3,Norway
-Dreischusterspitze,46.6711,12.3217,peak,3,Italy
 Dry Mountain,36.9088,-117.5978,peak,3,California
 Dudhwa National Park,28.4709,80.6993,park,3,Uttar Pradesh
 Duffer Peak,41.6618,-118.7302,peak,3,Nevada
-Dunagiri,30.5325,79.8339,peak,3,Uttarakhand
 Dzanga-Ndoki National Park,2.5,16.1667,park,3,Central African Republic
-Dzenzursky,53.637,158.922,volcano,3,Kamchatka
 Eagle Peak,41.2834,-120.201,peak,3,California
-Eidetinden,67.5589,14.9493,peak,3,Norway
-Eidshornet,62.1532,7.1453,peak,3,Norway
-Eidskyrkja,62.0169,6.2622,peak,3,Norway
 El Cajas National Park,-2.8461,-79.2203,park,3,Ecuador
 El Feidja National Park,36.5,8.3333,park,3,Tunisia
-El Kala National Park,36.8167,8.4167,park,3,Algeria
 El Leoncito National Park,-31.7958,-69.3337,park,3,Argentina
 El Paso,31.759,-106.487,city,3,Texas
 El Rey National Park,-24.7,-64.6333,park,3,Argentina
-El Turbón,42.4189,0.5139,peak,3,Spain
 Eldfell,63.4333,-20.2488,volcano,3,Iceland
 Electric Peak,45.0053,-110.8375,peak,3,Montana
-Elk Island National Park,53.6144,-112.866,park,3,Alberta
 Elk Mountain,41.6332,-106.526,peak,3,Wyoming
-Elkhorn Mountain,49.7897,-125.828,peak,3,British Columbia
 Emory Peak,29.2459,-103.3051,peak,3,Texas
 Endau-Rompin National Park,2.4389,103.273,park,3,Malaysia
 Enigma Peak,-69.5667,-72.7333,peak,3,Antarctica
-Erta Ale,13.603,40.6634,volcano,3,Ethiopia
 Española Island,-1.3667,-89.6833,volcano,3,Ecuador
-Fagradalsfjall,63.905,-22.2725,volcano,3,Iceland
 Far Mountain,52.7867,-125.323,peak,3,British Columbia
 Faure Peak,-85.7,-128.5833,peak,3,Antarctica
-Fedalsnibba,61.9808,6.9824,peak,3,Norway
 Femundsmarka National Park,62.2167,12.1167,park,3,Norway
 Ferdinandea,37.1636,12.7186,volcano,3,Italy
-Fireweed Mountain,61.4661,-143.1469,peak,3,Alaska
 Fisht,43.9536,39.9031,peak,3,Adygey
 Fitzgerald River National Park,-33.9475,119.615,park,3,Western Australia
 Flat Top Mountain,40.0147,-107.083,peak,3,Colorado
@@ -3733,162 +2505,80 @@ Floreana Island,-1.2975,-90.4342,volcano,3,Ecuador
 Floridsdorf,48.25,16.4,city,3,Austria
 Fonualei,-18.024,-174.325,volcano,3,Tonga
 Forillon National Park,48.9,-64.35,park,3,Québec
-Forlandet National Park,78.55,11.1167,park,3,Norway
 Forollhogna National Park,62.6333,10.6667,park,3,Norway
 Forra,67.9493,15.7168,peak,3,Norway
 Fort Lauderdale,26.122,-80.143,city,3,Florida
 Fort Worth,32.725,-97.321,city,3,Texas
 Four Peaks,33.684,-111.3253,peak,3,Arizona
 Francs Peak,43.9613,-109.3307,peak,3,Wyoming
-Fresvikbreen,61.0342,6.7706,peak,3,Norway
-Frostisen,68.2342,17.1847,peak,3,Norway
 Fundy National Park,45.5953,-64.9539,park,3,New Brunswick
 Funeral Peak,36.103,-116.6236,peak,3,California
 Färnebofjärden National Park,60.2012,16.7842,park,3,Sweden
-Galathea National Park,6.923,93.833,park,3,Andaman and Nicobar
-Galičica National Park,41.0,20.85,park,3,North Macedonia
 Galápagos National Park,-0.3333,-90.0,park,3,Ecuador
 Gambela National Park,8.0,34.0,park,3,Ethiopia
-Gamsberg,47.1354,9.3745,peak,3,Switzerland
-Gamsfeld,47.6232,13.4804,peak,3,Austria
-Ganesh NW,28.3792,85.0567,peak,3,Nepal
 Gargano National Park,41.8061,15.925,park,3,Italy
-Garphyttan National Park,59.2802,14.8928,park,3,Sweden
 Gashaka Gumti National Park,7.35,11.52,park,3,Nigeria
 Gearhart Mountain,42.496,-120.8783,peak,3,Oregon
-Geierhaupt,47.3747,14.6358,peak,3,Austria
-Geigelstein,47.7079,12.3345,peak,3,Germany
-Geittinden,65.7762,13.7529,peak,3,Norway
-Ghent Kangri,35.5175,76.8003,peak,3,Pakistan
 Gibraltar Range National Park,-29.5544,152.3239,park,3,New South Wales
-Gilbert Peak,46.4883,-121.407,peak,3,Washington
-Gjegnet,61.8038,5.8212,peak,3,Norway
-Gjeravica,42.5328,20.1408,peak,3,Kosovo
 Glasgow,55.865,-4.258,city,3,UK
-Glitregga,61.9073,6.373,peak,3,Norway
 Gobi Gurvansaikhan National Park,43.8027,101.5897,park,3,Mongolia
 Gola National Park,7.5,-10.9833,park,3,Sierra Leone
 Gold Coast,-28.0,153.431,city,3,Queensland
-Golden Ears,49.3628,-122.507,peak,3,British Columbia
-Golovnin,43.8431,145.5056,volcano,3,Sakhalin
 Gonarezhou National Park,-21.6667,31.6667,park,3,Zimbabwe
-Gora Kyzyldangi,37.4009,72.8434,peak,3,Tajikistan
 Gorkhi-Terelj National Park,48.1502,107.576,park,3,Mongolia
 Gorumara National Park,26.7,88.8,park,3,West Bengal
 Gothenburg,57.707,11.967,city,3,Sweden
 Gouraya National Park,36.7667,5.1,park,3,Algeria
 Grand Ballon,47.9008,7.0981,peak,3,France
-Grand Muveran,46.2372,7.1261,peak,3,Switzerland
-Grand Pic de Belledonne,45.1711,5.9917,peak,3,France
 Grand Veymont,44.87,5.5269,peak,3,France
-Grande Casse,45.4053,6.8275,peak,3,France
 Granite Peak,45.1634,-109.8074,peak,3,Montana
 Granite Peak,41.6681,-117.589,peak,3,Nevada
-Grapevine Peak,36.9653,-117.15,peak,3,Nevada
 Grasslands National Park,49.15,-107.51,park,3,Saskatchewan
 Gray Peak,61.1787,-133.617,peak,3,Yukon
 Great Otway National Park,-38.7733,143.557,park,3,Victoria
 Greenhorn Mountain,37.8814,-105.0133,peak,3,Colorado
-Gridone,46.1234,8.648,peak,3,Switzerland
-Große Arnspitze,47.3971,11.2225,peak,3,Austria
-Großer Arber,49.1125,13.1362,peak,3,Germany
-Großer Pyhrgas,47.6531,14.3983,peak,3,Austria
-Großer Traithen,47.6478,12.0394,peak,3,Germany
-Großes Ochsenhorn,47.5381,12.6606,peak,3,Austria
 Guamblin Island,-44.85,-75.08,park,3,Chile
 Guffert,47.5469,11.7892,peak,3,Austria
 Guindy National Park,13.0026,80.2308,park,3,Tamil Nadu
-Gulf Islands National Park Reserve,48.8506,-123.4478,park,3,British Columbia
-Gutulia National Park,62.0167,12.1667,park,3,Norway
 Gæđgesčåkka,68.7994,19.0885,peak,3,Norway
-Hallingskarvet National Park,60.6,7.7,park,3,Norway
-Hamperokken,69.5633,19.3581,peak,3,Norway
 Hanish Islands,13.75,42.75,volcano,3,Yemen
 Haparanda Archipelago National Park,65.6049,23.7696,park,3,Sweden
-Hardangervidda National Park,60.1333,7.5,park,3,Norway
-Hardeol,30.56,80.01,peak,3,Uttarakhand
-Harmukh Mountain,34.4039,74.9019,peak,3,Jammu and Kashmir
-Hartkjølen,64.3188,13.9962,peak,3,Norway
-Hayli Gubbi,13.51,40.7164,volcano,3,Ethiopia
 Heart Peaks,58.5989,-131.963,peak,3,British Columbia
 Heilhornet,65.0771,12.139,peak,3,Norway
 Helagsfjället,62.904,12.453,peak,3,Sweden
-Helldalisen,67.6664,15.3802,peak,3,Norway
-Hengill,64.0856,-21.3136,volcano,3,Iceland
-Henri Pittier National Park,10.38,-67.619,park,3,Venezuela
 Hermannsdalstinden,67.9419,12.9378,peak,3,Norway
-Higravstinden,68.3564,14.7921,peak,3,Norway
 Hilgard Peak,44.9164,-111.4606,peak,3,Montana
 Hingol National Park,25.6,65.6667,park,3,Pakistan
-Hjerttinden,68.9954,18.2269,peak,3,Norway
-Hjortahorgi,60.5279,6.3545,peak,3,Norway
-Hochgall,46.9125,12.1417,peak,3,Italy
-Hochgolling,47.2661,13.7606,peak,3,Austria
-Hochiss,47.4586,11.7647,peak,3,Austria
-Hohe Gaisl,46.6333,12.1333,peak,3,Italy
-Hoher Riffler,47.1162,10.3713,peak,3,Austria
 Hole in the Mountain Peak,40.9508,-115.1226,peak,3,Nevada
 Honolulu,21.307,-157.858,city,3,Hawaii
-Hornopirén National Park,-41.9167,-72.2667,park,3,Chile
-Horns of Hattin,32.7997,35.4597,volcano,3,Israel
-Horton Plains National Park,6.8,80.8,park,3,Sri Lanka
-Howse Peak,51.8139,-116.6811,peak,3,Alberta
-Howser Spire,50.7297,-116.813,peak,3,British Columbia
-Hozomeen Mountain,48.9822,-121.012,peak,3,Washington
 Hualapai Peak,35.075,-113.9008,peak,3,Arizona
-Huerquehue National Park,-39.1386,-71.6664,park,3,Chile
 Hunga Tonga–Hunga Haʻapai,-20.545,-175.3925,volcano,3,Tonga
-Hyndman Peak,43.7494,-114.131,peak,3,Idaho
 Iceworm Peak,59.6086,-150.7946,peak,3,Alaska
 Ifrane National Park,33.4318,-5.1302,park,3,Morocco
-Ile-Alatau National Park,43.0667,77.1667,park,3,Kazakhstan
-Ilyinsky,51.49,157.2,volcano,3,Kamchatka
-Inaccessible Island,-37.3025,-12.6744,volcano,3,
 Indiana Dunes National Park,41.6481,-87.1081,park,3,Indiana
 Indianapolis,39.768,-86.158,city,3,Indiana
 Indravati National Park,19.3333,81.0,park,3,Chhattisgarh
-Indre Wijdefjorden National Park,79.0833,16.1,park,3,Norway
 Innuit Mountain,59.0586,-64.1161,peak,3,Newfoundland and Labrador
 Iona National Park,-16.6667,12.3333,park,3,Angola
 Iriqui National Park,29.8416,-6.5173,park,3,Morocco
 Isiboro Sécure National Park and Indigenous Territory,-15.45,-66.6667,park,3,Bolivia
 Islington,51.536,-0.103,city,3,UK
-Istinden,69.6144,20.1064,peak,3,Norway
-Istor-o-Nal,36.3869,71.8892,peak,3,Pakistan
-Ivess Peak,-42.2008,172.1152,peak,3,New Zealand
 Jabal al-Tair Island,15.54,41.83,volcano,3,Yemen
 Jabuka,43.0918,15.4601,volcano,3,Croatia
-Jack Mountain,48.7728,-120.956,peak,3,Washington
-Jaldapara National Park,26.6286,89.3775,park,3,West Bengal
 Jardines de la Reina National Park,20.8167,-78.9167,park,3,Cuba
 Jebil National Park,33.017,9.0995,park,3,Tunisia
-Jiehtanasgáisi,69.2003,20.0326,peak,3,Norway
 Jigme Singye Wangchuck National Park,27.1667,90.4333,park,3,Bhutan
-Jirisan National Park,35.29,127.632,park,3,Republic of Korea
 Johannesburg,-26.202,28.044,city,3,South Africa
-Jongsong Peak,27.8814,88.1358,peak,3,Sikkim
-Jotunheimen National Park,61.5,8.3667,park,3,Norway
 Jozani Chwaka Bay National Park,-6.233,39.404,park,3,Tanzania
-Junipero Serra Peak,36.1456,-121.419,peak,3,California
-Junkerdal National Park,66.8833,15.8,park,3,Norway
 Kafue National Park,-15.28,25.7,park,3,Zambia
 Kaieteur National Park,5.2167,-59.4167,park,3,Guyana
-Kaiserstuhl,48.0833,7.6667,volcano,3,Germany
-Kali Tiger Reserve,15.0167,74.3833,park,3,Karnataka
-Kamay Botany Bay National Park,-34.0206,151.2247,park,3,New South Wales
 Kama‘ehuakanaloa Seamount,18.92,-155.27,volcano,3,Hawaii
 Kanger Ghati National Park,18.832,82.011,park,3,Chhattisgarh
-Kangpenqing,28.5518,85.545,peak,3,Xizang
-Kangphu Kang,28.1558,90.0733,peak,3,Bhutan
-Kangtega,27.7833,86.8167,peak,3,Nepal
-Kanin,46.3601,13.439,peak,3,Italy
-Kanjut Sar II,36.14,75.4402,peak,3,Pakistan
 Kansas City,39.1,-94.579,city,3,Missouri
 Kaohsiung,22.616,120.313,city,3,Taiwan
 Karijini National Park,-22.2506,117.976,park,3,Western Australia
 Karkaraly National Park,49.4167,75.4167,park,3,Kazakhstan
 Kasanka National Park,-12.565,30.1779,park,3,Zambia
-Kasatochi Island,52.1775,-175.5083,volcano,3,Alaska
 Kasungu National Park,-13.0,33.1667,park,3,Malawi
 Katahdin,45.9044,-68.9213,peak,3,Maine
 Katavi National Park,-6.9167,31.3333,park,3,Tanzania
@@ -3896,115 +2586,53 @@ Katon-Karagay National Park,49.3,86.6,park,3,Kazakhstan
 Katowice,50.26,19.022,city,3,Poland
 Kavachi,-8.9936,157.9725,volcano,3,Solomon Islands
 Kavir National Park,34.65,52.14,park,3,Iran
-Kazbegi National Park,42.5035,44.454,park,3,Georgia
 Kejimkujik National Park,44.3992,-65.2183,park,3,Nova Scotia
-Kellenspitze,47.499,10.6301,peak,3,Austria
 Kerkis,37.7267,26.6217,peak,3,Greece
 Khaptad national park,29.27,80.99,park,3,Nepal
 Khenifiss National Park,27.972,-12.37,park,3,Morocco
-Khojali,42.9866,41.8654,peak,3,Georgia
 Khunjerab National Park,36.95,75.0833,park,3,Pakistan
 Khustain Nuruu National Park,47.7,105.9,park,3,Mongolia
 Kiang West National Park,13.3833,-15.9167,park,3,The Gambia
-Kibira National Park,-2.9147,29.4336,park,3,Burundi
 Kick-'em-Jenny,12.3,-61.64,volcano,3,Grenada
 Killington Peak,43.6044,-72.82,peak,3,Vermont
-King Peak,60.5831,-140.6539,peak,3,Yukon
-Kinmen National Park,24.4477,118.364,park,3,Taiwan
-Kintla Peak,48.9439,-114.1713,peak,3,Montana
 Kirindy Mitea National Park,-20.8103,44.1422,park,3,Madagascar
 Kirirom National Park,11.3102,104.051,park,3,Cambodia
 Kirthar National Park,25.7,67.5833,park,3,Pakistan
 Kitulo National Park,-9.0167,33.85,park,3,Tanzania
-Kleneggen,62.3967,8.2058,peak,3,Norway
-Klitsa Mountain,49.2529,-125.231,peak,3,British Columbia
-Klokon Peak,51.4768,-124.093,peak,3,British Columbia
 Kobe,34.691,135.183,city,3,Japan
-Kolumbo,36.5167,25.4917,volcano,3,Greece
-Kolåstinden,62.2589,6.311,peak,3,Norway
 Kora National Park,-0.2086,38.7361,park,3,Kenya
-Korup National Park,5.0933,8.8411,park,3,Cameroon
-Kosterhavet National Park,58.8268,11.008,park,3,Sweden
 Kouchibouguac National Park,46.8497,-64.9669,park,3,New Brunswick
 Kowloon,22.317,114.183,city,3,Hong Kong
 Kowloon City,22.33,114.192,city,3,Hong Kong
-Krafla,65.7333,-16.7833,volcano,3,Iceland
-Kreuzspitze,47.5264,10.9185,peak,3,Germany
-Krottenkopf,47.5453,11.1928,peak,3,Germany
-Kräuterin,47.6853,15.0747,peak,3,Austria
-Kråktindan,67.7094,14.9617,peak,3,Norway
-Ku-ring-gai Chase National Park,-33.615,151.2011,park,3,New South Wales
 Kundelungu National Park,-10.25,27.6,park,3,Democratic Republic of the Congo
-Kučki Kom,42.6806,19.6417,peak,3,Montenegro
-Kvigtinden,65.2262,13.7949,peak,3,Norway
-Kvitegga,62.0947,6.7019,peak,3,Norway
 Kyiv,50.455,30.524,city,3,Ukraine
-Kåtotjåkka,68.1117,18.5908,peak,3,Sweden
-Kölsay Lakes National Park,42.9645,77.5823,park,3,Kazakhstan
 L'Hospitalet de Llobregat,41.36,2.1,city,3,Spain
 La Campana National Park,-32.9667,-71.0833,park,3,Chile
-La Torre del Senyor,42.2907,0.7784,peak,3,Spain
 Lago Puelo National Park,-42.1833,-71.6833,park,3,Argentina
 Lagodekhi Protected Areas,41.82,46.28,park,3,Georgia
 Laguna Blanca National Park,-39.0414,-70.3583,park,3,Argentina
-Laguna San Rafael National Park,-47.0,-74.0,park,3,Chile
-Laila Peak,35.9567,74.9625,peak,3,Pakistan
-Laila Peak,42.9206,42.5567,peak,3,Georgia
-Lake Nakuru National Park,-0.3667,36.0833,park,3,Kenya
-Laki,64.0675,-18.23,volcano,3,Iceland
 Lal Suhanra National Park,29.3167,71.9167,park,3,Pakistan
-Lamington National Park,-28.1422,153.115,park,3,Queensland
-Langlitinden,68.8678,17.3872,peak,3,Norway
 Lanín National Park,-40.1603,-71.3575,park,3,Argentina
 Laramie Peak,42.2678,-105.4419,peak,3,Wyoming
-Latemar,46.3667,11.5667,peak,3,Italy
-Latok,35.9286,75.8233,peak,3,Pakistan
-Latschur,46.7384,13.3961,peak,3,Austria
-Lavangstinden,69.5648,19.611,peak,3,Norway
 Lavender Peak,55.6511,-129.319,peak,3,British Columbia
-Le Catogne,46.0552,7.1114,peak,3,Switzerland
-Le Môle,46.1067,6.455,peak,3,France
-Le Tabor,44.9769,5.8555,peak,3,France
-Le Taillefer,45.0395,5.925,peak,3,France
-Le Tarent,46.3822,7.1475,peak,3,Switzerland
 Legges Tor,-41.5332,147.6588,peak,3,Tasmania
 Lexington-Fayette,38.05,-84.459,city,3,Kentucky
 Limpopo National Park,-23.8667,32.1333,park,3,Mozambique
 Liuwa Plain National Park,-14.6667,22.5,park,3,Zambia
-Liwonde National Park,-14.8333,35.3333,park,3,Malawi
 Llanganates National Park,-1.1333,-78.2333,park,3,Ecuador
-Llullaillaco National Park,-24.7167,-68.6167,park,3,Chile
-Lo Tossal,42.288,1.0271,peak,3,Spain
-Loango National Park,-2.1667,9.5667,park,3,Gabon
-Loenpo Gang,28.1957,85.7995,peak,3,Xizang
-Loma Prieta,37.111,-121.844,peak,3,California
 Lomami National Park,-2.0,25.3,park,3,Democratic Republic of the Congo
 Lombenben,-15.4069,167.8461,peak,3,Vanuatu
-Lomsdal–Visten National Park,65.5744,12.7936,park,3,Norway
-Los Arrayanes National Park,-40.8614,-71.6194,park,3,Argentina
 Los Cardones National Park,-25.1253,-66.1817,park,3,Argentina
-Losiny Ostrov National Park,55.8636,37.7775,park,3,Moskovskaya
-Lovćen National Park,42.405,18.8183,park,3,Montenegro
 Lublin,51.251,22.57,city,3,Poland
-Lunag Ri,28.053,86.5516,peak,3,Nepal
 Luohu District,22.547,114.131,city,3,Guangdong
 Lyon,45.749,4.848,city,3,France
 Lökbatan Mud Volcano,40.3044,49.7092,volcano,3,Azerbaijan
-Løksetinden,68.932,17.5592,peak,3,Norway
-Lānaihale,20.8139,-156.8667,peak,3,Hawaii
 Machalilla National Park,-1.5625,-80.83,park,3,Ecuador
-Machhapuchhre,28.495,83.9492,peak,3,Nepal
 Madhav National Park,25.4667,77.75,park,3,Madhya Pradesh
 Mahale Mountains National Park,-6.2667,29.9333,park,3,Tanzania
 Maiko National Park,-0.4,27.5667,park,3,Democratic Republic of the Congo
-Maiun Chhish,36.3369,74.4661,peak,3,Pakistan
-Majestic Mountain,52.7575,-118.2156,peak,3,Alberta
-Mali i Lunxhërisë,40.1333,20.2333,peak,3,Albania
 Malá Fatra National Park,49.2139,19.0808,park,3,Slovakia
-Mamquam Mountain,49.7753,-122.851,peak,3,British Columbia
-Mamshit,31.0261,35.0639,park,3,Israel
 Manchester,53.481,-2.237,city,3,UK
-Mangart,46.44,13.6539,peak,3,Slovenia
 Manila,14.604,120.982,city,3,Philippines
 Man’gyŏngdae-ri,38.992,125.659,city,3,Dem. Rep. Korea
 Maputo National Park,-26.5,32.8,park,3,Mozambique
@@ -4012,592 +2640,268 @@ Mara Mountain,83.5715,-30.4784,peak,3,Greenland
 Marchena Island,0.35,-90.5,volcano,3,Ecuador
 Marsili,39.284,14.399,volcano,3,
 Marys Peak,44.5044,-123.5525,peak,3,Oregon
-Matajur,46.2122,13.5292,peak,3,Slovenia
 Matterhorn,41.8107,-115.3753,peak,3,Nevada
 McAfee Peak,41.5217,-115.974,peak,3,Nevada
 Mehetia,-17.8667,-148.0667,volcano,3,
 Memphis,35.15,-90.049,city,3,Tennessee
-Mera Peak,27.7,86.8667,peak,3,Nepal
 Meru National Park,-0.0936,38.2081,park,3,Kenya
-Meszah Peak,58.4786,-131.437,peak,3,British Columbia
-Mica Mountain,32.22,-110.5433,peak,3,Arizona
 Midžor,43.3939,22.6819,peak,3,Serbia
 Miguel Hidalgo,19.434,-99.2,city,3,Distrito Federal
 Mingan Archipelago National Park Reserve,50.2,-63.8292,park,3,Québec
-Mirnock,46.7589,13.7147,peak,3,Austria
 Mkomazi National Park,-4.2994,38.3894,park,3,Tanzania
 Mljet Nacionalni Park,42.7817,17.3852,park,3,Croatia
 Mokotów,52.193,21.035,city,3,Poland
 Moncayo,41.7881,-1.8383,peak,3,Spain
-Mont Chaberton,44.9647,6.7528,peak,3,Italy
-Mont Colombier,45.6444,6.1194,peak,3,France
 Mont Ventoux,44.1667,5.2833,peak,3,France
 Monte Alén National Park,1.53,10.11,park,3,Equatorial Guinea
-Monte Argentera,44.178,7.3055,peak,3,Italy
-Monte Asto,42.5812,9.2099,peak,3,France
 Monte Binga,-19.7742,33.0606,peak,3,Mozambique
-Monte Botte Donato,39.2847,16.4472,peak,3,Italy
-Monte Cadria,45.9386,10.6986,peak,3,Italy
-Monte Caplone,45.8019,10.6414,peak,3,Italy
 Monte Catria,43.4617,12.7044,peak,3,Italy
-Monte Civetta,46.38,12.0533,peak,3,Italy
-Monte Cristallo,46.5752,12.2004,peak,3,Italy
-Monte Disgrazia,46.2692,9.7492,peak,3,Italy
-Monte Generoso,45.9294,9.0192,peak,3,Italy
-Monte Gorzano,42.6178,13.3964,peak,3,Italy
-Monte Greco,41.7973,13.9943,peak,3,Italy
 Monte León National Park,-50.2642,-68.9586,park,3,Argentina
 Monte Miletto,41.4333,14.3667,peak,3,Italy
-Monte Pelmo,46.4202,12.1332,peak,3,Italy
-Monte Pisanino,44.1336,10.2144,peak,3,Italy
-Monte Renoso,42.0583,9.1336,peak,3,France
-Monte San Petrone,42.3956,9.3278,peak,3,France
-Monte San Vicino,43.3317,13.0606,peak,3,Italy
-Monte Semprevisa,41.5699,13.0918,peak,3,Italy
-Monte Sirente,42.1461,13.6111,peak,3,Italy
-Monte Tamaro,46.1039,8.866,peak,3,Switzerland
-Monte Terminillo,42.4733,12.9973,peak,3,Italy
-Monte Terza Grande,46.5269,12.6216,peak,3,Italy
-Monte Velino,42.15,13.3667,peak,3,Italy
-Monte Verzegnis,46.3623,12.9079,peak,3,Italy
-Monte Vettore,42.8167,13.2667,peak,3,Italy
-Monte Viglio,41.8845,13.3736,peak,3,Italy
 Mormon Peak,36.9741,-114.5006,peak,3,Nevada
-Morral del Pas de Soler,42.2129,0.7832,peak,3,Spain
-Moscow Peak,38.9478,71.834,peak,3,Tajikistan
-Mosi-oa-Tunya National Park,-17.8667,25.8333,park,3,Zambia
 Motijheel,23.728,90.419,city,3,Bangladesh
-Mottarone,45.8803,8.4511,peak,3,Italy
-Moukalaba-Doudou National Park,-2.43,10.42,park,3,Gabon
-Mount Abel,50.2119,-126.32,peak,3,British Columbia
-Mount Adagdak,51.9894,-176.5864,volcano,3,Alaska
 Mount Aeolus,53.27,-118.072,peak,3,Alberta
 Mount Alfred,50.2061,-124.077,peak,3,British Columbia
 Mount Allen,62.245,-142.2356,peak,3,Alaska
 Mount Amiata,42.8877,11.6244,peak,3,Italy
 Mount Arrowsmith,49.12,-124.29,peak,3,British Columbia
-Mount Augusta,39.5399,-117.92,peak,3,Nevada
-Mount Aurora,-78.2333,166.35,peak,3,Antarctica
-Mount Aylesworth,59.9247,-138.7961,peak,3,Alaska
 Mount Aylmer,51.3239,-115.4333,peak,3,Alberta
 Mount Baldy,33.9061,-109.563,peak,3,Arizona
-Mount Ball,51.1564,-116.0064,peak,3,Alberta
-Mount Barnard,59.1014,-136.97,peak,3,British Columbia
 Mount Bartle Frere,-17.3833,145.8167,peak,3,Queensland
 Mount Bassie,57.0564,-135.044,peak,3,Alaska
-Mount Bate,49.89,-126.473,peak,3,British Columbia
-Mount Bellenden Ker,-17.2642,145.8539,peak,3,Queensland
-Mount Blakiston,49.0942,-114.035,peak,3,Alberta
 Mount Bogong,-36.7325,147.3058,peak,3,Victoria
 Mount Bowen,-27.4331,145.183,peak,3,Queensland
-Mount Brazeau,52.5511,-117.3547,peak,3,Alberta
-Mount Bridgman,-66.8333,-67.3833,peak,3,Antarctica
-Mount Britannia,-64.7167,-62.6833,peak,3,Antarctica
-Mount Capanne,42.7711,10.1675,peak,3,Italy
-Mount Caubvick,58.8877,-63.7097,peak,3,Newfoundland and Labrador
-Mount Chamberlin,69.2775,-144.911,peak,3,Alaska
-Mount Church (Alaska),62.8783,-150.6858,peak,3,Alaska
-Mount Clemenceau,52.2475,-117.9578,peak,3,British Columbia
-Mount Cline,52.07,-116.6822,peak,3,Alberta
-Mount Crickmer,49.3206,-122.3769,peak,3,British Columbia
-Mount D'Archiac,-43.465,170.582,peak,3,New Zealand
-Mount Dall,62.5792,-152.294,peak,3,Alaska
-Mount Deception,47.8132,-123.2334,peak,3,Washington
 Mount Derak,29.6955,52.3818,peak,3,Iran
-Mount Earnslaw / Pikirakatahi,-44.624,168.397,peak,3,New Zealand
-Mount Edgecumbe,57.05,-135.75,volcano,3,Alaska
-Mount Elgon National Park,1.1333,34.5833,park,3,Kenya
-Mount Elliott,50.2908,-126.494,peak,3,British Columbia
 Mount Emei,29.5197,103.3325,peak,3,Sichuan
 Mount Eugene,82.4167,-66.7833,peak,3,Nunavut
 Mount Frank Rae,64.4705,-138.555,peak,3,Yukon
-Mount Fraser,52.6564,-118.319,peak,3,British Columbia
-Mount Galatea,50.8397,-115.2739,peak,3,Alberta
-Mount Gannett,61.2422,-148.193,peak,3,Alaska
 Mount Gharat,-14.2839,167.517,volcano,3,Vanuatu
-Mount Girouard,51.2361,-115.4031,peak,3,Alberta
-Mount Good Hope,51.1425,-124.1717,peak,3,British Columbia
 Mount Grappa,45.8733,11.7992,peak,3,Italy
-Mount Gunnison,38.8122,-107.382,peak,3,Colorado
 Mount Haldane,63.8603,-135.8424,peak,3,Yukon
 Mount Hamiguitan,6.74,126.1817,peak,3,Philippines
 Mount Harmer,-59.4375,-27.1824,peak,3,
-Mount Hay,59.2461,-137.6076,peak,3,British Columbia
 Mount Hayford,55.7503,-130.2858,peak,3,Alaska
 Mount Hillers,37.8874,-110.697,peak,3,Utah
-Mount Hooker,-43.831,169.674,peak,3,New Zealand
-Mount Hunter,62.9508,-151.089,peak,3,Alaska
-Mount Irene,-45.178,167.359,peak,3,New Zealand
-Mount Iriga,13.4567,123.4567,peak,3,Philippines
 Mount Jackson,-71.3833,-63.3667,peak,3,Antarctica
-Mount Jefferson,44.562,-111.505,peak,3,Montana
-Mount Jitchu Drake,28.0833,89.8333,peak,3,Bhutan
-Mount Joan,49.4153,-124.9206,peak,3,British Columbia
-Mount Kaimon,31.18,130.5283,volcano,3,Japan
-Mount Kedros,35.1817,24.6175,peak,3,Greece
-Mount Khalatsa,42.5989,43.8367,peak,3,North Ossetia
-Mount King George,60.5314,-139.7842,peak,3,Yukon
-Mount Lafayette,44.1607,-71.6444,peak,3,New Hampshire
-Mount Limbara,40.8497,9.1753,peak,3,Italy
 Mount Linn,40.0368,-122.855,peak,3,California
-Mount Lloyd George,57.8958,-124.998,peak,3,British Columbia
-Mount Lyell,51.9567,-117.1033,peak,3,British Columbia
 Mount Malindig,13.2417,122.0125,peak,3,Philippines
 Mount Manipur National Park,11.8074,92.7571,park,3,Andaman and Nicobar
-Mount Mansfield,44.5436,-72.8142,peak,3,Vermont
-Mount McKelvie,49.9881,-126.581,peak,3,British Columbia
 Mount McLoughlin,42.4445,-122.3156,peak,3,Oregon
-Mount Mihara,34.7244,139.3947,volcano,3,Japan
-Mount Minto,59.9407,-133.901,peak,3,British Columbia
 Mount Moresby,53.0192,-132.086,peak,3,British Columbia
-Mount Moriah,39.2732,-114.199,peak,3,Nevada
-Mount Murchison,-43.0039,171.378,peak,3,New Zealand
 Mount Nasorolevu,-16.6167,179.4,peak,3,Fiji
 Mount Nivea,-60.5833,-45.4833,peak,3,Antarctica
-Mount Nora,50.1542,-126.114,peak,3,British Columbia
 Mount Oave,-9.3917,-140.0783,peak,3,French Polynesia
 Mount Osore,41.279,141.12,volcano,3,Japan
-Mount Palmerston,50.4075,-126.337,peak,3,British Columbia
-Mount Pauline,53.035,-119.893,peak,3,British Columbia
 Mount Rae,50.6228,-114.9747,peak,3,Alberta
-Mount Raleigh,50.91,-124.274,peak,3,British Columbia
-Mount Revelstoke National Park,51.0858,-118.066,park,3,British Columbia
-Mount Ritter,37.6894,-119.199,peak,3,California
-Mount Robie Reid,49.4319,-122.3561,peak,3,British Columbia
-Mount Romeo,50.2594,-126.208,peak,3,British Columbia
 Mount Ruang,2.305,125.365,volcano,3,Indonesia
-Mount Rundle,51.1478,-115.4944,peak,3,Alberta
-Mount Sabine,-71.9167,169.55,peak,3,Antarctica
-Mount Saint Catherine,12.1622,-61.6753,volcano,3,Grenada
-Mount Salisbury,58.8508,-137.372,peak,3,Alaska
-Mount Sanderson,-69.2833,-70.7833,peak,3,Antarctica
-Mount Saskatchewan,52.1017,-117.095,peak,3,Alberta
 Mount Scenery,17.635,-63.2392,volcano,3,Netherlands
-Mount Sefton,-43.682,170.042,peak,3,New Zealand
-Mount Shahdagh,41.2725,48.0044,peak,3,Azerbaijan
-Mount Shuksan,48.8316,-121.603,peak,3,Washington
 Mount Siegel,38.8896,-119.5022,peak,3,Nevada
-Mount Sir Douglas,50.7225,-115.3389,peak,3,British Columbia
-Mount Sir James MacBrien,62.1231,-127.68,peak,3,Northwest Territories
 Mount Sirung,-8.5167,124.1333,volcano,3,Indonesia
-Mount Skook Davidson,58.6817,-127.332,peak,3,British Columbia
-Mount Spickard,48.9697,-121.241,peak,3,Washington
 Mount Spokane,47.9236,-117.112,peak,3,Washington
-Mount St. Bride,51.5078,-115.9553,peak,3,Alberta
 Mount Stephens,50.9706,-126.6633,peak,3,British Columbia
-Mount Stewart,52.2192,-116.9444,peak,3,Alberta
-Mount Stimson,48.5144,-113.61,peak,3,Montana
 Mount Suribachi,24.749,141.2878,volcano,3,
-Mount Tantalus,49.8181,-123.3294,peak,3,British Columbia
-Mount Tepli,42.7347,44.1297,peak,3,North Ossetia
-Mount Thielsen,43.1528,-122.0665,peak,3,Oregon
 Mount Tipton,35.5389,-114.1927,peak,3,Arizona
 Mount Tobin,40.3765,-117.5262,peak,3,Nevada
-Mount Tohivea,-17.55,-149.8167,peak,3,French Polynesia
 Mount Tomanivi,-17.6331,178.0167,peak,3,Fiji
 Mount Tomorr,40.7091,20.1418,peak,3,Albania
 Mount Tukosmera,-19.5764,169.3925,peak,3,Vanuatu
 Mount Turnbull,33.074,-110.2609,peak,3,Arizona
-Mount Tyree,-78.4117,-85.8619,peak,3,Antarctica
 Mount Uluigalau,-16.8167,179.967,peak,3,Fiji
-Mount Usu,42.5434,140.839,volcano,3,Japan
-Mount Willingdon,51.7564,-116.2497,peak,3,Alberta
 Mount Wilson,37.8392,-107.991,peak,3,Colorado
-Mount Wood,61.2328,-140.5125,peak,3,Yukon
 Mount Wrightson,31.6961,-110.8481,peak,3,Arizona
 Mount Yamantau,54.255,58.102,peak,3,Bashkortostan
-Mount Yasur,-19.5333,169.4417,volcano,3,Vanuatu
 Mount Zirkel,40.8311,-106.663,peak,3,Colorado
-Mtirala National Park,41.6842,41.8599,park,3,Georgia
-Mukurthi National Park,11.2667,76.475,park,3,Tamil Nadu
 Mungo National Park,-33.7317,143.0011,park,3,New South Wales
 Mupa National Park,-15.9167,15.5833,park,3,Angola
-Muránska planina National Park,48.7833,20.0333,park,3,Slovakia
 Myōjin-shō,31.8833,139.9167,volcano,3,
 Médanos de Coro National Park,11.6064,-69.7376,park,3,Venezuela
-Møysalen,68.526,15.4521,peak,3,Norway
-Nahlin Mountain,58.8572,-132.088,peak,3,British Columbia
 Nairobi,-1.283,36.817,city,3,Kenya
 Namadgi National Park,-35.6667,148.95,park,3,Australian Capital Territory
-Namarunu,1.98,36.43,volcano,3,Kenya
 Namdapha National Park,27.6498,96.1103,park,3,Arunachal Pradesh
 Nameri National Park,27.01,92.79,park,3,Assam
 Narashino,35.682,140.042,city,3,Japan
 National History Park,19.5736,-72.2439,park,3,Haiti
-National Marine Park of Zakynthos,37.7833,20.9,park,3,Greece
 National Nature Park Skole Beskids,49.0658,23.3954,park,3,Ukraine
-National Park - Fir of Hotova,40.3036,20.4111,park,3,Albania
 National Park of Upper Niger,10.5,-10.2,park,3,Guinea
-Navajo Mountain,37.0342,-110.8689,peak,3,Utah
-Neora Valley National Park,27.06,88.7,park,3,West Bengal
-Neptune Peak,51.875,-118.1367,peak,3,British Columbia
-Nevado Tres Cruces,-27.0981,-68.7781,peak,3,Chile
 New Taipei City,25.062,121.457,city,3,Taiwan
 Newark,40.736,-74.172,city,3,New Jersey
-Nilkantha,30.72,79.4,peak,3,Uttarakhand
-Nimrod Fortress,33.2528,35.7147,park,3,Israel
 Nimule National Park,3.7026,31.9476,park,3,South Sudan
 Nitmiluk National Park,-14.3122,132.423,park,3,Northern Territory
-Njunis,68.7493,19.488,peak,3,Norway
 Nkasa Rupara National Park,-18.4,23.65,park,3,Namibia
 Nki National Park,2.4167,14.4167,park,3,Cameroon
 Nokrek National Park,25.5333,90.1167,park,3,Meghalaya
-Nona,68.9215,16.4507,peak,3,Norway
-Nordenskiöld Land National Park,77.8667,15.3167,park,3,Norway
-Nordre Isfjorden National Park,78.4,14.3833,park,3,Norway
-Nordvest-Spitsbergen National Park,79.5833,11.5,park,3,Norway
 Norra Kvill National Park,57.7637,15.5936,park,3,Sweden
 Norra Sytertoppen,65.8923,15.2698,peak,3,Sweden
 North Gardner Mountain,48.5154,-120.502,peak,3,Washington
 North Luangwa National Park,-12.1111,32.1056,park,3,Zambia
-Notch Peak,39.1431,-113.4097,peak,3,Utah
-Nouabalé-Ndoki National Park,2.4428,16.5542,park,3,Republic of the Congo
-Novarupta,58.2667,-155.1567,volcano,3,Alaska
 Nsumbu National Park,-8.7439,30.3827,park,3,Zambia
-Numbur,27.7544,86.5731,peak,3,Nepal
-Nuorttasávllo,66.9808,16.1923,peak,3,Norway
 Nxai Pan National Park,-20.0417,24.7689,park,3,Botswana
 Nyika National Park,-10.6667,33.8333,park,3,Malawi
 Ofu-Olosega,-14.1667,-169.6167,volcano,3,American Samoa
 Oklahoma City,35.468,-97.516,city,3,Oklahoma
-Oksskolten,66.0122,14.3386,peak,3,Norway
-Ol Doinyo Lengai,-2.7617,35.9133,peak,3,Tanzania
 Omaha,41.256,-95.94,city,3,Nebraska
 Orang National Park,26.61,92.36,park,3,Assam
 Organ Needle,32.3451,-106.5614,peak,3,New Mexico
 Orhei National Park,47.3,28.9667,park,3,Moldova
 Orlando,28.538,-81.379,city,3,Florida
 Pacific Rim National Park Reserve,48.9833,-125.6667,park,3,British Columbia
-Padjelanta National Park,67.41,16.7219,park,3,Sweden
-Paganella,46.1667,11.0667,peak,3,Italy
 Pali-Aike National Park,-52.1,-69.7333,park,3,Chile
 Pan de Azúcar National Park,-26.1497,-70.6506,park,3,Chile
 Panna National Park,24.7304,80.0102,park,3,Madhya Pradesh
 Pantanal Matogrossense National Park,-17.7167,-57.3667,park,3,Mato Grosso
-Pariroa / Castle Mount,-44.848,167.78,peak,3,New Zealand
 Paris 15 Vaugirard,48.841,2.3,city,3,France
-Parseierspitze,47.1743,10.4782,peak,3,Austria
 Pasig City,14.587,121.061,city,3,Philippines
-Patscherkofel,47.2086,11.4606,peak,3,Austria
 Pavilion Mountain,50.9833,-121.683,peak,3,British Columbia
-Paštrik,42.2106,20.5233,peak,3,Kosovo
 Peak 5214.1,37.9969,74.0703,peak,3,Tajikistan
 Peak 5356,37.4567,74.5442,peak,3,Tajikistan
 Peak 5558,37.6289,73.3967,peak,3,Tajikistan
-Peak 5721,37.1328,72.8728,peak,3,Afghanistan
 Peak of Céüse,44.5086,5.9617,peak,3,France
 Pelion,39.4333,23.05,peak,3,Greece
-Pelister National Park,40.981,21.191,park,3,North Macedonia
 Pench National Park,21.6716,79.3033,park,3,Maharashtra
-Perito Moreno National Park,-47.8114,-72.2506,park,3,Argentina
 Perth,-31.952,115.861,city,3,Western Australia
 Peña Ubiña,43.0191,-5.9569,peak,3,Spain
 Peñalara,40.85,-3.956,peak,3,Spain
 Phnom Kulen National Park,13.6062,104.0957,park,3,Cambodia
 Phrumsengla National Park,27.2831,90.9778,park,3,Bhutan
-Pic Bayle,45.1378,6.1356,peak,3,France
-Pic de Bure,44.6269,5.935,peak,3,France
-Pic de Rochebrune,44.8225,6.7872,peak,3,France
 Pica d'Estats,42.6669,1.3979,peak,3,France
 Pico Mágina,37.725,-3.4667,peak,3,Spain
-Pico Posets,42.6545,0.4352,peak,3,Spain
 Pico da Antónia,15.05,-23.625,peak,3,Republic of Cabo Verde
-Pico da Esperança,38.65,-28.0833,peak,3,Portugal
 Pico da Neblina National Park,0.3424,-65.9006,park,3,Amazonas
 Pico da Vara,37.81,-25.2108,peak,3,Portugal
 Pico de Tenerife,27.7308,-18.0094,peak,3,Spain
-Pik Garmo,38.8109,72.0716,peak,3,Tajikistan
-Pik Mayakovskiy,37.0208,71.7153,peak,3,Tajikistan
-Pik Skalisty,37.6004,72.2274,peak,3,Tajikistan
-Pik Sovyetskoy Armiy,37.0253,72.0839,peak,3,Tajikistan
-Pinta Island,0.5833,-90.7536,volcano,3,Ecuador
 Pinzón Island,-0.6,-90.65,volcano,3,Ecuador
 Piper Peak,37.7043,-117.9089,peak,3,Nevada
-Piz Calderas,46.5364,9.696,peak,3,Switzerland
-Piz Di Mezzodi,46.2191,12.0355,peak,3,Italy
-Piz Platta,46.487,9.5617,peak,3,Switzerland
-Piz Sesvenna,46.706,10.4029,peak,3,Italy
 Pizzo Carbonara,37.8942,14.0253,peak,3,Italy
-Pizzo Tambò,46.497,9.2834,peak,3,Switzerland
 Podocarpus National Park,-4.2833,-79.0,park,3,Ecuador
 Point Pelee National Park,41.9667,-82.5167,park,3,Ontario
-Pointe de Charbonnel,45.2808,7.0556,peak,3,France
 Pongara National Park,0.1245,9.539,park,3,Gabon
 Popa Hill,20.9203,95.2539,peak,3,Myanmar
-Port Campbell National Park,-38.6503,143.0625,park,3,Victoria
 Portland,45.523,-122.676,city,3,Oregon
 Prague,50.088,14.421,city,3,Czech Republic
-Preah Monivong National Park,10.862,104.0322,park,3,Cambodia
-Prespa National Park,40.8256,20.8986,park,3,Albania
 Prince Albert National Park,53.9633,-106.37,park,3,Saskatchewan
 Prince Edward Island National Park,46.4167,-63.075,park,3,Prince Edward Island
 Pshish,43.4092,41.1611,peak,3,Karachay-Cherkess
-Puigmal,42.3833,2.1168,peak,3,Spain
 Pukaskwa National Park,48.25,-85.9167,park,3,Ontario
 Pukeamoamo / Mitre,-40.7883,175.4502,peak,3,New Zealand
 Puncak Trikora,-4.35,138.65,peak,3,Indonesia
-Puracé National Natural Park,2.2461,-76.4217,park,3,Colombia
 Purple Hill,-43.109,171.813,peak,3,New Zealand
-Putha Hiunchuli,28.7475,83.1458,peak,3,Nepal
-Puyehue National Park,-40.6489,-72.0844,park,3,Chile
-Pyramid Peak,36.3916,-116.612,peak,3,California
 Queulat National Park,-44.4045,-72.4035,park,3,Chile
-Quinn Peak,41.3033,-118.416,peak,3,Nevada
 Quận Bốn,10.767,106.706,city,3,Vietnam
-Rago National Park,67.4333,15.9833,park,3,Norway
-Rainbow Mountain,50.1814,-123.0539,peak,3,British Columbia
-Rainbow Peak,48.8792,-114.097,peak,3,Montana
 Rajaji National Park,30.0833,78.0333,park,3,Uttarakhand
-Rangitoto Island,-36.7867,174.8601,volcano,3,New Zealand
-Rano Kau,-27.1864,-109.4353,volcano,3,Chile
-Rano Raraku,-27.1219,-109.2889,volcano,3,Chile
 Rara National Park,29.4917,82.0722,park,3,Nepal
-Rasmustinden,69.3614,19.5282,peak,3,Norway
 Ream National Park,10.5064,103.7344,park,3,Cambodia
-Regal Mountain,61.7442,-142.865,peak,3,Alaska
-Reinheimen National Park,62.1667,7.9,park,3,Norway
-Reinviktinden,67.7211,15.6194,peak,3,Norway
 Reisa National Park,69.2,21.9667,park,3,Norway
-Reitetinden,68.8223,17.6297,peak,3,Norway
-Reißkofel,46.6856,13.1464,peak,3,Austria
-Rheinwaldhorn,46.4936,9.04,peak,3,Switzerland
-Rimo I,35.3558,77.3681,peak,3,Siachen Glacier
-Roan Mountain,36.1064,-82.1103,peak,3,Tennessee
 Rochester,43.155,-77.616,city,3,New York
 Rock Creek Butte,44.8167,-118.1036,peak,3,Oregon
 Rodna National Park,47.54,24.735,park,3,Romania
-Rohkunborri,68.5558,19.3504,peak,3,Norway
-Roignais,45.6431,6.6886,peak,3,France
 Rokatenda,-8.3167,121.7083,volcano,3,Indonesia
-Rondeslottet,61.9149,9.8512,peak,3,Norway
 Rotterdam,51.922,4.479,city,3,Netherlands
-Royal Manas National Park,26.8994,90.7581,park,3,Bhutan
 Rubondo Island National Park,-2.3,31.8333,park,3,Tanzania
-Ruby Dome,40.6219,-115.4751,peak,3,Nevada
 Rusizi National Park,-3.2477,29.2307,park,3,Burundi
-Russetinden,69.1341,19.5626,peak,3,Norway
 Ruvubu National Park,-3.111,30.373,park,3,Burundi
-Ruŋgugáisá,68.701,17.865,peak,3,Norway
-Rábida Island,-0.413,-90.709,volcano,3,Ecuador
 Río Pilcomayo National Park,-25.0644,-58.1367,park,3,Argentina
 Saadani National Park,-6.0,38.75,park,3,Tanzania
 Sacramento,38.582,-121.494,city,3,California
 Saitama,35.908,139.657,city,3,Japan
-Saiwa Swamp National Park,1.1,35.1167,park,3,Kenya
-Saklıkent Canyon,36.4688,29.4034,park,3,Turkey
 Salinas Peak,33.2981,-106.5319,peak,3,New Mexico
 Salt Lake City,40.761,-111.891,city,3,Utah
-Saltfjellet–Svartisen National Park,66.6,14.1833,park,3,Norway
 Salvador,-12.976,-38.491,city,3,Bahia
-San Benito Mountain,36.3696,-120.645,peak,3,California
 San Félix Island,-26.2986,-80.0833,volcano,3,
-San Guillermo National Park,-29.2424,-69.3537,park,3,Argentina
 Sandersons Hope,72.7039,-56.0639,peak,3,Greenland
 Sant Martí,41.418,2.199,city,3,Spain
 Santa Margarida Volcano,42.142,2.5414,volcano,3,Spain
-Santiago Island,-0.25,-90.7,volcano,3,Ecuador
 Santiago Peak,33.7105,-117.534,peak,3,California
 Sapo National Park,5.3698,-8.505,park,3,Liberia
 Sapporo,43.067,141.35,city,3,Japan
 Sariska Tiger Reserve,27.3175,76.4369,park,3,Rajasthan
-Saser Kangri II,34.8045,77.8075,peak,3,Ladakh
-Sass de Mura,46.1636,11.9253,peak,3,Italy
-Sassen – Bünsow Land National Park,78.3833,17.25,park,3,Norway
-Satopanth,30.8458,79.2132,peak,3,Uttarakhand
 Satpura National Park,22.495,78.231,park,3,Madhya Pradesh
-Savoia Peak,-64.8533,-63.4264,peak,3,Antarctica
-Schafberg,47.7764,13.4339,peak,3,Austria
-Seiland National Park,70.3833,23.1667,park,3,Norway
-Seilandstuva,70.4463,23.0951,peak,3,Norway
-Semenic-Cheile Carașului National Park,45.142,21.977,park,3,Romania
 Sentinel Peak,54.9081,-121.961,peak,3,British Columbia
 Seoraksan National Park,38.125,128.416,park,3,Republic of Korea
 Serra da Canastra National Park,-20.25,-46.5,park,3,Minas Gerais
-Serra dos Órgãos National Park,-22.4821,-43.0568,park,3,Rio de Janeiro
-Shahdag National Park,40.9239,48.2528,park,3,Azerbaijan
 Shantar Islands National Park,55.0,137.5,park,3,Khabarovsk
 Shark Tooth Mountain,50.0736,-115.58,peak,3,British Columbia
 Sharr Mountains National Park,42.2025,20.9246,park,3,Kosovo
-Shei-Pa National Park,24.4147,121.2872,park,3,Taiwan
-Shelagyote Peak,55.9549,-127.2062,peak,3,British Columbia
-Shey Phoksundo National Park,29.3581,82.8456,park,3,Nepal
 Shimbiris,10.7358,47.245,peak,3,Somaliland
 Shispare,6.4408,74.6811,peak,3,
 Shivapuri Nagarjun National Park,27.795,85.39,park,3,Nepal
-Shkhara,42.9994,43.1117,peak,3,Kabardin-Balkar
 Shuklaphanta National Park,28.8402,80.229,park,3,Nepal
 Sibillini Mountains National Park,42.906,13.195,park,3,Italy
 Sierra La Concordia (Saltillo),25.1773,-101.4074,peak,3,Coahuila
-Sierra Urbano,25.6282,-100.6113,peak,3,Nuevo León
 Sierra de La Sagra,37.95,-2.5667,peak,3,Spain
 Sierra de San Marcos,26.5,-101.8333,peak,3,Coahuila
 Sierra de la Giganta,26.1167,-111.6,peak,3,Baja California Sur
-Sierra de la Marta,25.2024,-100.3835,peak,3,Coahuila
 Sierra del Carmen,29.0316,-102.6147,peak,3,Coahuila
-Signal Peak,37.3197,-113.492,peak,3,Utah
-Silent Valley National Park,11.1333,76.4667,park,3,Kerala
 Simlipal National Park,21.75,86.33,park,3,Odisha
 Singalila National Park,27.1167,88.0667,park,3,West Bengal
-Sirdar Mountain,52.9267,-117.8117,peak,3,Alberta
 Sirmilik National Park,72.8333,-80.5833,park,3,Nunavut
 Skarvan and Roltdalen National Park,63.2167,11.4167,park,3,Norway
 Skeleton Coast National Park,-19.19,12.72,park,3,Namibia
 Skuleskogen National Park,63.111,18.4842,park,3,Sweden
-Sky Pilot Mountain,49.6344,-123.0864,peak,3,British Columbia
-Skåla,62.7387,7.6189,peak,3,Norway
 Slide Mountain,41.9986,-74.3864,peak,3,New York
-Sloan Peak,48.0414,-121.3402,peak,3,Washington
-Smisetnebba,62.8034,8.4343,peak,3,Norway
-Smørskredtindane,62.1999,6.7318,peak,3,Norway
-Snaring Mountain,53.0381,-118.3306,peak,3,Alberta
-Snežnik,45.5889,14.4467,peak,3,Slovenia
 Socorro Island,18.7844,-110.975,volcano,3,Colima
-Soltindan,69.8895,19.3336,peak,3,Norway
-Somnus,-44.664,168.221,peak,3,New Zealand
-Sonntagshorn,47.6822,12.6958,peak,3,Germany
 Souss-Massa National Park,30.075,-9.67,park,3,Morocco
 South Baldy,33.991,-107.188,peak,3,New Mexico
 Southwest National Park,-42.9333,146.1333,park,3,Tasmania
-Springbrook National Park,-28.14,153.2742,park,3,Queensland
-Stabbursdalen National Park,69.9833,24.4833,park,3,Norway
-Stadelhorn,47.5928,12.7951,peak,3,Germany
 Steens Mountain,42.6364,-118.5767,peak,3,Oregon
 Stenshuvud National Park,55.6578,14.2699,park,3,Sweden
 Stockholm,59.329,18.069,city,3,Sweden
-Store Kågtinden,70.0002,20.7984,peak,3,Norway
 Store Mosse National Park,57.2849,13.9438,park,3,Sweden
-Store Skagastølstind,61.4614,7.8714,peak,3,Norway
-Storsteinsfjellet,68.2316,17.8769,peak,3,Norway
-Storsølnkletten,61.98,10.2922,peak,3,Norway
-Stortinden,69.4522,19.1769,peak,3,Norway
-Stätzerhorn,46.7635,9.508,peak,3,Switzerland
-Sugan,42.9742,43.4436,peak,3,Kabardin-Balkar
-Sultanpur National Park,28.4623,76.8899,park,3,Haryana
-Sumaco Napo-Galeras National Park,-0.3833,-77.55,park,3,Ecuador
-Sunwapta Peak,52.3486,-117.275,peak,3,Alberta
-Sutton Peak,50.0411,-126.235,peak,3,British Columbia
 Swasey Mountain,39.3882,-113.316,peak,3,Utah
-Synevyr National Nature Park,48.5,23.7,park,3,Ukraine
-Sætertinden,68.5866,16.362,peak,3,Norway
-Sølen,61.8847,11.5167,peak,3,Norway
-Sør-Spitsbergen National Park,77.15,16.2833,park,3,Norway
-Taal Volcano,14.01,120.9975,volcano,3,Philippines
-Taboche,27.8975,86.7792,peak,3,Nepal
 Tadoba-Andhari Tiger Reserve,20.2487,79.4253,park,3,Maharashtra
 Takamatsu,34.333,134.05,city,3,Japan
 Talassemtane National Park,35.1828,-5.2352,park,3,Morocco
 Tamu Massif,33.0,158.0,volcano,3,
 Tara National Park,43.9067,19.305,park,3,Serbia
-Taseko Mountain,51.2333,-123.4736,peak,3,British Columbia
 Taveuni,-16.8167,-179.967,peak,3,Fiji
 Tayrona National Natural Park,11.31,-73.997,park,3,Colombia
-Taza National Park,36.7002,5.5594,park,3,Algeria
 Tazekka National Park,34.0827,-4.1462,park,3,Morocco
-Tbilisi National Park,41.8667,44.9333,park,3,Georgia
 Te Urewera National Park,-38.539,177.029,park,3,New Zealand
 Tehran,35.694,51.422,city,3,Iran
 Tekao,-8.8442,-140.1658,peak,3,French Polynesia
-Tel Be'er Sheva,31.2448,34.8401,park,3,Israel
 Teleno,42.3469,-6.3922,peak,3,Spain
 Temetiu,-9.7972,-139.08,peak,3,French Polynesia
-Teneguía,28.4733,-17.8517,volcano,3,Spain
-Tengi Ragi Tau,27.8579,86.5541,peak,3,Nepal
 Terra Nova National Park,48.5306,-53.9281,park,3,Newfoundland and Labrador
 Tesso Nilo National Park,-0.1667,101.75,park,3,Indonesia
-Tetrahedron Peak,49.6079,-123.5671,peak,3,British Columbia
 Tetuán de las Victorias,40.46,-3.697,city,3,Spain
 The Hague,52.077,4.299,city,3,Netherlands
-The Quill,17.4778,-62.9597,volcano,3,Netherlands
-Thethi National Park,42.3958,19.7744,park,3,Albania
 Thompson Peak,41.0005,-123.048,peak,3,California
 Thousand Islands National Park,44.3525,-75.955,park,3,New York
 Thumb Peak,9.7833,118.6,peak,3,Philippines
 Thy National Park,56.947,8.422,park,3,Denmark
 Tiger Island,13.2656,-87.6378,volcano,3,Honduras
-Tin Mountain,36.8865,-117.4561,peak,3,California
-Titlis,46.7719,8.4378,peak,3,Switzerland
 Tlemcen National Park,34.7063,-1.4597,park,3,Algeria
-Tofane,46.5333,12.05,peak,3,Italy
-Torngat Mountains National Park,59.4358,-63.6964,park,3,Newfoundland and Labrador
-Toro Peak,33.5234,-116.426,peak,3,California
 Toro Toro National Park,-18.1,-65.7667,park,3,Bolivia
 Torre,40.3219,-7.6129,peak,3,Portugal
 Tortuguero National Park,10.4232,-83.4967,park,3,Costa Rica
-Tossal de Cabosi,42.3663,0.762,peak,3,Spain
-Tossal del Castell,42.1514,0.8009,peak,3,Spain
 Trapper Peak,45.8899,-114.298,peak,3,Montana
 Trask Mountain,45.3712,-123.4558,peak,3,Oregon
-Treble Mountain,-46.002,166.699,peak,3,New Zealand
-Tresticklan National Park,59.0256,11.7577,park,3,Sweden
 Troglav,43.9481,16.5925,peak,3,Bosnia and Herzegovina
-Trolla,62.6859,8.732,peak,3,Norway
-Trollfjellet,68.4769,16.2739,peak,3,Norway
-Trollvasstinden,62.0396,5.9934,peak,3,Norway
-Tromsdalstinden,69.6072,19.1458,peak,3,Norway
 Truchas Peak,35.9628,-105.6453,peak,3,New Mexico
 Tsavo West National Park,-3.3167,38.1333,park,3,Kenya
 Tsingy de Namoroka National Park,-16.4667,45.3333,park,3,Madagascar
-Tsitsutl Peak,52.7233,-125.78,peak,3,British Columbia
-Tuchodi Peak,58.0911,-124.88,peak,3,British Columbia
 Tuktut Nogait National Park,68.8187,-121.749,park,3,Northwest Territories
-Tukuche Peak,28.7455,83.5577,peak,3,Nepal
 Tulsa,36.154,-95.993,city,3,Oklahoma
-Tunku Abdul Rahman National Park,5.9667,116.0,park,3,Malaysia
-Tupopdan,36.5569,74.9269,peak,3,Pakistan
-Turó de l'Home,41.7765,2.4348,peak,3,Spain
-Turó del Clot del Piu,42.2529,0.865,peak,3,Spain
-Tusheti National Park,42.41,45.4869,park,3,Georgia
-Tymfi,39.9972,20.8139,peak,3,Greece
-Töfsingdalen National Park,62.1654,12.4801,park,3,Sweden
 Ubajara National Park,-3.7663,-40.898,park,3,Ceará
-Udawalawe National Park,6.4383,80.8885,park,3,Sri Lanka
 Udzungwa Mountains National Park,-7.8,36.6833,park,3,Tanzania
-Uilpata,42.7747,43.8052,peak,3,North Ossetia
 Ukkusiksalik National Park,65.4986,-87.8953,park,3,Nunavut
 Ulu Temburong National Park,4.478,115.208,park,3,Brunei Darussalam
 Uncompahgre Peak,38.0717,-107.4622,peak,3,Colorado
 Upemba National Park,-9.0167,26.5833,park,3,Democratic Republic of the Congo
 Upper West Side,40.787,-73.975,city,3,New York
-Ushba,43.1239,42.6596,peak,3,Georgia
-Ute Mountain,37.2842,-108.7786,peak,3,Colorado
-Uummannaq,70.7131,-52.1311,peak,3,Greenland
-Vadvetjåkka National Park,68.5413,18.4327,park,3,Sweden
 Vaganski vrh,44.3673,15.5046,peak,3,Croatia
-Val Grande National Park,46.0292,8.4594,park,3,Italy
 Valmiki National Park,27.0652,84.1793,park,3,Bihar
-Vanil Noir,46.5285,7.1484,peak,3,Switzerland
 Vansda National Park,20.7333,73.4667,park,3,Gujarat
-Varangerhalvøya National Park,70.3333,29.6333,park,3,Norway
-Vashlovani National Park,41.2,46.3833,park,3,Georgia
-Vassdalsfjellet,69.099,19.9246,peak,3,Norway
 Vavul Mala,11.4275,76.1308,peak,3,Kerala
-Veliki Vitao,43.2255,18.7572,peak,3,Montenegro
-Vezzana,46.25,11.8672,peak,3,Italy
-Veľká Fatra National Park,49.0167,19.1167,park,3,Slovakia
-Vicente Pérez Rosales National Park,-41.1722,-72.4489,park,3,Chile
-Vignemale,42.7739,-0.1475,peak,3,France
 Vila Andrade,-23.626,-46.728,city,3,São Paulo
 Virachey National Park,14.3257,106.998,park,3,Cambodia
-Virginia Peak,39.7557,-119.4613,peak,3,Nevada
-Vitosha,42.5667,23.2833,peak,3,Bulgaria
 Vogelsberg,50.5333,9.2333,volcano,3,Germany
-Volcán Cerro Negro,12.5078,-86.7033,volcano,3,Nicaragua
-Volcán Zapatera,11.73,-85.82,volcano,3,Nicaragua
-Vulcano,38.4042,14.9658,volcano,3,Italy
 Vuntut National Park,68.3069,-140.048,park,3,Yukon
 Wadden Sea National Park,55.25,8.4833,park,3,Denmark
 Wapusk National Park,57.7739,-93.3714,park,3,Manitoba
-Ward Mountain,39.1002,-114.921,peak,3,Nevada
 Washington,38.895,-77.036,city,3,District of Columbia
-Washpool National Park,-29.365,152.3344,park,3,New South Wales
-Waucoba Mountain,37.022,-118.0078,peak,3,California
 Waza National Park,11.2667,14.4167,park,3,Cameroon
-Weissmies,46.1278,8.0119,peak,3,Switzerland
-Welch Peak,49.16,-121.601,peak,3,British Columbia
 West Spanish Peak,37.3756,-104.9931,peak,3,Colorado
-Wełkyj Werch,48.6475,23.2295,peak,3,Ukraine
 Wheeler Peak,36.5569,-105.417,peak,3,New Mexico
-White Chuck Mountain,48.2096,-121.4176,peak,3,Washington
 Whitewater Baldy,33.3236,-108.6411,peak,3,New Mexico
 Wicklow Mountains National Park,53.018,-6.398,park,3,Ireland
 Wild Nephin National Park,54.0167,-9.7,park,3,Ireland
@@ -4605,36 +2909,18 @@ Wilpattu National Park,8.4333,80.0,park,3,Sri Lanka
 Wilsons Promontory National Park,-39.0133,146.394,park,3,Victoria
 Winnipeg,49.884,-97.147,city,3,Manitoba
 Wyoming Peak,42.6044,-110.6243,peak,3,Wyoming
-Wöllaner Nock,46.7767,13.8283,peak,3,Austria
 Wŏnsan,39.153,127.444,city,3,Dem. Rep. Korea
 Yacurí National Park,-4.706,-79.365,park,3,Ecuador
-Yakawa Kang,28.8078,83.9425,peak,3,Nepal
 Yangudi Rassa National Park,11.0,40.8333,park,3,Ethiopia
 Yankari National Park,9.3,10.5,park,3,Nigeria
 Yekaterinburg,56.857,60.615,city,3,Sverdlovsk
-Ytre Hvaler National Park,59.0167,10.8,park,3,Norway
-Yudychvumchorr,67.7186,33.4339,peak,3,Murmansk
-Yukshin Gardan Sar,36.25,75.375,peak,3,Pakistan
 Zaamin National Park,39.613,68.501,park,3,Uzbekistan
-Zambezi National Park,-17.9265,25.6344,park,3,Zimbabwe
 Zardak Peak,27.8783,67.0817,peak,3,Pakistan
 Zavodovski Island,-56.3,-27.58,volcano,3,
-Zongophu Kang,28.166,90.1826,peak,3,Bhutan
-Zuckerhütl,46.9644,11.1536,peak,3,Austria
-Zuqar Island,14.0128,42.7419,volcano,3,Yemen
-Zwiesel,47.7558,12.8119,peak,3,Germany
-pic de Soularac,42.818,1.7811,peak,3,France
-Áhkká,67.5781,17.4847,peak,3,Sweden
-Áhkátjåhkkå,67.3253,17.4893,peak,3,Sweden
-Ähpar,67.3345,17.9392,peak,3,Sweden
 Ängsö National Park,59.6236,18.7639,park,3,Sweden
-Ånderdalen National Park,69.2,17.2667,park,3,Norway
 Île Amsterdam,-37.8258,77.5547,volcano,3,
 Île Saint-Paul,-38.73,77.5222,volcano,3,
 Ølfjellet,66.7894,15.2521,peak,3,Norway
-Øvre Dividal National Park,68.6333,19.8667,park,3,Norway
 Øvre Pasvik National Park,69.0935,28.9505,park,3,Norway
 İzmir,38.413,27.138,city,3,Turkey
-Říp Mountain,50.3865,14.2896,volcano,3,Czech Republic
-Šalmmečohkat,68.4328,19.3588,peak,3,Sweden
 Žemaitija National Park,56.044,21.889,park,3,Lithuania

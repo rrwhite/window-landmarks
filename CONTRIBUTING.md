@@ -20,6 +20,7 @@ Rules of thumb:
 - **Cities are rated by skyline**, not population. A city of 5 million with no towers is a 4 at most, for its lights at night.
 - **Canyons and fjords top out at 5** unless they're truly exceptional (the Grand Canyon is a 10).
 - **Nothing underwater.** Seamounts and submarine volcanoes don't belong here.
+- **No crowding.** Within any 50 km, a minor sight (1 to 4) only stays if nothing else is kept nearby, and a 5 to 7 only stays if fewer than two others are. 8+ and cities always stay. `scripts/thin.py` applies this; run it after adding sights.
 
 ## Making a change
 
