@@ -20,7 +20,7 @@ Rules of thumb:
 - **Cities are rated by skyline**, not population. A city of 5 million with no towers is a 4 at most, for its lights at night.
 - **Canyons and fjords top out at 5** unless they're truly exceptional (the Grand Canyon is a 10).
 - **Nothing underwater.** Seamounts and submarine volcanoes don't belong here.
-- **Low-altitude sights** (stadiums, bridges, airports, campuses, towers, wind farms, quarries) are rated for how they look on the climb or approach, mostly 3 to 6, and carry a `max_alt` in feet: 20,000 for stadiums, bridges and ports, 25,000 for airports, campuses, wind farms, mines and dams, 15,000 for single towers and monuments. A new city with no notable skyline gets a ceiling of 25,000 too.
+- **Low-altitude sights** (stadiums, bridges, airports, campuses, towers, wind farms, quarries) are rated for how they look on the climb or approach, mostly 3 to 6, and carry a `max_alt` in feet: 20,000 for stadiums, bridges and ports, 25,000 for airports, campuses, wind farms, mines and dams, 15,000 for single towers and monuments. Cities with no real skyline only belong if they are large (400,000+ people), and get a ceiling of 25,000 ft unless over a million.
 - **No crowding.** Within any 50 km, a minor sight (1 to 4) only stays if nothing else is kept nearby, and a 5 to 7 only stays if fewer than two others are. 8+ and cities always stay. `scripts/thin.py` applies this; run it after adding sights.
 
 ## Making a change

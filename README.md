@@ -6,7 +6,7 @@ It powers Window, an app that tells you which side of the plane to sit on.
 
 ## The data
 
-`data/sights.csv` is the source of truth: 7,574 sights, one per row.
+`data/sights.csv` is the source of truth: 6,337 sights, one per row.
 
 | column | meaning |
 | --- | --- |
@@ -21,7 +21,7 @@ It powers Window, an app that tells you which side of the plane to sit on.
 
 ## Where it came from
 
-- **Wikidata**: peaks ranked by prominence, volcanoes, national parks, large lakes, glaciers, canyons and fjords; cities by population; stadiums by capacity; skyscrapers by height; airports, bridges, dams, ports, theme parks, race tracks, wind farms and mines by how widely they're documented. Wikidata is CC0.
+- **Wikidata**: peaks ranked by prominence, volcanoes, national parks, large lakes, glaciers, canyons and fjords; cities over 400,000 people; stadiums by capacity; skyscrapers by height; airports, bridges, dams, ports, theme parks, race tracks, wind farms and mines by how widely they're documented. Wikidata is CC0.
 - **Natural Earth**: state and country boundaries for the `region` column. Public domain.
 - **Hand curation**: a starter list of famous sights, skyline ratings for cities (by count of 150 m+ towers, not population), and many rating fixes.
 

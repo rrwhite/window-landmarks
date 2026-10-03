@@ -74,7 +74,8 @@ cities = {}
 for x in json.load(open(W + 'cities.json')):
     q = qid(x); pop = num(x, 'pop') or 0; la, lo = pt(x); n = x['l']['value']
     if q in cities and cities[q][6] >= pop: continue
-    r = 5 if pop >= 1e6 else 4 if pop >= 4e5 else 3  # by size only; skyline ratings stay hand-made
+    if pop < 4e5: continue  # no skyline to speak of (Sunnyvale); big ones only
+    r = 5 if pop >= 1e6 else 4  # by size only; skyline ratings stay hand-made
     cities[q] = [n, round(la, 4), round(lo, 4), 'city', r, 0 if pop >= 1e6 else 25000, pop]
 json.dump({'low': low, 'cities': list(cities.values())}, open(W + 'new_raw.json', 'w'))
 print(len(low), 'low;', len(cities), 'cities')
