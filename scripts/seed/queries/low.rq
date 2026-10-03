@@ -1,0 +1,8 @@
+SELECT ?i ?l ?c ?t ?sl ?h ?cap WHERE {
+  VALUES ?t { wd:Q3918 wd:Q875538 wd:Q902104 wd:Q12280 wd:Q12570 wd:Q158218 wd:Q537127 wd:Q158555 wd:Q11303 wd:Q12518 wd:Q11166728
+              wd:Q194356 wd:Q2224615 wd:Q1418034 wd:Q12323 wd:Q2252520 wd:Q188040 wd:Q44782 wd:Q194195 wd:Q2416723 wd:Q1777138 wd:Q2338524 }
+  ?i wdt:P31 ?t; wdt:P625 ?c; wikibase:sitelinks ?sl. FILTER(?sl >= 6)
+  OPTIONAL { ?i wdt:P2048 ?h }
+  OPTIONAL { ?i wdt:P2109 ?cap }
+  ?i rdfs:label ?l. FILTER(lang(?l)="en")
+}

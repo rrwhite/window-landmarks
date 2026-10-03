@@ -1,0 +1,4 @@
+SELECT ?i WHERE {
+  VALUES ?t { wd:Q483110 wd:Q11303 wd:Q12518 wd:Q12280 wd:Q537127 wd:Q12570 wd:Q194195 wd:Q2338524 }
+  ?i wdt:P31 ?t. { ?i wdt:P576 ?x } UNION { ?i wdt:P5817 wd:Q56556915 } UNION { ?i wdt:P5817 wd:Q12377751 } UNION { ?i wdt:P5817 wd:Q811683 }
+}

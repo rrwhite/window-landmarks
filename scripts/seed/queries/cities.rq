@@ -1,0 +1,6 @@
+SELECT ?i ?l ?c ?pop ?sl WHERE {
+  ?i wdt:P1082 ?pop. FILTER(?pop >= 150000)
+  ?i wdt:P31 ?t. VALUES ?t { wd:Q515 wd:Q1549591 wd:Q1093829 wd:Q200250 wd:Q22865 wd:Q5119 wd:Q1637706 wd:Q15284 wd:Q3957 wd:Q902814 wd:Q1066984 wd:Q7930989 wd:Q13218382 }
+  ?i wdt:P625 ?c; wikibase:sitelinks ?sl.
+  ?i rdfs:label ?l. FILTER(lang(?l)="en")
+}

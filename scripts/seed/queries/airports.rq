@@ -1,0 +1,5 @@
+SELECT ?i ?l ?c ?iata ?sl WHERE {
+  ?i wdt:P238 ?iata; wdt:P625 ?c; wikibase:sitelinks ?sl. FILTER(?sl >= 35)
+  ?i wdt:P31/wdt:P279* wd:Q1248784.
+  ?i rdfs:label ?l. FILTER(lang(?l)="en")
+}

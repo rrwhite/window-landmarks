@@ -1,0 +1,7 @@
+SELECT ?i ?l ?c ?t ?sl ?h WHERE {
+  VALUES ?t { wd:Q1440300 wd:Q1068842 wd:Q179700 wd:Q641226 wd:Q4989906 wd:Q16560 wd:Q23413 }
+  ?i wdt:P31 ?t; wdt:P625 ?c; wikibase:sitelinks ?sl. FILTER(?sl >= 30)
+  FILTER NOT EXISTS { ?i wdt:P576 ?gone }
+  OPTIONAL { ?i wdt:P2048 ?h }
+  ?i rdfs:label ?l. FILTER(lang(?l)="en")
+}

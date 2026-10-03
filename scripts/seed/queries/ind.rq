@@ -1,0 +1,7 @@
+SELECT ?i ?l ?c ?t ?sl ?cap ?area WHERE {
+  VALUES ?t { wd:Q194356 wd:Q2224615 wd:Q1418034 wd:Q2252520 wd:Q188040 wd:Q820477 wd:Q15911738 }
+  ?i wdt:P31 ?t; wdt:P625 ?c; wikibase:sitelinks ?sl. FILTER(?sl >= 2)
+  OPTIONAL { ?i wdt:P2109 ?cap }
+  OPTIONAL { ?i wdt:P2046 ?area }
+  ?i rdfs:label ?l. FILTER(lang(?l)="en")
+}
