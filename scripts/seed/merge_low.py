@@ -94,4 +94,4 @@ for r in allr: w.writerow([r[0], round(r[1], 4), round(r[2], 4), r[3], r[4], r[5
 json.dump({'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [round(r[2], 4), round(r[1], 4)]},
   'properties': {'name': r[0], 'kind': r[3], 'rating': r[4], 'region': r[5], **({'max_alt': r[6]} if r[6] else {})}} for r in allr]},
   open(REPO + 'data/sights.geojson', 'w'), ensure_ascii=False)
-open('/home/claude/rrw-seat/netlify/functions/plan/data/landmarks.mjs', 'w').write('export default ' + json.dumps([[r[0], round(r[1], 4), round(r[2], 4), r[3], r[4], r[5], r[6] or 0] for r in allr], separators=(',', ':'), ensure_ascii=False) + ';\n')
+open(W + 'landmarks.mjs', 'w').write('export default ' + json.dumps([[r[0], round(r[1], 4), round(r[2], 4), r[3], r[4], r[5], r[6] or 0] for r in allr], separators=(',', ':'), ensure_ascii=False) + ';\n')
