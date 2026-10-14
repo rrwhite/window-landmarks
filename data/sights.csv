@@ -3926,7 +3926,6 @@ Croke Park,53.3608,-6.2511,stadium,5,Ireland,20000
 Los Angeles Memorial Coliseum,34.0142,-118.2878,stadium,5,California,20000
 Iwami Ginzan Silver Mine,35.1072,132.4375,mine,5,Japan,25000
 Zarafshon,41.5667,64.2,mine,5,Uzbekistan,25000
-Ytterby mine,59.4265,18.3535,mine,5,Sweden,25000
 Bochnia Salt Mine,49.9692,20.4175,mine,5,Poland,25000
 Caesars Superdome,29.9508,-90.0811,stadium,5,Louisiana,20000
 Narendra Modi Stadium,23.0917,72.5975,stadium,5,Gujarat,20000
@@ -3992,11 +3991,9 @@ Tiger Stadium,30.4119,-91.1856,stadium,5,Louisiana,20000
 Notre Dame Stadium,41.6983,-86.2339,stadium,5,Indiana,20000
 Dalian Sports Center,39.02,121.564,stadium,5,Liaoning,20000
 Neyland Stadium,35.955,-83.925,stadium,5,Tennessee,20000
-Stadion der Weltjugend,52.5339,13.3767,stadium,5,Germany,20000
 Roscoe Wind Farm,32.2644,-100.344,windfarm,5,Texas,25000
 Beaver Stadium,40.8122,-77.8561,stadium,5,Pennsylvania,20000
 Husky Stadium,47.6503,-122.3017,stadium,5,Washington,20000
-Estádio José Alvalade (1956),38.7628,-9.1586,stadium,5,Portugal,20000
 Kyle Field,30.6099,-96.3405,stadium,5,Texas,20000
 King Salman International Stadium,24.86,46.696,stadium,5,Saudi Arabia,20000
 Williams-Brice Stadium,33.9731,-81.0192,stadium,5,South Carolina,20000
@@ -4033,7 +4030,6 @@ Dubai International Airport,25.2528,55.3644,airport,4,United Arab Emirates,25000
 Stamford Bridge,51.4817,-0.1911,stadium,4,UK,20000
 Beijing Capital International Airport,40.08,116.5844,airport,4,Beijing,25000
 Hollywood Walk of Fame,34.1014,-118.345,landmark,4,California,15000
-Cave of Altamira,43.3769,-4.1197,landmark,4,Spain,15000
 Singapore Changi Airport,1.3592,103.9894,airport,4,Singapore,25000
 Madrid-Barajas Airport,40.4722,-3.5608,airport,4,Spain,25000
 Tokyo International Airport,35.5533,139.7811,airport,4,Japan,25000
@@ -4192,7 +4188,6 @@ Shanghai International Circuit,31.3389,121.2197,racetrack,4,Shanghai,18000
 Cathedral of La Laguna,28.4889,-16.3161,landmark,4,Spain,15000
 Almas Tower,25.0688,55.1411,tower,4,United Arab Emirates,15000
 U.S. Bank Tower,34.051,-118.2544,tower,4,California,15000
-Polcevera Viaduct,44.4258,8.8889,bridge,4,Italy,20000
 Tivoli Gardens,55.6736,12.5683,themepark,4,Denmark,18000
 Efteling,51.6503,5.0481,themepark,4,Netherlands,18000
 Baku TV Tower,40.3514,49.8233,tower,4,Azerbaijan,15000
@@ -4225,7 +4220,6 @@ Victims of Acts of Terror Memorial,31.775,35.178,landmark,4,Israel,15000
 Ping An Finance Centre,22.5367,114.0503,tower,4,Guangdong,15000
 Pont de Normandie,49.4322,0.2739,bridge,4,France,20000
 Bridge of the Americas,8.9431,-79.565,bridge,4,Panama,20000
-Francis Scott Key Bridge,39.2169,-76.5283,bridge,4,Maryland,20000
 Bridge of the Slovak National Uprising,48.1383,17.1044,bridge,4,Slovakia,20000
 Trajan's Bridge,44.6238,22.667,bridge,4,Serbia,20000
 Kumsusan Palace of the Sun,39.0633,125.7891,landmark,4,Dem. Rep. Korea,15000
@@ -4289,7 +4283,6 @@ Cathedral Basilica of the Virgin of Incarnation,36.72,-4.4201,landmark,4,Spain,1
 Shizuoka Stadium,34.7432,137.9705,stadium,4,Japan,20000
 Nissan Stadium,36.1664,-86.7714,stadium,4,Tennessee,20000
 Jawaharlal Nehru Stadium,28.5829,77.2344,stadium,4,Delhi,20000
-Wankdorf Stadium,46.9628,7.465,stadium,4,Switzerland,20000
 China Zun,39.9114,116.4603,tower,4,Beijing,15000
 Gran Torre Costanera,-33.4169,-70.6067,tower,4,Chile,15000
 Rainbow Bridge,35.6364,139.7636,bridge,4,Japan,20000
@@ -4356,7 +4349,6 @@ Shenyang Olympic Sports Center Stadium,41.739,123.4575,stadium,4,Liaoning,20000
 Gaddafi Stadium,31.5133,74.3333,stadium,4,Pakistan,20000
 Paycor Stadium,39.0954,-84.516,stadium,4,Kentucky,20000
 Prince Moulay Abdellah Stadium,33.9599,-6.8891,stadium,4,Morocco,20000
-Ayresome Park,54.5642,-1.2469,stadium,4,UK,20000
 Dyke Kokaral,46.0967,60.7931,dam,4,Kazakhstan,25000
 Karakaya Dam,38.2265,39.1357,dam,4,Turkey,25000
 Yerevan TV Tower,40.1713,44.5362,tower,4,Armenia,15000
@@ -4411,7 +4403,6 @@ Wuhan Sports Center,30.5023,114.1663,stadium,4,Hubei,20000
 Shenzhen Universiade Sports Centre,22.6971,114.2122,stadium,4,Guangdong,20000
 Estádio Serra Dourada,-16.6989,-49.2339,stadium,4,Goiás,20000
 Estádio do Arruda,-8.0267,-34.8912,stadium,4,Pernambuco,20000
-Stadionul Național,44.4372,26.1522,stadium,4,Romania,20000
 Faro,62.2331,-133.3331,mine,4,Yukon,25000
 Bois du Cazier,50.3806,4.4428,mine,4,Belgium,25000
 Erdenet Mining Corporation,49.0278,104.0444,mine,4,Mongolia,25000
@@ -4477,14 +4468,12 @@ Bahir Dar Stadium,11.5845,37.3829,stadium,4,Ethiopia,20000
 Estadio Latinoamericano,23.1183,-82.3761,stadium,4,Cuba,20000
 Semple Stadium,52.6822,-7.825,stadium,4,Ireland,20000
 Palaran Stadium,-0.5864,117.1314,stadium,4,Indonesia,20000
-Victoria Ground,52.9993,-2.1825,stadium,4,UK,20000
 Dalian Suoyuwan Football Stadium,38.9513,121.6198,stadium,4,Liaoning,20000
 Crater of Diamonds State Park,34.0331,-93.6703,mine,4,Arkansas,25000
 Barbara Pit,46.1587,15.1862,mine,4,Slovenia,25000
 Tavan Tolgoi,43.625,105.4742,mine,4,Mongolia,25000
 Diavik Diamond Mine,64.4961,-110.273,mine,4,Northwest Territories,25000
 Olympic Dam mine,-30.4444,136.867,mine,4,South Australia,25000
-Coal mine Arthur de Buyer,47.677,6.6143,mine,4,France,25000
 Ngwenya Mine,-26.1978,31.0314,mine,4,Kingdom of eSwatini,25000
 Stadion Za Lužánkami,49.2127,16.6116,stadium,4,Czech Republic,20000
 Wulihe Stadium,41.7562,123.426,stadium,4,Liaoning,20000
@@ -4509,7 +4498,6 @@ L&N Federal Credit Union Stadium,38.2058,-85.7589,stadium,4,Kentucky,20000
 Toquepala Mine,-17.2456,-70.6136,mine,4,Peru,25000
 Ganina Yama,56.9419,60.4738,mine,4,Sverdlovsk,25000
 Cerrejón,11.0894,-72.6753,mine,4,Colombia,25000
-Kongsberg Silverworks,59.6328,9.5994,mine,4,Norway,25000
 Dolaucothi Gold Mines,52.0446,-3.9498,mine,4,UK,25000
 Harmony Gold,-28.0692,26.8519,mine,4,South Africa,25000
 Siglo Veinte mine,-18.42,-66.5911,mine,4,Bolivia,25000
@@ -4595,7 +4583,6 @@ Schneebergerhof Wind Park,49.6787,7.896,windfarm,4,Germany,25000
 Jade wind farm,53.6164,8.0509,windfarm,4,Germany,25000
 Windpark A7,53.0933,5.4347,windfarm,4,Netherlands,25000
 Tauern wind farm,47.2728,14.3878,windfarm,4,Austria,25000
-Eemmeerdijk Wind Farm,52.2767,5.3642,windfarm,4,Netherlands,25000
 Windpark Holtriem,53.6103,7.4292,windfarm,4,Germany,25000
 Spremberg Wind Park,51.5464,14.4244,windfarm,4,Germany,25000
 Dutch Hill/Cohocton Wind Farm,42.54,-77.5,windfarm,4,New York,25000
@@ -4662,7 +4649,6 @@ Windpark Himmelberg,48.3693,9.151,windfarm,4,Germany,25000
 Druiberg wind farm,51.9897,10.8333,windfarm,4,Germany,25000
 Unzenberg wind farm,49.9801,7.4498,windfarm,4,Germany,25000
 Fleschenbach-Neustall wind farm,50.395,9.3919,windfarm,4,Germany,25000
-Cuxhaven offshore wind turbine test site,53.8422,8.7586,windfarm,4,Germany,25000
 Nike Laakdal Wind Park,51.0992,5.0903,windfarm,4,Belgium,25000
 Jaap Rodenburg Wind Farm,52.3762,5.1334,windfarm,4,Netherlands,25000
 Vogelsberg wind farm,50.4644,9.2892,windfarm,4,Germany,25000
@@ -4686,7 +4672,6 @@ Parco eolico di Castiglione Messer Marino,41.8774,14.4252,windfarm,4,Italy,25000
 Cocullo wind farm,42.049,13.7849,windfarm,4,Italy,25000
 Collarmele wind farm,42.0734,13.6455,windfarm,4,Italy,25000
 Parco eolico di Tocco da Casauria,42.2064,13.9037,windfarm,4,Italy,25000
-Zelenogradsk wind farm,54.9333,20.35,windfarm,4,Kaliningrad,25000
 Amaranth Wind Farm,44.1001,-80.2709,windfarm,4,Ontario,25000
 Ardrossan Wind Farm,55.6833,-4.8,windfarm,4,UK,25000
 Askam and Ireleth Wind Farm,54.1872,-3.1722,windfarm,4,UK,25000
@@ -4852,7 +4837,6 @@ South Fork Wind Farm,41.092,-71.3112,windfarm,4,Rhode Island,25000
 Taiba N'Diaye Wind Power Station,15.0494,-16.8811,windfarm,4,Senegal,25000
 Krnovo Wind Farm,42.8738,19.117,windfarm,4,Montenegro,25000
 DSC Multi-Purpose Stadium,25.0433,55.2246,stadium,4,United Arab Emirates,20000
-Station Road,53.515,-2.3344,stadium,4,UK,20000
 Harvard University,42.3744,-71.1169,campus,3,Massachusetts,25000
 University of Oxford,51.755,-1.255,campus,3,UK,25000
 Massachusetts Institute of Technology,42.3597,-71.0919,campus,3,Massachusetts,25000
@@ -5173,7 +5157,6 @@ Wörthersee Stadion,46.6088,14.2783,stadium,3,Austria,20000
 Stade de la Beaujoire,47.2561,-1.5247,stadium,3,France,20000
 Ewood Park,53.7286,-2.4892,stadium,3,UK,20000
 Riverside Stadium,54.5783,-1.2169,stadium,3,UK,20000
-Boleyn Ground,51.5319,0.0394,stadium,3,UK,20000
 Cancún International Airport,21.0367,-86.8769,airport,3,Quintana Roo,25000
 Innsbruck Airport,47.2603,11.3439,airport,3,Austria,25000
 "Thessaloniki Airport ""Makedonia""",40.5197,22.9709,airport,3,Greece,25000
@@ -5281,7 +5264,6 @@ Tenerife North Airport,28.488,-16.3459,airport,3,Spain,25000
 Zadar Airport,44.1083,15.3467,airport,3,Croatia,25000
 Stockholm Skavsta Airport,58.7886,16.9122,airport,3,Sweden,25000
 Verona Villafranca Airport,45.3964,10.8881,airport,3,Italy,25000
-Old Phu Quoc Airport,10.2258,103.9608,airport,3,Vietnam,25000
 Mactan–Cebu International Airport,10.3167,123.9833,airport,3,Philippines,25000
 Chania International Airport,35.5317,24.1497,airport,3,Greece,25000
 Valencia Airport,39.4894,-0.4817,airport,3,Spain,25000
@@ -5346,7 +5328,6 @@ Palácio do Planalto,-15.799,-47.8608,landmark,3,Distrito Federal,15000
 Książ Castle and park complex,50.8422,16.2917,landmark,3,Poland,15000
 Barclays Center,40.6827,-73.9747,stadium,3,New York,20000
 Estádio Municipal de Braga,41.5624,-8.4308,stadium,3,Portugal,20000
-Maine Road,53.4511,-2.2353,stadium,3,UK,20000
 Roazhon Park,48.1074,-1.7128,stadium,3,France,20000
 Vasil Levski National Stadium,42.6876,23.3354,stadium,3,Bulgaria,20000
 De Grolsch Veste,52.2367,6.8375,stadium,3,Netherlands,20000
@@ -5478,7 +5459,6 @@ Circuit Bremgarten,46.95,7.4108,racetrack,3,Switzerland,18000
 WeatherTech Raceway Laguna Seca,36.5847,-121.7528,racetrack,3,California,18000
 Okayama International Circuit,34.915,134.2211,racetrack,3,Japan,18000
 Dijon-Prenois,47.362,4.8996,racetrack,3,France,18000
-Central Dynamo Stadium,55.7906,37.5599,stadium,3,Moskva,20000
 Pakhtakor Markaziy Stadium,41.3155,69.2602,stadium,3,Uzbekistan,20000
 Daejeon World Cup Stadium,36.3652,127.3251,stadium,3,Republic of Korea,20000
 Estadio El Campín,4.6459,-74.0775,stadium,3,Colombia,20000
@@ -5560,7 +5540,6 @@ Agia Sophia Stadium,38.0371,23.7415,stadium,3,Greece,20000
 Estadio Universitario,25.7228,-100.3121,stadium,3,Nuevo León,20000
 Allianz Parque,-23.5276,-46.6784,stadium,3,São Paulo,20000
 Thani bin Jassim Stadium,25.3447,51.4406,stadium,3,Qatar,20000
-Stadio Partenopeo,40.8597,14.2933,stadium,3,Italy,20000
 Dasarath Rangasala Stadium,27.6951,85.3148,stadium,3,Nepal,20000
 Wildparkstadion,49.02,8.4131,stadium,3,Germany,20000
 Stadio Arechi,40.645,14.8239,stadium,3,Italy,20000
@@ -5617,7 +5596,6 @@ Kyocera Dome Osaka,34.6693,135.4761,stadium,3,Japan,20000
 Baba Yara Stadium,6.6827,-1.6051,stadium,3,Ghana,20000
 Estadio silvadier Estanislao lopez,-31.6632,-60.7254,stadium,3,Argentina,20000
 Hassanal Bolkiah National Stadium,4.929,114.9454,stadium,3,Brunei Darussalam,20000
-Charmilles Stadium,46.2091,6.1182,stadium,3,Switzerland,20000
 Estadio Nueva Condomina,38.0422,-1.1447,stadium,3,Spain,20000
 Stade El Menzah,36.8398,10.1854,stadium,3,Tunisia,20000
 Estadio de Bata,1.82,9.7875,stadium,3,Equatorial Guinea,20000
@@ -5656,7 +5634,6 @@ Krasnodar Stadium,45.0442,39.0294,stadium,3,Krasnodar,20000
 Sultan Qaboos Sports Complex,23.5731,58.3994,stadium,3,Oman,20000
 Stade de l'Amitié,6.386,2.3793,stadium,3,Benin,20000
 Anji Arena,42.9079,47.6186,stadium,3,Dagestan,20000
-Tehelné pole,48.1636,17.1369,stadium,3,Slovakia,20000
 Estadio José Pachencho Romero,10.6741,-71.645,stadium,3,Venezuela,20000
 Gorda hilda,20.1051,-98.7561,stadium,3,Hidalgo,20000
 Europa-Park-Stadion,48.0215,7.83,stadium,3,Germany,20000
@@ -5700,7 +5677,6 @@ Timsah Arena,40.21,29.009,stadium,3,Turkey,20000
 Fez Stadium,34.0028,-4.9689,stadium,3,Morocco,20000
 Estadio Cuscatlán,13.6811,-89.2223,stadium,3,El Salvador,20000
 Ludwigsparkstadion,49.2475,6.9842,stadium,3,Germany,20000
-Lancaster Park,-43.5419,172.6542,stadium,3,New Zealand,20000
 Busan Lotte World Tower,35.0975,129.0372,tower,3,Republic of Korea,15000
 Tianjin Chow Tai Fook Binhai Center,39.0214,117.6985,tower,3,Tianjin,15000
 Grand International Mansion,23.1278,113.318,tower,3,Guangdong,15000
@@ -5854,7 +5830,6 @@ National Stadium,8.4796,-13.2491,stadium,3,Sierra Leone,20000
 Stadionul Dan Păltinișanu,45.7406,21.2442,stadium,3,Romania,20000
 Kobe Universiade Memorial Stadium,34.6821,135.0803,stadium,3,Japan,20000
 Ahmed Zabana Stadium,35.6833,-0.6362,stadium,3,Algeria,20000
-Bökelbergstadion,51.2089,6.4396,stadium,3,Germany,20000
 King Abdulaziz Sports City,21.4855,39.9737,stadium,3,Saudi Arabia,20000
 Estadio Ciudad de Lanús Néstor Díaz Pérez,-34.7177,-58.3838,stadium,3,Argentina,20000
 Estadio José Antonio Anzoátegui,10.1801,-64.6561,stadium,3,Venezuela,20000
@@ -6119,7 +6094,6 @@ Sterkfontein Dam,-28.3862,29.0242,dam,3,South Africa,25000
 Parker Dam,34.2964,-114.1397,dam,3,California,25000
 Imboulou Dam,-2.9365,16.037,dam,3,Republic of the Congo,25000
 Al-Wehda Dam,32.7342,35.8714,dam,3,Syria,25000
-Kakhovka Dam,46.7761,33.3717,dam,3,Ukraine,25000
 Amazon Tall Tower Observatory,-2.143,-59.001,tower,3,Amazonas,15000
 Zhongyuan Tower,34.7247,113.7228,tower,3,Henan,15000
 Larbi Zaouli Stadium,33.5971,-7.5467,stadium,3,Morocco,20000
@@ -6212,7 +6186,6 @@ Gajayana Stadium,-7.9755,112.625,stadium,3,Indonesia,20000
 Estadio Manuel Murillo Toro,4.4295,-75.2183,stadium,3,Colombia,20000
 Morenão,-20.5014,-54.6097,stadium,3,Mato Grosso do Sul,20000
 Olympia Park,-25.6625,27.2219,stadium,3,South Africa,20000
-"Manor Ground, Plumstead",51.4914,0.0872,stadium,3,UK,20000
 General Santander,7.8945,-72.5017,stadium,3,Colombia,20000
 Julio Cesar Villagra Stadium,-31.4035,-64.2063,stadium,3,Argentina,20000
 Akhmat Tower,43.3137,45.6952,tower,3,Chechnya,15000
@@ -6276,7 +6249,6 @@ KRDK-TV mast,47.2792,-97.3408,tower,3,North Dakota,15000
 Fernmeldeturm Nürnberg,49.4261,11.0389,tower,3,Germany,15000
 Griffin Television Tower Oklahoma,35.5494,-97.4972,tower,3,Oklahoma,15000
 Roman quarry of El Mèdol,41.1388,1.3392,mine,3,Spain,25000
-Cave di Cusa,37.6194,12.7225,mine,3,Italy,25000
 Raffles City Hangzhou,30.2508,120.2085,tower,3,Zhejiang,15000
 Far Eastern Mega Tower,25.0132,121.467,tower,3,Taiwan,15000
 Jiangsu Tower,22.5489,114.0506,tower,3,Guangdong,15000
@@ -6289,20 +6261,16 @@ Daqing Radio and Television Tower,46.5973,125.0808,tower,3,Heilongjiang,15000
 Höwenegg,47.9124,8.7383,mine,3,Germany,25000
 Höllental,50.3928,11.6885,mine,3,Germany,25000
 Fluweelengrot,50.8609,5.8304,mine,3,Netherlands,25000
-Chislehurst Caves,51.4074,0.0575,mine,3,UK,25000
 Quarries in Paris 18e arrondissement,48.8851,2.344,mine,3,France,25000
 Puy de Lemptégy,45.8181,2.947,mine,3,France,25000
 Bayan Obo mine,41.7828,109.9736,mine,3,Inner Mongol,25000
 Lake Männiku,59.3467,24.7137,mine,3,Estonia,25000
 Limhamns kalkbrott,55.5677,12.9336,mine,3,Sweden,25000
-Sangshekanan Cave,28.4854,53.5818,mine,3,Iran,25000
 LianHua Hill,22.9789,113.505,mine,3,Guangdong,25000
 Pitinga Mine,-0.7565,-60.1069,mine,3,Amazonas,25000
 Rummu Quarry,59.2259,24.1977,mine,3,Estonia,25000
 Velká Amerika,49.9594,14.1986,mine,3,Czech Republic,25000
-Caves of Folx-les-Caves,50.6683,4.9403,mine,3,Belgium,25000
 "Hundholmen, Tysfjord",68.1472,16.2669,mine,3,Norway,25000
-Kőbánya cellar system,47.485,19.1372,mine,3,Hungary,25000
 Cleveland-Lloyd Dinosaur Quarry,39.3228,-110.69,mine,3,Utah,25000
 Hyllestad quernstone quarries,68.1671,20.9169,mine,3,Sweden,25000
 Mamut Mine,6.0265,116.6557,mine,3,Malaysia,25000
