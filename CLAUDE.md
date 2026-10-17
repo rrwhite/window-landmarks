@@ -48,9 +48,9 @@ SAN, PDX, SLC, CLT, MCO, YYZ, YUL, MEX, MAD, BCN, MUC, ZRH, FCO, IST, DXB, SIN, 
 Also done: global stadium sweep, district-as-city sweep, and AUS BNA RDU TPA PIT STL MCI SAT SMF
 HNL ANC YEG YOW DUB EDI MAN CPH OSL ARN HEL VIE PRG LIS ATH DOH DEL BOM BKK KUL TPE PEK PVG MEL
 AKL GRU EZE BOG LIM SCL CUN JNB CPT CAI.
-Next: an airport coverage check. Eight busy airports were missing (STL, MCI, SAT, SMF, YEG, YOW,
-TSA, AEP), so the seed's airport list has gaps; compare against a list of airports with 5M+
-passengers a year.
+Airport coverage check done: every airport with 5M+ passengers a year (Wikidata P3872) is in.
+Next: the "Known data issues" sweep across the whole file (kind mistakes in racetrack, landmark,
+campus; Wikidata label typos; low landmark rows that are not visible objects).
 
 For each metro, within about 30 miles of the airport:
 
