@@ -55,6 +55,9 @@ For each metro, within about 30 miles of the airport:
    - `max_alt`: per CONTRIBUTING.
    - `short`: the shortest name people still recognize.
    - `size_m`: only when the kind default is wrong.
+   **Only unique things.** A low landmark earns a row when it is distinctive in itself, something a passenger would point at by name: a sign, an observatory, a giant accelerator, colored salt ponds, a theme park, a famous campus. Skip:
+   - Single downtown towers (Salesforce Tower, Transamerica Pyramid). The skyline is the `city` row.
+   - Generic islands, parks and green space with nothing distinctive to see (Treasure Island, Angel Island, Golden Gate Park). Alcatraz stays because the prison is the point.
 5. **Check thinning.** `scripts/thin.py` never removes low landmarks, so don't run it to clean a metro. Use judgment on crowding instead: within one approach, keep the few that stand out.
 6. **Commit one metro at a time.** The message lists rows added, removed, and changed, with a reason for each removal.
 

@@ -5170,7 +5170,6 @@ Toulouse-Blagnac,TLS,43.635,1.3678,airport,3,France,25000,
 José Martí International Airport,HAV,22.9889,-82.4089,airport,3,Cuba,25000,
 Kunming Changshui International Airport,KMG,25.1019,102.9292,airport,3,Yunnan,25000,
 Tunis–Carthage International Airport,TUN,36.8511,10.2272,airport,3,Tunisia,25000,
-Transamerica Pyramid,,37.7951,-122.4027,tower,3,California,15000,260
 Circuit Zandvoort,,52.3883,4.543,racetrack,3,Netherlands,18000,
 Pena Palace,,38.7878,-9.3906,landmark,3,Portugal,15000,
 "Eggenberg Castle, Graz",Eggenberg Castle,47.0739,15.3913,landmark,3,Austria,15000,
@@ -6306,10 +6305,6 @@ Oakland,,37.8044,-122.2712,city,6,California,,
 Hollywood Sign,,34.1341,-118.3215,landmark,5,California,15000,900
 Griffith Observatory,Griffith Obs.,34.1184,-118.3004,landmark,4,California,15000,700
 Getty Center,,34.078,-118.4741,landmark,4,California,15000,500
-Salesforce Tower,,37.7897,-122.3972,tower,4,California,15000,326
-Treasure Island,,37.8249,-122.371,landmark,4,California,20000,1500
-Angel Island,,37.8609,-122.4326,landmark,4,California,20000,2500
-Golden Gate Park,GG Park,37.7694,-122.4862,landmark,4,California,20000,2000
 Crystal Springs Reservoir,Crystal Springs,37.5197,-122.3578,landmark,4,California,20000,2500
 South San Francisco Sign,SSF Sign,37.6633,-122.4183,landmark,3,California,15000,400
 SLAC Linear Accelerator,SLAC,37.4116,-122.225,landmark,4,California,25000,1000
