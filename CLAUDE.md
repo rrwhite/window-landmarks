@@ -61,6 +61,33 @@ For each metro, within about 30 miles of the airport:
 5. **Check thinning.** `scripts/thin.py` never removes low landmarks, so don't run it to clean a metro. Use judgment on crowding instead: within one approach, keep the few that stand out.
 6. **Commit one metro at a time.** The message lists rows added, removed, and changed, with a reason for each removal.
 
+## What qualifies
+
+**Stadiums and arenas.** Keep one when either:
+- a team in a top professional league plays there: NFL, MLB, NBA, NHL, MLS, WNBA, CFL; the
+  top flight of football in Europe (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, and
+  the top league of other countries) and the equivalent top leagues elsewhere (NPB, J1, KBO,
+  Liga MX, Argentine Primera, A-League, AFL, NRL, IPL grounds); or
+- the venue is famous or a unique structure in its own right: SoFi, the Rose Bowl, Wembley,
+  Olympic stadiums, the Kia Forum, a World Cup final ground.
+College stadiums do not qualify on their own.
+
+**Campuses.** Famous universities with a look you can pick out (Stanford's red roofs, Berkeley's
+Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wherever it is
+(Pepperdine on its bare hillside). Not every large university.
+
+## How to find candidates
+
+1. Pull every row within 30 miles of the airport and judge each against the rules above.
+2. List candidates from: pro team venues in the metro; observatories, signs, theme parks, piers,
+   ships, salt ponds, accelerators and other one-offs passengers photograph; distinctive
+   bridges and harbors; famous campuses. Your own knowledge first; window-seat photo
+   write-ups to confirm what people actually notice.
+3. Satellite check each one: `python3 scripts/sat.py NAME LAT LON ZOOM`, then look at
+   `sat/NAME.jpg`. Move the point onto the object. Drop it if it is hidden in trees, the same
+   color as its surroundings, or smaller than about 100 m with no contrast.
+4. Fill the row (kind, rating, max_alt, short, size_m) and commit the metro.
+
 ## Known data issues to sweep while you're there
 
 - Kind mistakes: an airport was filed as a racetrack (Galeao, fixed), Nalanda Mahavihara was filed as a campus (fixed). Look for more, especially in `racetrack`, `landmark` and `campus`.
