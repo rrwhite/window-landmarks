@@ -43,9 +43,10 @@ Ratings set points; `size_m` sets visibility. If something is clearly visible fr
 The seed came from Wikidata, which ranks low landmarks by how widely they are documented. That missed things people actually photograph from the window (the Hollywood Sign, Griffith Observatory, the Getty) and kept things invisible from the air (the Hollywood Walk of Fame, a sidewalk).
 
 Done (Oct 2026): SFO, OAK, SJC, LAX, SEA, YVR, NYC (JFK/LGA/EWR), DEN, YYC, BOS, CHI (ORD/MDW),
-MIA/FLL, ATL, DFW, IAH/HOU, PHX, LAS, MSP, DTW, PHL, WAS (IAD/DCA), LHR, CDG/ORY, FRA, AMS, NRT/HND.
-Next: the remaining large hubs (SAN, PDX, SLC, CLT, MCO, YYZ, YUL, MEX, MAD, BCN, MUC, ZRH, FCO,
-IST, DXB, SIN, HKG, ICN, SYD), then a global stadium sweep against "What qualifies".
+MIA/FLL, ATL, DFW, IAH/HOU, PHX, LAS, MSP, DTW, PHL, WAS (IAD/DCA), LHR, CDG/ORY, FRA, AMS, NRT/HND,
+SAN, PDX, SLC, CLT, MCO, YYZ, YUL, MEX, MAD, BCN, MUC, ZRH, FCO, IST, DXB, SIN, HKG, ICN, SYD.
+Next: a global stadium sweep against "What qualifies", then district rows filed as `city`
+(they show up in every big metro), then smaller hubs.
 
 For each metro, within about 30 miles of the airport:
 
