@@ -51,7 +51,9 @@ AKL GRU EZE BOG LIM SCL CUN JNB CPT CAI.
 Airport coverage check done: every airport with 5M+ passengers a year (Wikidata P3872) is in.
 Known-issues sweep done (Oct 2026): underground and invisible mines, small monuments, towns
 filed as mines or ports, demolished parks and dams, old road circuits, old-town universities,
-label typos. Next: open; ask Rich.
+label typos. Scenery pass and mid-size hubs pass also done (KIX/ITM FUK CTS OKA PUS CJU KHH
+CTU CKG CAN XIY HGH WUH MNL CGK SGN HAN RUH JED AUH TLV MOW LED WAW BUD BRU GVA MIL VCE NCE BER HAM
+DUS/CGN GDL MTY RIO BSB CLE MSY CVG IND CMH OGG BNE PER). Next: open; ask Rich.
 
 For each metro, within about 30 miles of the airport:
 
