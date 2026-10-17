@@ -1,0 +1,70 @@
+# Maintaining Window Landmarks
+
+Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md describe the columns and the rating scale; read both first. This file covers how the data is used, the rules that decide what shows in the app, and the current work.
+
+## Who does what
+
+- **This repo (you):** `data/landmarks.csv` and everything under `scripts/`. Push to `main`; CI runs `scripts/validate.py`.
+- **The app (another agent):** Window Seat, repo `rrwhite/window-seat`, site rrw-seat.netlify.app. It compiles this CSV into `netlify/functions/plan/data/landmarks.mjs` with `tools/build_landmarks.py` and deploys. You never edit or deploy the app.
+- **Handoff:** when a batch is pushed, tell Rich in one line what landed (commit, rows added/removed/changed). The app agent rebuilds and deploys in batches, so several small dataset commits per app deploy is normal.
+- Talk to Rich tersely. No em-dashes.
+
+## Before every push
+
+```
+python3 scripts/validate.py     # header, kinds, ratings, max_alt, size_m, duplicates
+python3 scripts/geojson.py      # keeps data/landmarks.geojson in sync with the CSV
+```
+
+Keep the CSV's column order and `\n` line endings. Write it with `csv.DictWriter(..., lineterminator='\n')` using the existing header so diffs stay small.
+
+## How the app decides what you see
+
+**Scenery** (peaks, volcanoes, lakes, parks, cities, coasts; rows with blank `max_alt`): counts within a range that grows with the rating, up to the horizon. Rating is what matters.
+
+**Low landmarks** (rows with `max_alt`): count only while the plane is below `max_alt`, and only while the thing *looks big enough* from the window:
+
+```
+apparent = size_m * sqrt(sin(look-down angle)) / slant distance      (flat things)
+apparent = size_m / slant distance                                    (towers: size_m is height)
+counts when apparent >= 25 mrad (1.4 degrees, about three full moons side by side)
+```
+
+Flat things shrink fast at shallow angles. Rough reach at 5,000 ft: a 250 m stadium about 3 mi, an 800 m campus about 7 mi, a 2.5 km airport about 15 mi.
+
+Blank `size_m` uses the kind default: stadium 250, campus 800, office 800, airport 2500, bridge 1200, tower 200 (height), port 1500, themepark 500, racetrack 1000, landmark 300, windfarm 4000, mine 1500, dam 400.
+
+**Set `size_m` for how big it reads, not its survey footprint.** Raise it for high contrast (an island in open water, white buildings on a dark hillside, a sign facing the approach). Lower it for things that blend in (a beige campus in beige suburbs, a low stadium hidden by trees). Current overrides: Alcatraz 800, Hollywood Sign 900, Griffith Observatory 700, Getty Center 500, Googleplex 600.
+
+Ratings set points; `size_m` sets visibility. If something is clearly visible from farther than the rule allows, raise `size_m`, not the rating.
+
+## Current job: metro curation pass
+
+The seed came from Wikidata, which ranks low landmarks by how widely they are documented. That missed things people actually photograph from the window (the Hollywood Sign, Griffith Observatory, the Getty) and kept things invisible from the air (the Hollywood Walk of Fame, a sidewalk).
+
+Order: SFO, OAK, SJC, LAX, SEA, YVR, JFK, DEN, YYC. Then the other large hubs.
+
+For each metro, within about 30 miles of the airport:
+
+1. **Candidates from what people see.** List what passengers notice and photograph on the climb out and approach: signs, observatories, museums on hills, piers, islands, distinctive buildings, big stadiums, harbors, bridges, racetracks. Use your knowledge and window-seat photo write-ups. Expect 15 to 30 candidates.
+2. **Check every existing low row in the area.** Remove what can't be seen from the air: sidewalks, interiors, underground sites, demolished buildings, plaques. Fix wrong kinds and coordinates.
+3. **Verify on satellite.** Esri World Imagery tiles: `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}` (zoom 14 to 16). Judge size and contrast as seen from about 5,000 ft, slanted. Put lat/lon on the thing itself, not its street address.
+4. **Fill the row:**
+   - `kind`: from the README list. `office` is for corporate campuses, `campus` for universities.
+   - `rating`: per CONTRIBUTING, mostly 3 to 6 for low landmarks.
+   - `max_alt`: per CONTRIBUTING.
+   - `short`: the shortest name people still recognize.
+   - `size_m`: only when the kind default is wrong.
+5. **Check thinning.** `scripts/thin.py` never removes low landmarks, so don't run it to clean a metro. Use judgment on crowding instead: within one approach, keep the few that stand out.
+6. **Commit one metro at a time.** The message lists rows added, removed, and changed, with a reason for each removal.
+
+## Known data issues to sweep while you're there
+
+- Kind mistakes: an airport was filed as a racetrack (Galeao, fixed), Nalanda Mahavihara was filed as a campus (fixed). Look for more, especially in `racetrack`, `landmark` and `campus`.
+- Typos and odd capitalisation from Wikidata labels (fixed: Cofre de Perote, Imam Reza Stadium).
+- Low `landmark` rows that are not visible objects (streets, districts, events).
+
+## Rules
+
+- The data is CC BY 4.0 (see LICENSE). Use Wikidata, Natural Earth, satellite imagery for checking, and your own knowledge; never OpenStreetMap. Don't copy text or lists from sources that don't allow it.
+- Never remove a row only because it is unlikely to show. The app's rules handle visibility; remove only what truly can't be seen from the air.
