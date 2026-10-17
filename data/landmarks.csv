@@ -5170,7 +5170,7 @@ Toulouse-Blagnac,TLS,43.635,1.3678,airport,3,France,25000,
 José Martí International Airport,HAV,22.9889,-82.4089,airport,3,Cuba,25000,
 Kunming Changshui International Airport,KMG,25.1019,102.9292,airport,3,Yunnan,25000,
 Tunis–Carthage International Airport,TUN,36.8511,10.2272,airport,3,Tunisia,25000,
-Transamerica Pyramid,,37.7951,-122.4027,tower,3,California,15000,
+Transamerica Pyramid,,37.7951,-122.4027,tower,3,California,15000,260
 Circuit Zandvoort,,52.3883,4.543,racetrack,3,Netherlands,18000,
 Pena Palace,,38.7878,-9.3906,landmark,3,Portugal,15000,
 "Eggenberg Castle, Graz",Eggenberg Castle,47.0739,15.3913,landmark,3,Austria,15000,
@@ -6166,7 +6166,7 @@ Chongqing IFS T1,,29.5757,106.5679,tower,3,Chongqing,15000,
 Wuxi Suning Plaza 1,,31.578,120.2985,tower,3,Jiangsu,15000,
 Britam Tower,,-1.3001,36.813,tower,3,Kenya,15000,
 Taipei Nan Shan Plaza,,25.0344,121.5669,tower,3,Taiwan,15000,
-Sutro Tower,,37.7552,-122.4528,tower,3,California,15000,
+Sutro Tower,,37.7552,-122.4528,tower,4,California,15000,298
 Çamlıca Tower,,41.0164,29.0655,tower,3,Turkey,15000,
 Puna Pau,,-27.1482,-109.4039,mine,3,Chile,25000,
 Mons Porphyrites,,27.2476,33.301,mine,3,Egypt,25000,
@@ -6285,7 +6285,7 @@ s'Hostal quarries,,40.0034,3.8704,mine,3,Spain,25000,
 Groeve Moerslag,,50.7896,5.7599,mine,3,Netherlands,25000,
 Rota Latte Stone Quarry,,14.1718,145.2587,mine,3,Northern Mariana Islands,25000,
 San Francisco-Oakland Bay Bridge,Bay Bridge,37.7983,-122.3778,bridge,6,California,20000,
-San Mateo-Hayward Bridge,Hayward Bridge,37.585,-122.215,bridge,4,California,20000,
+San Mateo-Hayward Bridge,San Mateo Bridge,37.585,-122.215,bridge,4,California,20000,
 Dumbarton Bridge,,37.505,-122.117,bridge,3,California,20000,
 Richmond-San Rafael Bridge,,37.935,-122.45,bridge,4,California,20000,
 Oakland Coliseum,,37.7516,-122.2005,stadium,4,California,20000,
@@ -6306,3 +6306,14 @@ Oakland,,37.8044,-122.2712,city,6,California,,
 Hollywood Sign,,34.1341,-118.3215,landmark,5,California,15000,900
 Griffith Observatory,Griffith Obs.,34.1184,-118.3004,landmark,4,California,15000,700
 Getty Center,,34.078,-118.4741,landmark,4,California,15000,500
+Salesforce Tower,,37.7897,-122.3972,tower,4,California,15000,326
+Treasure Island,,37.8249,-122.371,landmark,4,California,20000,1500
+Angel Island,,37.8609,-122.4326,landmark,4,California,20000,2500
+Golden Gate Park,GG Park,37.7694,-122.4862,landmark,4,California,20000,2000
+Crystal Springs Reservoir,Crystal Springs,37.5197,-122.3578,landmark,4,California,20000,2500
+South San Francisco Sign,SSF Sign,37.6633,-122.4183,landmark,3,California,15000,400
+SLAC Linear Accelerator,SLAC,37.4116,-122.225,landmark,4,California,25000,1000
+Oracle Headquarters,Oracle HQ,37.53,-122.2652,office,4,California,25000,
+Meta Headquarters,Meta HQ,37.4848,-122.1484,office,4,California,25000,
+California's Great America,Great America,37.396,-121.9711,themepark,3,California,18000,
+South Bay Salt Ponds,Salt ponds,37.506,-122.028,feature,6,California,,
