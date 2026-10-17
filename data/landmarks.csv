@@ -4872,7 +4872,7 @@ Uppsala University,Uppsala,59.8575,17.6289,campus,3,Sweden,25000
 Brown University,Brown,41.8261,-71.4031,campus,3,Rhode Island,25000
 Jagiellonian University,Jagiellonian,50.0617,19.9339,campus,3,Poland,25000
 ETH Zurich,,47.3764,8.5479,campus,3,Switzerland,25000
-Nalanda Mahavihara,,25.1368,85.4438,campus,3,Bihar,25000
+Nalanda Mahavihara,,25.1368,85.4438,landmark,3,Bihar,25000
 Baku State University,Baku State,40.373,49.8114,campus,3,Azerbaijan,25000
 Sapienza University of Rome,Sapienza Univ. of Rome,41.9033,12.5158,campus,3,Italy,25000
 Summer Palace,,39.9975,116.2689,landmark,3,Beijing,15000
@@ -6291,8 +6291,8 @@ Dumbarton Bridge,,37.505,-122.117,bridge,3,California,20000
 Richmond-San Rafael Bridge,,37.935,-122.45,bridge,4,California,20000
 Oakland Coliseum,,37.7516,-122.2005,stadium,4,California,20000
 Chase Center,,37.768,-122.3877,stadium,3,California,20000
-Apple Park,,37.3349,-122.009,campus,5,California,25000
-Googleplex,,37.422,-122.0841,campus,4,California,25000
+Apple Park,,37.3349,-122.009,office,5,California,25000
+Googleplex,,37.422,-122.0841,office,4,California,25000
 Moffett Field and Hangar One,NUQ,37.415,-122.049,airport,5,California,25000
 Port of Oakland,Oakland Port,37.7955,-122.317,port,4,California,20000
 San Jose International Airport,SJC,37.3626,-121.929,airport,3,California,25000

@@ -1,7 +1,7 @@
 """Check data/landmarks.csv before it's merged. Run: python3 scripts/validate.py"""
 import csv, sys, pathlib
 KINDS = {'peak','range','volcano','glacier','lake','coast','canyon','island','park','desert','landmark','feature','city',
-         'stadium','campus','airport','bridge','tower','port','themepark','racetrack','windfarm','mine','dam'}
+         'stadium','campus','office','airport','bridge','tower','port','themepark','racetrack','windfarm','mine','dam'}
 HEAD = ['name','short','lat','lon','kind','rating','region','max_alt']
 p = pathlib.Path(__file__).resolve().parent.parent / 'data' / 'landmarks.csv'
 errs, seen = [], {}

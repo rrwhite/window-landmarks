@@ -13,7 +13,7 @@ It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you whi
 | `name` | Full name. Group a cluster as one landmark when you'd see it as one ("Eiger / Jungfrau"). |
 | `short` | Optional map label, as short as it can be and still be recognized: `Bay Bridge`, `Mt. Fuji`, `Chitwan NP`. Airports use their IATA code (`LHR`). Blank means use `name`. |
 | `lat`, `lon` | Decimal degrees, the point a passenger would look at. |
-| `kind` | Scenery: `peak`, `range`, `volcano`, `glacier`, `lake`, `coast`, `canyon`, `island`, `park`, `desert`, `landmark`, `feature`, `city`. Low-altitude: `stadium`, `campus`, `airport`, `bridge`, `tower`, `port`, `themepark`, `racetrack`, `windfarm`, `mine`, `dam`. |
+| `kind` | Scenery: `peak`, `range`, `volcano`, `glacier`, `lake`, `coast`, `canyon`, `island`, `park`, `desert`, `landmark`, `feature`, `city`. Low-altitude: `stadium`, `campus` (universities), `office` (corporate campuses), `airport`, `bridge`, `tower`, `port`, `themepark`, `racetrack`, `windfarm`, `mine`, `dam`. |
 | `rating` | 1 to 10. See [CONTRIBUTING.md](CONTRIBUTING.md) for the scale. |
 | `region` | US state, Canadian province, Australian state, or country. |
 | `max_alt` | Optional ceiling in feet. The landmark only counts while the plane is below it (climb out and approach). Blank means visible from cruise. |
