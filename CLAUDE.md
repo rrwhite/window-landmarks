@@ -49,8 +49,9 @@ Also done: global stadium sweep, district-as-city sweep, and AUS BNA RDU TPA PIT
 HNL ANC YEG YOW DUB EDI MAN CPH OSL ARN HEL VIE PRG LIS ATH DOH DEL BOM BKK KUL TPE PEK PVG MEL
 AKL GRU EZE BOG LIM SCL CUN JNB CPT CAI.
 Airport coverage check done: every airport with 5M+ passengers a year (Wikidata P3872) is in.
-Next: the "Known data issues" sweep across the whole file (kind mistakes in racetrack, landmark,
-campus; Wikidata label typos; low landmark rows that are not visible objects).
+Known-issues sweep done (Oct 2026): underground and invisible mines, small monuments, towns
+filed as mines or ports, demolished parks and dams, old road circuits, old-town universities,
+label typos. Next: open; ask Rich.
 
 For each metro, within about 30 miles of the airport:
 
