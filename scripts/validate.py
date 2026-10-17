@@ -2,7 +2,7 @@
 import csv, sys, pathlib
 KINDS = {'peak','range','volcano','glacier','lake','coast','canyon','island','park','desert','landmark','feature','city',
          'stadium','campus','office','airport','bridge','tower','port','themepark','racetrack','windfarm','mine','dam'}
-HEAD = ['name','short','lat','lon','kind','rating','region','max_alt']
+HEAD = ['name','short','lat','lon','kind','rating','region','max_alt','size_m']
 p = pathlib.Path(__file__).resolve().parent.parent / 'data' / 'landmarks.csv'
 errs, seen = [], {}
 with open(p, newline='', encoding='utf-8') as f:
@@ -22,6 +22,9 @@ with open(p, newline='', encoding='utf-8') as f:
         if not row['rating'].isdigit() or not 1 <= int(row['rating']) <= 10: errs.append(f'line {i}: {n}: rating must be a whole number 1 to 10')
         m = row['max_alt'].strip()
         if m and (not m.isdigit() or not 1000 <= int(m) <= 40000): errs.append(f'line {i}: {n}: max_alt must be blank or feet between 1000 and 40000')
+        z = row['size_m'].strip()
+        if z and (not z.isdigit() or not 20 <= int(z) <= 50000): errs.append(f'line {i}: {n}: size_m must be blank or meters between 20 and 50000')
+        if z and not m: errs.append(f'line {i}: {n}: size_m only applies to low landmarks (rows with max_alt)')
         key = (n.lower(), round(la, 2), round(lo, 2))
         if key in seen: errs.append(f'line {i}: {n}: duplicate of line {seen[key]}')
         seen[key] = i

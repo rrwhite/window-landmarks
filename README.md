@@ -17,6 +17,7 @@ It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you whi
 | `rating` | 1 to 10. See [CONTRIBUTING.md](CONTRIBUTING.md) for the scale. |
 | `region` | US state, Canadian province, Australian state, or country. |
 | `max_alt` | Optional ceiling in feet. The landmark only counts while the plane is below it (climb out and approach). Blank means visible from cruise. |
+| `size_m` | Optional, low landmarks only. How big it reads from the air, in meters: footprint for flat things, height for towers. Blank uses the default for its kind (stadium 250, campus and office 800, airport 2,500, bridge 1,200, tower 200). Set it higher for things that stand out more than their size suggests, like an island in open water or white buildings on a dark hillside. |
 
 `data/landmarks.geojson` is the same list as points, rebuilt by `scripts/geojson.py`, so you can browse it on a map right here on GitHub.
 

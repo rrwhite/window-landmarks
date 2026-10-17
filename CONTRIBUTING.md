@@ -23,13 +23,17 @@ Rules of thumb:
 - **Low-altitude landmarks** (stadiums, bridges, airports, campuses, offices, towers, wind farms, quarries) are rated for how they look on the climb or approach, mostly 3 to 6, and carry a `max_alt` in feet: 20,000 for stadiums, bridges and ports, 25,000 for airports, campuses, offices, wind farms, mines and dams, 15,000 for single towers and monuments. Cities with no real skyline only belong if they are large (400,000+ people), and get a ceiling of 25,000 ft unless over a million.
 - **No crowding.** Within any 50 km, a minor landmark (1 to 4) only stays if nothing else is kept nearby, and a 5 to 7 only stays if fewer than two others are. 8+ and cities always stay. `scripts/thin.py` applies this; run it after adding landmarks.
 
+## How far away a low landmark counts
+
+A low landmark counts while it looks at least 1.4 degrees across from the window (about three full moons side by side). Flat things shrink when seen at a shallow angle, so the app uses `size_m × √sin(look-down angle) ÷ distance`; towers use their height with no shrinking. A 250 m stadium counts out to about 3 miles at 5,000 ft. If something is clearly visible from farther away than that, raise its `size_m` rather than its rating.
+
 ## Short names
 
 `short` is the label on the map, where space is tight. Make it as short as people would still recognize: drop the city on a bridge (`Bay Bridge`), the country on a peak, and words like International or Hydroelectric Power Station (`Bratsk Dam`). Use NP, NM, SP, Mt., St. and Ft. Airports get their IATA code. Leave it blank if the full name is already short.
 
 ## Making a change
 
-1. Edit `data/landmarks.csv`. Keep one landmark per row and the same eight columns (`short` and `max_alt` can be blank).
+1. Edit `data/landmarks.csv`. Keep one landmark per row and the same nine columns (`short`, `max_alt` and `size_m` can be blank).
 2. Run `python3 scripts/validate.py`, then `python3 scripts/geojson.py`.
 3. Open a pull request saying what you changed and why. For a new landmark, a link (Wikipedia, Wikidata or a photo from a plane window) helps.
 
