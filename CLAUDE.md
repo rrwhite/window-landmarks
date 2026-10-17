@@ -70,7 +70,9 @@ For each metro, within about 30 miles of the airport:
   Liga MX, Argentine Primera, A-League, AFL, NRL, IPL grounds); or
 - the venue is famous or a unique structure in its own right: SoFi, the Rose Bowl, Wembley,
   Olympic stadiums, the Kia Forum, a World Cup final ground.
-College stadiums do not qualify on their own.
+College stadiums qualify only when they are the giants of college football: roughly 80,000+
+seats or a name everyone knows (Michigan Stadium, Ohio Stadium, Bryant-Denny, Beaver Stadium,
+Neyland, Kyle Field, Tiger Stadium, the Rose Bowl). Smaller college grounds do not.
 
 **Campuses.** Famous universities with a look you can pick out (Stanford's red roofs, Berkeley's
 Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wherever it is
