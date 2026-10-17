@@ -45,8 +45,12 @@ The seed came from Wikidata, which ranks low landmarks by how widely they are do
 Done (Oct 2026): SFO, OAK, SJC, LAX, SEA, YVR, NYC (JFK/LGA/EWR), DEN, YYC, BOS, CHI (ORD/MDW),
 MIA/FLL, ATL, DFW, IAH/HOU, PHX, LAS, MSP, DTW, PHL, WAS (IAD/DCA), LHR, CDG/ORY, FRA, AMS, NRT/HND,
 SAN, PDX, SLC, CLT, MCO, YYZ, YUL, MEX, MAD, BCN, MUC, ZRH, FCO, IST, DXB, SIN, HKG, ICN, SYD.
-Next: a global stadium sweep against "What qualifies", then district rows filed as `city`
-(they show up in every big metro), then smaller hubs.
+Also done: global stadium sweep, district-as-city sweep, and AUS BNA RDU TPA PIT STL MCI SAT SMF
+HNL ANC YEG YOW DUB EDI MAN CPH OSL ARN HEL VIE PRG LIS ATH DOH DEL BOM BKK KUL TPE PEK PVG MEL
+AKL GRU EZE BOG LIM SCL CUN JNB CPT CAI.
+Next: an airport coverage check. Eight busy airports were missing (STL, MCI, SAT, SMF, YEG, YOW,
+TSA, AEP), so the seed's airport list has gaps; compare against a list of airports with 5M+
+passengers a year.
 
 For each metro, within about 30 miles of the airport:
 
@@ -60,7 +64,7 @@ For each metro, within about 30 miles of the airport:
    - `short`: the shortest name people still recognize.
    - `size_m`: only when the kind default is wrong.
    **Only unique things.** A low landmark earns a row when it is distinctive in itself, something a passenger would point at by name: a sign, an observatory, a giant accelerator, colored salt ponds, a theme park, a famous campus. Skip:
-   - Single downtown towers. The skyline is the `city` row. Exception: a short list of icons whose silhouette people know from the window (Empire State, Willis, Transamerica, Space Needle, CN Tower, Burj Khalifa, Eiffel). Add to it rarely. Bare radio masts never.
+   - Single downtown towers. The skyline is the `city` row. Exception: a short list of icons whose silhouette people know from the window (Empire State, Willis, Transamerica, Space Needle, CN Tower, Burj Khalifa, Eiffel, Taipei 101, Oriental Pearl). Add to it rarely. Bare radio masts never.
    - Generic islands, parks and green space with nothing distinctive to see (Treasure Island, Angel Island, Golden Gate Park). Alcatraz stays because the prison is the point.
 5. **Check thinning.** `scripts/thin.py` never removes low landmarks, so don't run it to clean a metro. Use judgment on crowding instead: within one approach, keep the few that stand out.
 6. **Commit one metro at a time.** The message lists rows added, removed, and changed, with a reason for each removal.
