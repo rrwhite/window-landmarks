@@ -109,5 +109,5 @@ Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wh
 
 ## Rules
 
-- The data is CC BY 4.0 (see LICENSE). Use Wikidata, Natural Earth, satellite imagery for checking, and your own knowledge; never OpenStreetMap. Don't copy text or lists from sources that don't allow it.
+- The data is CC BY 4.0 (see LICENSE). Allowed sources: Wikidata (CC0), Natural Earth (public domain), NASA, USGS and NOAA (public domain), GeoNames (CC BY, credit it in README), satellite imagery for checking positions, and your own knowledge. Never OpenStreetMap: its ODbL share-alike license conflicts with CC BY. Don't copy text or lists from sources that don't allow it.
 - Never remove a row only because it is unlikely to show. The app's rules handle visibility; remove only what truly can't be seen from the air.

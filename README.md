@@ -37,3 +37,9 @@ Pull requests welcome: new landmarks, better coordinates, rating changes with a 
 ## License
 
 The data is licensed under [CC BY 4.0](LICENSE): use it for anything, including commercially, as long as you give credit. The scripts in `scripts/` are CC0.
+
+### How to credit
+
+> Data: [Window Seat](https://rrw-seat.netlify.app)
+
+A link to the app is welcome. If space is tight, "Data: Window Seat" is enough.

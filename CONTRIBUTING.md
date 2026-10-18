@@ -37,4 +37,4 @@ A low landmark counts while it looks at least 1.4 degrees across from the window
 2. Run `python3 scripts/validate.py`, then `python3 scripts/geojson.py`.
 3. Open a pull request saying what you changed and why. For a new landmark, a link (Wikipedia, Wikidata or a photo from a plane window) helps.
 
-Please don't copy data from sources that don't allow it. Wikidata, OpenStreetMap-derived facts and your own knowledge are fine.
+Contributions are licensed under CC BY 4.0, the same as the data. Please don't copy data from sources that don't allow it. Wikidata, Natural Earth, NASA, USGS, NOAA and your own knowledge are fine. Don't use OpenStreetMap: its share-alike license conflicts with CC BY.
