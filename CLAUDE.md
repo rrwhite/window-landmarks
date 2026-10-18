@@ -9,6 +9,10 @@ Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md
 - **Handoff:** when a batch is pushed, tell Rich in one line what landed (commit, rows added/removed/changed). The app agent rebuilds and deploys in batches, so several small dataset commits per app deploy is normal.
 - Talk to Rich tersely. No em-dashes.
 
+## Night scores
+
+`data/night.csv` (from `scripts/night.py`) gives each `city` row a `night` score from 1 to 10, from NASA Black Marble 2025. It is a sidecar so the CSV header stays fixed until the app reads it. Intended use in the app: on segments flown in darkness, a city's points come from `night` instead of `rating` (skylines can't be seen at night; lights can), and low landmarks don't count. When you add or move a city row, rerun the script (needs an Earthdata token from Rich) or leave the city out of night.csv; the app should treat a missing row as "no night score".
+
 ## Before every push
 
 ```

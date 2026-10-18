@@ -19,11 +19,14 @@ It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you whi
 | `max_alt` | Optional ceiling in feet. The landmark only counts while the plane is below it (climb out and approach). Blank means visible from cruise. |
 | `size_m` | Optional, low landmarks only. How big it reads from the air, in meters: footprint for flat things, height for towers. Blank uses the default for its kind (stadium 250, campus and office 800, airport 2,500, bridge 1,200, tower 200). Set it higher for things that stand out more than their size suggests, like an island in open water or white buildings on a dark hillside. |
 
+`data/night.csv` scores every `city` row for night flights, from NASA's Black Marble yearly night-lights composite (VNP46A4, 2025): `radiance_sum` is the total snow-free radiance within 15 km of the point (nW/cm²/sr), and `night` is `round(3 × log10(radiance_sum) − 7)`, clamped to 1 to 10. Riyadh, Doha, Moscow, Las Vegas and New York score 10; Pyongyang scores 5. Rebuild with `EARTHDATA_TOKEN=... python3 scripts/night.py`. Join to `landmarks.csv` on name, region, lat and lon.
+
 `data/landmarks.geojson` is the same list as points, rebuilt by `scripts/geojson.py`, so you can browse it on a map right here on GitHub.
 
 ## Where it came from
 
 - **Wikidata**: peaks ranked by prominence, volcanoes, national parks, large lakes, glaciers, canyons and fjords; cities over 400,000 people; stadiums by capacity; skyscrapers by height; airports, bridges, dams, ports, theme parks, race tracks, wind farms and mines by how widely they're documented. Wikidata is CC0.
+- **NASA Black Marble** (VNP46A4): city brightness at night for `data/night.csv`. NASA data is public domain.
 - **Natural Earth**: state and country boundaries for the `region` column. Public domain.
 - **Short names**: seeded by rules (airports to IATA codes, "National Park" to NP, "Mount" to Mt., city prefixes off bridge names) plus a hand list, then edited by hand.
 - **Hand curation**: a starter list of famous landmarks, skyline ratings for cities (by count of 150 m+ towers, not population), and many rating fixes.
