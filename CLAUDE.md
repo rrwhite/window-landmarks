@@ -125,6 +125,15 @@ Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wh
 - Typos and odd capitalisation from Wikidata labels (fixed: Cofre de Perote, Imam Reza Stadium).
 - Low `landmark` rows that are not visible objects (streets, districts, events).
 
+## Roadmap (on hold until Rich says go)
+
+- **Game-day flags.** `data/venues.csv`: each kept stadium with its tenant teams, league, and
+  schedule-source IDs (MLB StatsAPI venue/team, NHL, NBA, ESPN for NFL/MLS, football-data.org
+  for top European leagues, TheSportsDB fallback). Seed from the Wikidata tenant matches made in
+  the stadium sweep; recheck each stadium sweep. App side, flights within ~2 months: flag a game
+  near pass time ("Giants vs Dodgers at Oracle Park, 7:05"); at night a game means lights on,
+  night score ~6. Note MLB and ESPN terms are personal/non-commercial.
+
 ## Rules
 
 - The data is CC BY 4.0 (see LICENSE). Allowed sources: Wikidata (CC0), Natural Earth (public domain), NASA, USGS and NOAA (public domain), GeoNames (CC BY, credit it in README), satellite imagery for checking positions, and your own knowledge. Never OpenStreetMap: its ODbL share-alike license conflicts with CC BY. Don't copy text or lists from sources that don't allow it.
