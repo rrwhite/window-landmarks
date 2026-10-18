@@ -11,7 +11,21 @@ Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md
 
 ## Night scores
 
-`data/night.csv` (from `scripts/night.py`) gives each `city` row a `night` score from 1 to 10, from NASA Black Marble 2025. It is a sidecar so the CSV header stays fixed until the app reads it. Intended use in the app: on segments flown in darkness, a city's points come from `night` instead of `rating` (skylines can't be seen at night; lights can), and low landmarks don't count. When you add or move a city row, rerun the script (needs an Earthdata token from Rich) or leave the city out of night.csv; the app should treat a missing row as "no night score".
+`data/night.csv` (from `scripts/night.py`, NASA Black Marble 2025) has columns name, region, lat,
+lon, kind, radiance_sum, night, night_only. Join to landmarks.csv on name, region, lat, lon.
+Rules for the app on segments flown in darkness:
+- **Cities** score from `night` instead of `rating`, and ignore `max_alt` (city lights are visible
+  from cruise even when the skyline isn't). Every city row has a night score.
+- **Low landmarks** count only if they have a night.csv row (lit airports, ports, bridges, towers,
+  landmarks, theme parks, racetracks with night >= 4), using `night` for points and their usual
+  `max_alt` and size test. Everything else low is invisible at night. Stadiums have no night row:
+  their lights are on only for night games.
+- **night_only = 1** rows (gas flares, lit greenhouses, the Nile ribbon, the India-Pakistan border)
+  are not in landmarks.csv. Treat them as scenery that exists only at night.
+- **Other scenery** (peaks, lakes, coasts, glaciers): proposed moonlight rule, for the app agent to
+  decide: count it only when the moon is up and at least half full, at `rating - 2`.
+When you add or move a city or a lit low landmark, rerun the script (needs an Earthdata token from
+Rich); a row missing from night.csv simply has no night score.
 
 ## Before every push
 
