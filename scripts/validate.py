@@ -28,5 +28,26 @@ with open(p, newline='', encoding='utf-8') as f:
         key = (n.lower(), round(la, 2), round(lo, 2))
         if key in seen: errs.append(f'line {i}: {n}: duplicate of line {seen[key]}')
         seen[key] = i
+# data/blurbs.csv: one card blurb per landmark and per night_only row, keyed on name,region,lat,lon
+import re
+d = p.parent
+keys = {(x['name'], x['region'], x['lat'], x['lon']) for x in csv.DictReader(open(d / 'landmarks.csv', encoding='utf-8'))}
+keys |= {(x['name'], x['region'], x['lat'], x['lon']) for x in csv.DictReader(open(d / 'night.csv', encoding='utf-8')) if x['night_only'] == '1'}
+METRIC = re.compile(r'\d\s*(m|km|meters?|metres?|kilometers?|kilometres?|km2|hectares?)\b')
+nb = 0
+with open(d / 'blurbs.csv', newline='', encoding='utf-8') as f:
+    r = csv.DictReader(f)
+    if r.fieldnames != ['name', 'region', 'lat', 'lon', 'blurb']: sys.exit('blurbs.csv header must be name,region,lat,lon,blurb')
+    got = set()
+    for i, row in enumerate(r, start=2):
+        k = (row['name'], row['region'], row['lat'], row['lon']); t = row['blurb']; nb += 1
+        if k not in keys: errs.append(f'blurbs line {i}: {k[0]}: no matching landmark (name,region,lat,lon must match exactly)')
+        if k in got: errs.append(f'blurbs line {i}: {k[0]}: duplicate')
+        got.add(k)
+        w = len(t.split())
+        if not 10 <= w <= 55: errs.append(f'blurbs line {i}: {k[0]}: {w} words (10 to 55)')
+        if '\u2014' in t or '\u2013' in t or ' - ' in t: errs.append(f'blurbs line {i}: {k[0]}: no dashes as punctuation')
+        if METRIC.search(t): errs.append(f'blurbs line {i}: {k[0]}: feet and miles only')
+    for k in sorted(keys - got): errs.append(f'blurbs.csv: missing blurb for {k[0]} ({k[1]})')
 if errs: print('\n'.join(errs)); sys.exit(1)
-print(f'OK: {len(seen)} landmarks')
+print(f'OK: {len(seen)} landmarks, {nb} blurbs')

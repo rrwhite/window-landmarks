@@ -27,6 +27,14 @@ Rules for the app on segments flown in darkness:
 When you add or move a city or a lit low landmark, rerun the script (needs an Earthdata token from
 Rich); a row missing from night.csv simply has no night score.
 
+## Blurbs
+
+`data/blurbs.csv` (name, region, lat, lon, blurb) is the card text the app shows instead of Wikipedia
+extracts. Style is in CONTRIBUTING.md ("Blurbs"); Rich chose feet only and a "Look for" cue. validate.py
+fails if any landmark or night_only row lacks a blurb, a blurb has no landmark, or the style lint trips.
+When you add, rename, move or remove a row, update its blurb in the same commit. Facts must be ones you
+would bet on; check numbers for anything rated 6+ before writing them.
+
 ## Before every push
 
 ```

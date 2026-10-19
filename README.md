@@ -21,6 +21,8 @@ It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you whi
 
 `data/night.csv` scores what you can see on a night flight, from NASA's Black Marble yearly night-lights composite (VNP46A4, 2025). Every `city` row gets `night` from the total radiance within 15 km (`round(3 × log10(sum) − 7)`, 1 to 10: Riyadh, Moscow, Las Vegas and New York are 10, Pyongyang 5). Lit airports, ports, bridges, towers, landmarks, theme parks and racetracks get one from a small radius around the point when they score 4 or more. Eight `night_only` rows cover things you only notice in the dark: gas flares (Permian, Bakken, South Pars, Niger Delta, western Siberia), the Westland greenhouses, the Nile valley and the India–Pakistan border. Rebuild with `EARTHDATA_TOKEN=... python3 scripts/night.py`; details in the script.
 
+`data/blurbs.csv` holds the text for each landmark's card: one or two sentences, in feet and miles, with the fact that makes you look twice and usually a "Look for" cue saying what to spot from the window. It has one row per landmark and per `night_only` row, joined on `name, region, lat, lon`. Written for this dataset and fact-checked against public sources; style rules are in CONTRIBUTING.md.
+
 `data/landmarks.geojson` is the same list as points, rebuilt by `scripts/geojson.py`, so you can browse it on a map right here on GitHub.
 
 ## Where it came from

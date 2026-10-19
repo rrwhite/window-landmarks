@@ -31,9 +31,21 @@ A low landmark counts while it looks at least 1.4 degrees across from the window
 
 `short` is the label on the map, where space is tight. Make it as short as people would still recognize: drop the city on a bridge (`Bay Bridge`), the country on a peak, and words like International or Hydroelectric Power Station (`Bratsk Dam`). Use NP, NM, SP, Mt., St. and Ft. Airports get their IATA code. Leave it blank if the full name is already short.
 
+## Blurbs
+
+Every landmark has a card blurb in `data/blurbs.csv`. The card shows when a passenger can see the thing, so write what makes someone look twice:
+
+- One or two sentences, about 20 to 45 words (55 at most).
+- Lead with the jaw-drop fact: height, depth, size, age, a record, a story. Then, when there's an honest one, a spotting cue starting "Look for": a shape, color or contrast you can see from a plane.
+- Feet, miles, acres and square miles only. No dashes as punctuation, no exclamation marks, no hype words (stunning, majestic, iconic, nestled).
+- Don't open with the name or "X is a ...": the card already shows it.
+- Only facts you're sure of. A true description of what it looks like beats a guessed number. Say "one of the largest" unless it's provably the largest.
+
+Example: *At 1,943 ft, the deepest lake in the US. It fills the hole left when Mount Mazama blew apart about 7,700 years ago. Look for Wizard Island, a cinder cone near the west rim.*
+
 ## Making a change
 
-1. Edit `data/landmarks.csv`. Keep one landmark per row and the same nine columns (`short`, `max_alt` and `size_m` can be blank).
+1. Edit `data/landmarks.csv`. Keep one landmark per row and the same nine columns (`short`, `max_alt` and `size_m` can be blank). Add, rename, move or delete the matching row in `data/blurbs.csv` too: the two files must line up on name, region, lat and lon.
 2. Run `python3 scripts/validate.py`, then `python3 scripts/geojson.py`.
 3. Open a pull request saying what you changed and why. For a new landmark, a link (Wikipedia, Wikidata or a photo from a plane window) helps.
 
