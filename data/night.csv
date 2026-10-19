@@ -75,7 +75,6 @@ Pyongyang,Dem. Rep. Korea,39.034,125.754,city,14357,5,0
 Riyadh,Saudi Arabia,24.688,46.722,city,680155,10,0
 Washington DC Mall,District of Columbia,38.889,-77.035,landmark,5347,5,0
 Wuxi,Jiangsu,31.569,120.289,city,129360,8,0
-Xi’an,Shaanxi,34.258,108.929,city,200212,9,0
 Atlanta,Georgia,33.749,-84.388,city,191802,9,0
 Cleveland,Ohio,41.499,-81.695,city,131825,8,0
 Dallas,Texas,32.783,-96.807,city,247646,9,0
@@ -336,7 +335,6 @@ Casablanca,Morocco,33.5992,-7.62,city,128882,8,0
 Hanzhong,Shaanxi,33.0794,107.026,city,23147,6,0
 Putian,Fujian,25.4394,119.0103,city,45491,7,0
 Zhenjiang,Jiangsu,32.2109,119.4551,city,56446,7,0
-Cần Thơ,Vietnam,10.1547,105.5005,city,5492,4,0
 Faisalabad,Pakistan,31.418,73.079,city,33998,7,0
 Ningde,Fujian,26.6617,119.5228,city,28994,6,0
 Tongliao,Inner Mongol,43.6172,122.264,city,30375,6,0
@@ -609,7 +607,6 @@ São Luís,Maranhão,-2.53,-44.3028,city,81181,8,0
 Jodhpur,Rajasthan,26.2944,73.0278,city,51196,7,0
 Ogbomosho,Nigeria,8.1333,4.25,city,683,2,0
 Ashgabat,Turkmenistan,37.95,58.3833,city,212884,9,0
-Tanke,Nigeria,8.4855,4.5904,city,6613,4,0
 Enugu,Nigeria,6.4403,7.4942,city,8391,5,0
 Denizli,Turkey,37.7833,29.0964,city,57217,7,0
 Perm,Perm',58.0139,56.2489,city,84093,8,0
@@ -670,7 +667,6 @@ El Alto,Bolivia,-16.5047,-68.1633,city,104976,8,0
 Sulaymaniyah,Iraq,35.55,45.4333,city,78017,8,0
 Klang,Malaysia,3.0333,101.45,city,124595,8,0
 Jamnagar,Gujarat,22.47,70.07,city,17377,6,0
-Gurgaon,Haryana,28.4667,77.0333,city,143938,8,0
 Yangchun,Guangdong,22.1717,111.7846,city,9031,5,0
 Ramadi,Iraq,33.4258,43.2992,city,104506,8,0
 Aligarh,Uttar Pradesh,27.88,78.08,city,23810,6,0
@@ -703,7 +699,6 @@ Oran,Algeria,35.6969,-0.6331,city,77460,8,0
 Bandar Lampung,Indonesia,-5.4292,105.2611,city,26742,6,0
 Blantyre,Malawi,-15.7861,35.0058,city,11452,5,0
 Shigatse,Xizang,29.25,88.8833,city,9395,5,0
-Bordeaux Métropole,France,44.84,-0.58,city,36728,7,0
 Laiyang,Shandong,36.9758,120.7136,city,10447,5,0
 Santiago de Querétaro,Querétaro,20.5881,-100.3881,city,114298,8,0
 Port Said,Egypt,31.2625,32.3061,city,37691,7,0
@@ -716,7 +711,6 @@ Cotonou,Benin,6.3667,2.4167,city,18346,6,0
 Homs,Syria,34.7333,36.7167,city,9170,5,0
 Valencia,Spain,39.4561,-0.3546,city,102515,8,0
 Hamhung,Dem. Rep. Korea,39.9656,127.4886,city,814,2,0
-La Plata Partido,Argentina,-34.9167,-57.95,city,108580,8,0
 Erzurum,Turkey,39.9097,41.2756,city,38866,7,0
 Zagreb,Croatia,45.8131,15.9772,city,82208,8,0
 Al Ain,United Arab Emirates,24.2075,55.7447,city,182003,9,0
@@ -775,7 +769,6 @@ Reynosa,Tamaulipas,26.0922,-98.2778,city,111734,8,0
 Torreón,Coahuila,25.5439,-103.419,city,112412,8,0
 Karbala,Iraq,32.6167,44.0333,city,119370,8,0
 Shizuoka,Japan,34.9756,138.3825,city,18602,6,0
-Seville city,Spain,37.3862,-5.9925,city,108027,8,0
 Dairut,Egypt,27.5667,30.8167,city,28066,6,0
 Rasht,Iran,37.2761,49.5886,city,52979,7,0
 Kochi,Kerala,9.9667,76.2833,city,24480,6,0
@@ -783,7 +776,6 @@ Acapulco de Juárez,Guerrero,16.8634,-99.8901,city,26761,6,0
 Gorakhpur,Uttar Pradesh,26.7611,83.3667,city,39233,7,0
 Chongjin,Dem. Rep. Korea,41.7833,129.7833,city,1272,2,0
 Copenhagen,Denmark,55.6761,12.5689,city,62031,7,0
-General Pueyrredón Partido,Argentina,-38.0033,-57.5528,city,57010,7,0
 Zaragoza,Spain,41.6565,-0.8793,city,85787,8,0
 Bulawayo,Zimbabwe,-20.1667,28.5667,city,9324,5,0
 Villavicencio,Colombia,4.1425,-73.6294,city,16110,6,0
@@ -885,7 +877,6 @@ Amravati,Maharashtra,20.9333,77.75,city,18140,6,0
 Naberezhnye Chelny,Tatarstan,55.7149,52.3697,city,58087,7,0
 Andijan,Uzbekistan,40.7833,72.3506,city,28558,6,0
 Nellore,Andhra Pradesh,14.4333,79.9667,city,9530,5,0
-Mahasi,Uttar Pradesh,27.6397,81.3856,city,3809,4,0
 Samarkand,Uzbekistan,39.6547,66.9758,city,43269,7,0
 Ibagué,Colombia,4.4378,-75.2006,city,14268,5,0
 Tomsk,Tomsk,56.4886,84.9522,city,70797,8,0
@@ -1043,7 +1034,6 @@ Khamis Mushait,Saudi Arabia,18.3,42.7333,city,190573,9,0
 Awka,Nigeria,6.222,7.0821,city,4595,4,0
 Corrientes,Argentina,-27.4833,-58.8167,city,45584,7,0
 Uyo,Nigeria,5.05,7.9333,city,4713,4,0
-Masan,Republic of Korea,35.1833,128.55,city,49601,7,0
 Tanta,Egypt,30.7833,31.0,city,34722,7,0
 Ismailia,Egypt,30.5833,32.2667,city,50570,7,0
 Cusco,Peru,-13.5169,-71.9786,city,23292,6,0
@@ -1116,7 +1106,6 @@ CN Tower,Ontario,43.6428,-79.3871,tower,2762,4,0
 One World Trade Center,New York,40.713,-74.0135,tower,2941,4,0
 Tokyo Tower,Japan,35.6586,139.7456,tower,2209,4,0
 Charles Bridge,Czech Republic,50.0864,14.4119,bridge,3445,5,0
-Stari Most,Bosnia and Herzegovina,43.3373,17.815,bridge,1725,4,0
 Ostankino Tower,Moskva,55.8197,37.6117,tower,2544,4,0
 Abraj Al Bait,Saudi Arabia,21.4189,39.8264,tower,14072,6,0
 Bosphorus Bridge,Turkey,41.0456,29.034,bridge,2745,4,0
@@ -1161,7 +1150,6 @@ Shanghai Pudong International Airport,Shanghai,31.1433,121.8053,airport,15567,7,
 Incheon International Airport,Republic of Korea,37.4625,126.4392,airport,19946,7,0
 Orly Airport,France,48.7233,2.3794,airport,7869,6,0
 Istanbul Airport,Turkey,41.2608,28.7422,airport,10299,6,0
-Melilla Airport,Morocco,35.2797,-2.9564,airport,8632,6,0
 Copenhagen Airport,Denmark,55.6181,12.6561,airport,4412,5,0
 Vnukovo International Airport,Moskva,55.5961,37.2675,airport,11796,6,0
 Zayed International Airport,United Arab Emirates,24.4331,54.6511,airport,14282,6,0
@@ -1232,7 +1220,6 @@ Spire of Dublin,Ireland,53.3497,-6.2603,landmark,7656,6,0
 Queensboro Bridge,New York,40.7569,-73.9547,bridge,5192,5,0
 "Metropolitan Cathedral Basilica of the Holy Saviour, Oviedo",Spain,43.3626,-5.8431,landmark,3162,4,0
 Segovia Cathedral,Spain,40.9502,-4.1256,landmark,1748,4,0
-Gamla bron,Sweden,63.825,20.2492,bridge,4428,5,0
 Albert Bridge,UK,51.4824,-0.1668,bridge,3212,5,0
 Pamplona Cathedral,Spain,42.8197,-1.6411,landmark,3903,5,0
 Cathedral Basilica of the Virgin of Incarnation,Spain,36.72,-4.4201,landmark,3575,5,0
@@ -1245,7 +1232,6 @@ The Helix Bridge,Singapore,1.2876,103.861,bridge,3100,4,0
 Hammersmith Bridge,UK,51.4889,-0.2297,bridge,2100,4,0
 Samuel Beckett Bridge,Ireland,53.3469,-6.2411,bridge,5982,5,0
 Friendship Bridge,Brazil,-25.5096,-54.6011,bridge,1664,4,0
-Ponte Pietra,Italy,45.4478,11.0,bridge,1709,4,0
 Belvedere,Austria,48.1934,16.3805,landmark,2276,4,0
 Golestan Palace,Iran,35.6797,51.4203,landmark,3131,4,0
 Hawa Mahal,Rajasthan,26.924,75.8267,landmark,2098,4,0
@@ -1294,7 +1280,6 @@ Nice Côte d'Azur Airport,France,43.6653,7.215,airport,6074,5,0
 Phoenix Sky Harbor International Airport,Arizona,33.4342,-112.0117,airport,14310,6,0
 Zvartnots International Airport,Armenia,40.1472,44.3958,airport,2514,4,0
 Stuttgart Airport,Germany,48.6899,9.222,airport,2787,4,0
-Gibraltar International Airport,Spain,36.1511,-5.3497,airport,3667,5,0
 Addis Ababa Bole International Airport,Ethiopia,8.9778,38.7994,airport,9256,6,0
 Seattle–Tacoma International Airport,Washington,47.4489,-122.3094,airport,8659,6,0
 Linate Airport,Italy,45.4609,9.28,airport,7343,6,0
@@ -1397,7 +1382,6 @@ Gothenburg-Landvetter Airport,Sweden,57.66,12.2911,airport,1660,4,0
 Turin Airport,Italy,45.2018,7.6496,airport,2954,4,0
 Tolmachevo Airport,Novosibirsk,55.0125,82.6506,airport,5826,5,0
 Brussels South Charleroi Airport,Belgium,50.4592,4.4538,airport,4498,5,0
-Hahn Airport,Germany,49.9458,7.2611,airport,1580,4,0
 Leipzig/Halle Airport,Germany,51.424,12.2364,airport,4915,5,0
 Dubai World Central – DWC,United Arab Emirates,24.8861,55.1722,airport,8911,6,0
 Hwaseong Fortress,Republic of Korea,37.2807,127.0102,landmark,4044,5,0
@@ -1476,7 +1460,6 @@ Ibiza Airport,Spain,38.8729,1.3731,airport,3122,4,0
 César Manrique Lanzarote Airport,Spain,28.9456,-13.6053,airport,1689,4,0
 Norbulingka,Xizang,29.6523,91.0953,landmark,4435,5,0
 Castel Nuovo,Italy,40.8384,14.2538,landmark,3102,4,0
-Gorky Park,Moskva,55.7314,37.6046,themepark,9821,6,0
 Oscar and Juan Gálvez Race Track,Argentina,-34.6943,-58.4593,racetrack,3324,5,0
 Palácio do Planalto,Distrito Federal,-15.799,-47.8608,landmark,2590,4,0
 Yıldız Palace,Turkey,41.0494,29.0111,landmark,4112,5,0
@@ -1501,8 +1484,6 @@ Santa Claus Village,Finland,66.5435,25.8465,themepark,2063,4,0
 Jardin d'Acclimatation,France,48.8775,2.2631,themepark,2070,4,0
 Poti Sea Port,Georgia,42.1589,41.6583,port,5039,5,0
 Sheerness,UK,51.4411,0.7608,port,1990,4,0
-Puerto Madero,Argentina,-34.6119,-58.3647,port,14580,6,0
-Autódromo Internacional Nelson Piquet,Rio de Janeiro,-22.9756,-43.395,racetrack,2894,4,0
 Muuga Harbour,Estonia,59.5,24.9667,port,2211,4,0
 Ferrari World Abu Dhabi,United Arab Emirates,24.4837,54.607,themepark,3406,5,0
 Disney's Animal Kingdom,Florida,28.358,-81.59,themepark,1725,4,0
@@ -1523,7 +1504,6 @@ Daytona International Speedway,Florida,29.1856,-81.0694,racetrack,2442,4,0
 Port of Eilat,Israel,29.5322,34.9404,port,6577,5,0
 Puente del Alamillo,Spain,37.4133,-5.9903,bridge,4016,5,0
 Árpád Bridge,Hungary,47.5375,19.0542,bridge,2364,4,0
-Tel Aviv Port,Israel,32.0978,34.7732,port,13720,6,0
 Port of Haifa,Israel,32.8201,35.0045,port,17286,7,0
 Shanghai Disneyland Park,Shanghai,31.144,121.657,themepark,2610,4,0
 Port of Busan,Republic of Korea,35.1039,129.0789,port,10531,6,0
@@ -1543,7 +1523,6 @@ Gröna Lund,Sweden,59.3231,18.0961,themepark,3481,5,0
 6th October Bridge,Egypt,30.0491,31.2286,bridge,5521,5,0
 Universal Studios Singapore,Singapore,1.255,103.8217,themepark,2045,4,0
 Six Flags Magic Mountain,California,34.4238,-118.597,themepark,2187,4,0
-Sanjō Ōhashi Bridge,Japan,35.0091,135.7717,bridge,2059,4,0
 Dragon River Bridge,Vietnam,16.0611,108.2267,bridge,1987,4,0
 Robert F. Kennedy Bridge,New York,40.78,-73.9267,bridge,3074,4,0
 Adolphe Bridge,Luxembourg,49.6083,6.1271,bridge,3249,5,0
@@ -1570,8 +1549,6 @@ Yangpu Bridge,Shanghai,31.2575,121.5414,bridge,1936,4,0
 Branko's Bridge,Serbia,44.8147,20.4483,bridge,6825,6,0
 Gazela Bridge,Serbia,44.8028,20.4408,bridge,5699,5,0
 Port of Mariupol,Ukraine,47.0564,37.5108,port,2092,4,0
-Port of Melilla,Morocco,35.292,-2.9322,port,7208,6,0
-Egyptian Bridge,City of St. Petersburg,59.9169,30.2972,bridge,10264,6,0
 Port of Houston,Texas,29.6111,-95.0217,port,11979,6,0
 Port of New York and New Jersey,New York,40.6830,-74.1490,port,16794,7,0
 Pančevo Bridge,Serbia,44.828,20.492,bridge,1691,4,0
@@ -1774,7 +1751,6 @@ Changsha Huanghua International Airport,Hunan,28.1967,113.2208,airport,5556,5,0
 Fukuoka Airport,Japan,33.5844,130.4517,airport,6338,5,0
 Nashville International Airport,Tennessee,36.1267,-86.6819,airport,8374,6,0
 Caracas Simón Bolívar International Airport,Venezuela,10.6031,-66.9906,airport,5031,5,0
-Qingdao Liuting International Airport,Shandong,36.2661,120.3744,airport,4912,5,0
 Sapporo New Chitose Airport,Japan,42.7752,141.6923,airport,1796,4,0
 Haikou Meilan International Airport,Hainan,19.9347,110.4589,airport,5554,5,0
 Congonhas-São Paulo Airport,São Paulo,-23.6261,-46.6564,airport,14293,6,0
@@ -1863,11 +1839,9 @@ Albuquerque International Sunport,New Mexico,35.0403,-106.6092,airport,6619,5,0
 Puerto Vallarta International Airport,Jalisco,20.6800,-105.2542,airport,4386,5,0
 Bergen Airport,Norway,60.2936,5.2181,airport,3732,5,0
 Hang Nadim International Airport,Indonesia,1.1208,104.1186,airport,2681,4,0
-Gold Coast Airport,New South Wales,-28.1650,153.5011,airport,1563,4,0
 San José Juan Santamaría International Airport,Costa Rica,9.9939,-84.2089,airport,2959,4,0
 Wellington Airport,New Zealand,-41.3290,174.8117,airport,1742,4,0
 Marrakesh Menara Airport,Morocco,31.6086,-8.0408,airport,6977,6,0
-Phnom Penh International Airport,Cambodia,11.5464,104.8439,airport,3368,5,0
 Hollywood Burbank Airport,California,34.2006,-118.3586,airport,10190,6,0
 Guayaquil José Joaquín de Olmedo Airport,Ecuador,-2.1575,-79.8836,airport,13366,6,0
 Kuching International Airport,Malaysia,1.4844,110.3467,airport,3641,5,0
@@ -1942,3 +1916,25 @@ Khanty-Mansiysk oil field flares,Khanty-Mansiy,61.5,73.5,feature,32779,7,1
 Westland greenhouses,Netherlands,52.0,4.25,feature,144242,8,1
 Nile Valley lights,Egypt,26.5,31.7,feature,84529,8,1
 India-Pakistan border lights,Rajasthan,29.5,73.0,feature,6315,4,1
+Frankfurt-Hahn Airport,Germany,49.9458,7.2611,airport,1580,4,0
+Gurugram,Haryana,28.4667,77.0333,city,143938,8,0
+Seville,Spain,37.3862,-5.9925,city,108027,8,0
+Ilorin,Nigeria,8.4966,4.5421,city,6613,4,0
+Xi'an,Shaanxi,34.258,108.929,city,200212,9,0
+La Plata,Argentina,-34.9167,-57.95,city,108580,8,0
+Mar del Plata,Argentina,-38.0033,-57.5528,city,57010,7,0
+Bordeaux,France,44.84,-0.58,city,36728,7,0
+Changwon,Republic of Korea,35.228,128.681,city,49601,7,0
+Puerto Madero,Argentina,-34.6119,-58.3647,landmark,14580,6,0
+Melilla Airport,Spain,35.2797,-2.9564,airport,8632,6,0
+Port of Melilla,Spain,35.292,-2.9322,port,7208,6,0
+Gold Coast Airport,Queensland,-28.1650,153.5011,airport,1563,4,0
+Gibraltar International Airport,Gibraltar,36.1511,-5.3497,airport,3667,5,0
+Cần Thơ,Vietnam,10.033,105.783,city,5492,4,0
+Egyptian Bridge,City of St. Petersburg,59.9169,30.2972,bridge,10264,6,0
+Sanjō Ōhashi Bridge,Japan,35.0091,135.7717,bridge,2059,4,0
+Stari Most,Bosnia and Herzegovina,43.3373,17.815,bridge,1725,4,0
+Ponte Pietra,Italy,45.4478,11.0,bridge,1709,4,0
+Gamla bron,Sweden,63.825,20.2492,bridge,4428,5,0
+Qingdao Liuting International Airport,Shandong,36.2661,120.3744,airport,4912,5,0
+Phnom Penh International Airport,Cambodia,11.5464,104.8439,airport,3368,5,0
