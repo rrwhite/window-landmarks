@@ -75,12 +75,29 @@ pts = [(r['name'], r['region'], r['lat'], r['lon'], r['kind'], RADIUS[r['kind']]
 pts += [(n, g, str(la), str(lo), k, rk, 1) for n, g, la, lo, k, rk in NIGHT_ONLY]
 with ThreadPoolExecutor(8) as ex:
     sums = list(ex.map(lambda p: radiance(float(p[2]), float(p[3]), p[5]), pts))
+# Hand-set scores for unique night sights (Rich, Oct 2026). Only these go above 8; cities otherwise cap at 8.
+OVERRIDE = {'South Pars gas field flares': 10,
+    'Las Vegas Strip': 9,
+    'Nile Valley lights': 9,
+    'Sphere': 8,
+    'Manhattan': 8,
+    'Hong Kong': 8,
+    'Permian Basin gas flares': 8,
+    'Bakken gas flares': 8,
+    'Khanty-Mansiysk oil field flares': 8,
+    'Niger Delta gas flares': 8,
+    'Westland greenhouses': 8,
+    'India-Pakistan border lights': 8,
+    'Palm Jumeirah': 8,
+    'Burj Khalifa': 8,
+    'Eiffel Tower': 8,
+    'Christ the Redeemer': 8}
 out = 0
 with open(ROOT / 'data' / 'night.csv', 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f, lineterminator='\n')
     w.writerow(['name', 'region', 'lat', 'lon', 'kind', 'radiance_sum', 'night', 'night_only'])
     for (n, g, la, lo, k, rk, only), s in zip(pts, sums):
-        sc = score(s, 'night_only' if only else k)
+        sc = OVERRIDE.get(n, score(s, 'night_only' if only else k))
         if k != 'city' and not only and sc < 4: continue
         w.writerow([n, g, la, lo, k, round(s), sc, only]); out += 1
 print(out, 'rows ->', ROOT / 'data' / 'night.csv')

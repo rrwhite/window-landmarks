@@ -1,6 +1,6 @@
 name,region,lat,lon,kind,radiance_sum,night,night_only
 Dubai,United Arab Emirates,25.077,55.309,city,238951,7,0
-Hong Kong,Hong Kong,22.278,114.175,city,79037,6,0
+Hong Kong,Hong Kong,22.278,114.175,city,79037,8,0
 New York City,New York,40.714,-74.006,city,321277,7,0
 Bangkok,Thailand,13.754,100.501,city,182679,7,0
 Chicago,Illinois,41.85,-87.65,city,308733,7,0
@@ -65,12 +65,12 @@ Guiyang,Guizhou,26.583,106.717,city,72537,6,0
 Johor Bahru,Malaysia,1.466,103.758,city,132712,7,0
 Kunming,Yunnan,25.039,102.718,city,97302,6,0
 Macau,Macao,22.201,113.546,city,81968,6,0
-Manhattan,New York,40.783,-73.966,city,309571,7,0
+Manhattan,New York,40.783,-73.966,city,309571,8,0
 Mexico City,Distrito Federal,19.428,-99.128,city,347459,7,0
 Miami Beach,Florida,25.79,-80.13,landmark,3435,5,0
 Nagoya,Japan,35.181,136.906,city,115166,6,0
 Ningbo,Zhejiang,29.878,121.549,city,123503,6,0
-Palm Jumeirah,United Arab Emirates,25.112,55.139,landmark,3638,5,0
+Palm Jumeirah,United Arab Emirates,25.112,55.139,landmark,3638,8,0
 Pyongyang,Dem. Rep. Korea,39.034,125.754,city,14357,5,0
 Riyadh,Saudi Arabia,24.688,46.722,city,680155,8,0
 Washington DC Mall,District of Columbia,38.889,-77.035,landmark,5347,5,0
@@ -80,7 +80,7 @@ Cleveland,Ohio,41.499,-81.695,city,131825,7,0
 Dallas,Texas,32.783,-96.807,city,247646,7,0
 Detroit,Michigan,42.331,-83.046,city,223457,7,0
 Montréal,Québec,45.509,-73.588,city,216317,7,0
-Las Vegas Strip,Nevada,36.097,-115.147,city,389240,7,0
+Las Vegas Strip,Nevada,36.097,-115.147,city,389240,9,0
 Philadelphia,Pennsylvania,39.952,-75.164,city,162555,7,0
 Warsaw,Poland,52.23,21.012,city,150871,7,0
 Abidjan,Côte d'Ivoire,5.354,-4.002,city,85971,6,0
@@ -1091,9 +1091,9 @@ Gifu,Japan,35.4263,136.7594,city,31582,5,0
 Montería,Colombia,8.76,-75.8856,city,16626,5,0
 Tower Bridge,UK,51.5056,-0.0753,bridge,5527,5,0
 Brooklyn Bridge,New York,40.7057,-73.9963,bridge,4433,5,0
-Eiffel Tower,France,48.8583,2.2945,tower,1550,4,0
+Eiffel Tower,France,48.8583,2.2945,tower,1550,8,0
 Tan Son Nhat International Airport,Vietnam,10.8188,106.652,airport,7716,6,0
-Burj Khalifa,United Arab Emirates,25.1972,55.2742,tower,4938,5,0
+Burj Khalifa,United Arab Emirates,25.1972,55.2742,tower,4938,8,0
 Empire State Building,New York,40.7483,-73.9856,tower,3735,5,0
 Da Nang International Airport,Vietnam,16.0439,108.1994,airport,5789,5,0
 Cam Ranh International Airport,Vietnam,11.9981,109.2194,airport,1702,4,0
@@ -1626,7 +1626,7 @@ Six Flags Over Texas,Texas,32.7555,-97.0703,themepark,5503,5,0
 Texas Motor Speedway,Texas,33.0372,-97.2817,racetrack,2348,4,0
 NASA Johnson Space Center,Texas,29.5595,-95.0907,landmark,1648,4,0
 William P. Hobby Airport,Texas,29.6454,-95.2789,airport,13219,6,0
-Sphere,Nevada,36.1208,-115.1622,landmark,26129,7,0
+Sphere,Nevada,36.1208,-115.1622,landmark,26129,8,0
 Luxor Las Vegas,Nevada,36.0955,-115.1761,landmark,13329,6,0
 Mall of America,Minnesota,44.8549,-93.2422,landmark,3327,5,0
 Ford River Rouge Complex,Michigan,42.3030,-83.1530,landmark,3351,5,0
@@ -1908,14 +1908,14 @@ Cathedral of Brasília,Distrito Federal,-15.7983,-47.8755,landmark,4645,5,0
 Rock and Roll Hall of Fame,Ohio,41.5085,-81.6954,landmark,6184,5,0
 Crescent City Connection,Louisiana,29.9420,-90.0580,bridge,3287,5,0
 Story Bridge,Queensland,-27.4636,153.0357,bridge,2196,4,0
-Permian Basin gas flares,Texas,31.8,-103.6,feature,44694,7,1
-Bakken gas flares,North Dakota,47.9,-103.3,feature,42151,7,1
+Permian Basin gas flares,Texas,31.8,-103.6,feature,44694,8,1
+Bakken gas flares,North Dakota,47.9,-103.3,feature,42151,8,1
 South Pars gas field flares,Iran,27.48,52.6,feature,329937,10,1
-Niger Delta gas flares,Nigeria,5.0,6.5,feature,25343,6,1
-Khanty-Mansiysk oil field flares,Khanty-Mansiy,61.5,73.5,feature,32779,7,1
+Niger Delta gas flares,Nigeria,5.0,6.5,feature,25343,8,1
+Khanty-Mansiysk oil field flares,Khanty-Mansiy,61.5,73.5,feature,32779,8,1
 Westland greenhouses,Netherlands,52.0,4.25,feature,144242,8,1
-Nile Valley lights,Egypt,26.5,31.7,feature,84529,8,1
-India-Pakistan border lights,Rajasthan,29.5,73.0,feature,6315,4,1
+Nile Valley lights,Egypt,26.5,31.7,feature,84529,9,1
+India-Pakistan border lights,Rajasthan,29.5,73.0,feature,6315,8,1
 Frankfurt-Hahn Airport,Germany,49.9458,7.2611,airport,1580,4,0
 Gurugram,Haryana,28.4667,77.0333,city,143938,7,0
 Seville,Spain,37.3862,-5.9925,city,108027,6,0
@@ -1938,3 +1938,4 @@ Ponte Pietra,Italy,45.4478,11.0,bridge,1709,4,0
 Gamla bron,Sweden,63.825,20.2492,bridge,4428,5,0
 Qingdao Liuting International Airport,Shandong,36.2661,120.3744,airport,4912,5,0
 Phnom Penh International Airport,Cambodia,11.5464,104.8439,airport,3368,5,0
+Christ the Redeemer,Rio de Janeiro,-22.9519,-43.2105,landmark,0,8,0

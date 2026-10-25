@@ -16,8 +16,10 @@ lon, kind, radiance_sum, night, night_only. Join to landmarks.csv on name, regio
 Rules for the app on segments flown in darkness:
 - **Cities** score from `night` instead of `rating`, and ignore `max_alt` (city lights are visible
   from cruise even when the skyline isn't). Every city row has a night score. City night scores cap at 8
-  (`round(1.8 log10(sum) - 2.7)`, 2 to 8): a bright city is not a Rainier. Only unique night
-  sights go above 8, set by hand with Rich's sign-off.
+  (`round(1.8 log10(sum) - 2.7)`, 2 to 8): a bright city is not a Rainier. Unique night sights
+  are hand-set in `OVERRIDE` in night.py (South Pars 10; Vegas Strip and Nile 9; Manhattan, Hong Kong,
+  Sphere, the flares, Westland, the border, Palm Jumeirah, Burj Khalifa, Eiffel, Christ the Redeemer 8).
+  Change that list only with Rich's sign-off.
 - **Low landmarks** count only if they have a night.csv row (lit airports, ports, bridges, towers,
   landmarks, theme parks, racetracks with night >= 4), using `night` for points and their usual
   `max_alt` and size test. Everything else low is invisible at night. Stadiums have no night row:
