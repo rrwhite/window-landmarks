@@ -15,7 +15,9 @@ Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md
 lon, kind, radiance_sum, night, night_only. Join to landmarks.csv on name, region, lat, lon.
 Rules for the app on segments flown in darkness:
 - **Cities** score from `night` instead of `rating`, and ignore `max_alt` (city lights are visible
-  from cruise even when the skyline isn't). Every city row has a night score.
+  from cruise even when the skyline isn't). Every city row has a night score. City night scores cap at 8
+  (`round(1.8 log10(sum) - 2.7)`, 2 to 8): a bright city is not a Rainier. Only unique night
+  sights go above 8, set by hand with Rich's sign-off.
 - **Low landmarks** count only if they have a night.csv row (lit airports, ports, bridges, towers,
   landmarks, theme parks, racetracks with night >= 4), using `night` for points and their usual
   `max_alt` and size test. Everything else low is invisible at night. Stadiums have no night row:

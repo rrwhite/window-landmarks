@@ -65,7 +65,9 @@ def radiance(lat, lon, r_km):
 
 def score(s, kind):
     if s <= 0: return 1
-    if kind == 'city' or kind == 'night_only': return max(1, min(10, round(3 * math.log10(s) - 7)))
+    # Cities cap at 8: brightness is mostly sprawl, so only unique night sights go above (hand-set, see CLAUDE.md)
+    if kind == 'city': return max(2, min(8, round(1.8 * math.log10(s) - 2.7)))
+    if kind == 'night_only': return max(1, min(10, round(3 * math.log10(s) - 7)))
     return max(1, min(8, round(3 * math.log10(s) - 6)))
 
 rows = [r for r in csv.DictReader(open(ROOT / 'data' / 'landmarks.csv', newline='', encoding='utf-8')) if r['kind'] in RADIUS]
