@@ -182,3 +182,23 @@ What this means for this dataset:
 
 - The data is CC BY 4.0 (see LICENSE). Allowed sources: Wikidata (CC0), Natural Earth (public domain), NASA, USGS and NOAA (public domain), GeoNames (CC BY, credit it in README), satellite imagery for checking positions, and your own knowledge. Never OpenStreetMap: its ODbL share-alike license conflicts with CC BY. Don't copy text or lists from sources that don't allow it.
 - Never remove a row only because it is unlikely to show. The app's rules handle visibility; remove only what truly can't be seen from the air.
+
+## Note from the app chat (2026-11-01): standalone peaks outside scored ranges
+
+Rich: "fix Diablo and others like it". The SFO-SEA card showed "Mt. Diablo 5★" as its own sight. Cause: Diablo sits in
+the Pacific Coast Ranges, rated 4 in ranges.csv (not scored, rightly: low relief), so nothing folds it and its own
+rating 5 scored it. Not famous by Rich's bar (Pikes Peak and Mount Diablo are his named not-famous examples).
+Fix: rating 5 -> 4 on Mount Diablo, Mount Tamalpais (same Coast Ranges case) and Mount Mitchell (unscored Blue Ridge).
+Note the app has no rating floor for points (points = rating), so a 4 still shows as a minor sight; a floor for peak,
+range and park rows outside any scored core is an app decision for Rich.
+
+`scripts/standalone.py` lists every peak, range and park rated 5 to 8 that scores on its own, and why (213 on this
+date: 26 inside a scored range's outline but outside its core, 15 inside an unscored range, 172 in no range). Left for
+Rich, not changed:
+- Unscored range: Mount Washington 6 and Great Smoky Mountains 6 (Appalachians 4), Katahdin 5, Olympic Mountains 6
+  (Coast Ranges 4; candidate for an area), Mount Jinfo 6, Nat Ma Taung 6, Pico da Neblina 7.
+- Core gaps (the range is scored but its core misses them): Patagonian Andes (Fitz Roy 8, San Lorenzo 8, San Valentin 8,
+  Tronador 7, Cerro Castillo, Melimoyu, Shipton 6, Los Glaciares NP 6, Torres del Paine NP 5); Alps fringe (Zugspitze,
+  Dachstein, Mont Ventoux 6, Grintovec 5, Triglav 7 just outside the outline); Abercrombie Mtn 6 (Columbia Mtns).
+- Isolated US peaks near busy routes: San Jacinto 7, San Gorgonio 7, Charleston Peak 7, Mt San Antonio 6, Wheeler Peak
+  (NV) 6, San Francisco Peaks 6, Mount Lemmon 5.
