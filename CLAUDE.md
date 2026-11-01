@@ -8,6 +8,10 @@ Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md
 - **The app (another agent):** Window Seat, repo `rrwhite/window-seat`, site windowseat.travel. It compiles this CSV into `netlify/functions/plan/data/landmarks.mjs` with `tools/build_landmarks.py`, and the areas (`data/ranges.json`, `data/coasts.json`) with `tools/build_areas.py`, and deploys. You never edit or deploy the app.
 - **Handoff:** when a batch is pushed, tell Rich in one line what landed (commit, rows added/removed/changed). The app agent rebuilds and deploys in batches, so several small dataset commits per app deploy is normal.
 - Talk to Rich tersely. No em-dashes.
+- **Data rules are yours (Rich, 2026-11-01):** ratings, relief, areas, folding inputs and night scores are decided
+  here, not by the app chat. Decided so far: relief test stays at 1,500 m; volcanoes are exempt (calderas, islands and
+  active craters are sights at low relief; dull low cones get a low rating instead); no special case for snow peaks on
+  high plateaus (only Geladaindong and Liushi Shan, rated 6, fail; revisit if window photos show them).
 
 ## Night scores
 
