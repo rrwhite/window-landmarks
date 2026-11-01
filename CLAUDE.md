@@ -146,6 +146,36 @@ Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wh
   near pass time ("Giants vs Dodgers at Oracle Park, 7:05"); at night a game means lights on,
   night score ~6. Note MLB and ESPN terms are personal/non-commercial.
 
+## Areas: mountain ranges and dramatic coasts (app side, Oct 31 2026)
+
+The app now scores two things as areas instead of points. Both live in the app repo, not here:
+- **Mountain ranges:** `tools/ranges.csv` (Natural Earth range outlines, our names and ratings), cut down to where
+  the mountains are by elevation (`tools/build_range_cores.py`).
+- **Dramatic coasts:** `tools/coasts.csv` (24 coasts: name, rating, box, and the rows each replaces), a band about
+  10 km each side of coastline where mountains meet the sea (`tools/build_coasts.py`). Greenland 10; Baffin, Norway,
+  Na Pali 9; Alaska/BC, Patagonia, Fiordland, Svalbard, Big Sur, Molokai, Musandam, Cape Peninsula, Faroes, Taiwan
+  east 8; Iceland, Torngat, Riviera, Dalmatia/Kotor, Scotland west/Skye, Amalfi, Corsica, Gulf of Aqaba, Madeira,
+  Tenerife 7.
+An area scores once per side (both sides when the plane is over it). Ranges scale by minutes in view; coasts count
+in full once seen and fade with distance.
+
+What this means for this dataset:
+- **Folding.** Rows inside an area are not shown on their own unless rated 9 or 10. Inside a range: peak, range
+  and park rows. Inside a coast: coast (fjord), peak, range and park rows. Glaciers, lakes, canyons, islands and
+  volcanoes always stand alone. So a rating under 9 on a peak in the Rockies or a fjord in Norway rarely matters;
+  9 is the bar for "famous on its own" (Matterhorn, Denali, Grand Teton). Keep folded rows: they are data, and an
+  area can be retuned.
+- **Replaced stand-ins, matched by exact name.** These rows were single points standing in for a whole coast; the
+  coast area replaces them: Greenland ice sheet (west coast), Greenland ice sheet (east coast), Baffin Island fjords,
+  Norwegian fjords (Sognefjord), Svalbard, Big Sur coast, Molokai sea cliffs, Na Pali Coast, Amalfi Coast,
+  Dubrovnik / Dalmatian coast, Faroe Islands. Don't rename or delete them without telling the app agent (the
+  link is the name). Don't add new single-point stand-ins for a whole range or coast ("X fjords", "X Range"):
+  propose an area to Rich instead.
+- **Not an area:** short or low coasts (White Cliffs of Dover 7, Beachy Head, Cliffs of Moher, Twelve Apostles) stay
+  points. An area is for something big enough to fill the window, not for anything famous.
+- **Open question for Rich:** "Greenland ice sheet" (interior, glacier 8). Rich: the white interior is not the
+  sight, the coast is. Lower it only with his OK.
+
 ## Rules
 
 - The data is CC BY 4.0 (see LICENSE). Allowed sources: Wikidata (CC0), Natural Earth (public domain), NASA, USGS and NOAA (public domain), GeoNames (CC BY, credit it in README), satellite imagery for checking positions, and your own knowledge. Never OpenStreetMap: its ODbL share-alike license conflicts with CC BY. Don't copy text or lists from sources that don't allow it.
