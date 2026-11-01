@@ -62,6 +62,10 @@ for k in ('ranges', 'coasts'):
     got = {b[0] for b in built}
     for n in sorted(want - got): errs.append(f'{k}.json: {n} is in {k}.csv but not built (rerun scripts/build_{k}...)')
     for n in sorted(got - want): errs.append(f'{k}.json: {n} is built but not in {k}.csv')
+    # a landmark's short name must not equal an area's name: the app looks sights up by name and short name, so the
+    # area would be linked to the point (2026-11-01: Sierra Nevada range -> Sierra Nevada (Mulhacen), Spain)
+    shorts = {x['short']: x['name'] for x in csv.DictReader(open(d / 'landmarks.csv', encoding='utf-8')) if x['short']}
+    for n in sorted(got & set(shorts)): errs.append(f'landmarks.csv: {shorts[n]} has short "{n}", the name of an area in {k}.json')
     for row in rows:
         for n in [x.strip() for x in row.get('replaces', '').split(';') if x.strip()]:
             if n not in names: errs.append(f'coasts.csv: {row["name"]} replaces "{n}", which is not a row in landmarks.csv')
