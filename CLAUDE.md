@@ -209,4 +209,7 @@ scripts/relief.py: summit within 4 km minus the 10th-percentile elevation within
 The app applies it (lib.mjs, with the range folding). README "Judgment calls" records this and the earlier calls.
 When you add or move a peak or range row, rerun `python3 scripts/relief.py` in the same commit (a row missing from
 relief.csv is unmeasured and counts). Under the rule, the "needs Rich" list above resolves itself: every peak and range there
-measures over 1,500 m except Great Smoky Mountains (1,370), Katahdin (1,403) and Mount Jinfo (748), which now drop. The two parks on it (Los Glaciares NP, Torres del Paine NP) are untouched: the rule covers peak and range rows only.
+measures over 1,500 m except Great Smoky Mountains (1,370) and Katahdin (1,403), which now drop. (Mount Jinfo's point was 8 mi off its
+summit; moved 2026-11-01, it measures 1,561 and counts.) relief.py leaves blank (unmeasured, counts) rows south of 56 S,
+where the tiles are too coarse, and MEASURED_LOW rows whose narrow summits the tiles miss. validate.py fails if
+relief.csv is out of step with the peak and range rows. The two parks on it (Los Glaciares NP, Torres del Paine NP) are untouched: the rule covers peak and range rows only.

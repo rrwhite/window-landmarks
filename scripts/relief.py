@@ -4,7 +4,8 @@ Writes data/relief.csv: name, region, lat, lon, summit_m, relief_m, for every ro
 summit_m = the highest point within 4 km of the row's point. relief_m = summit_m minus the 10th percentile of
 elevation within 20 km (about 12 miles), sea level as the floor. It stands in for topographic prominence: it is what
 you see from a plane, a mountain standing up out of its surroundings. Elevation: AWS Terrain Tiles (Mapzen terrarium),
-zoom 10, about 150 m a pixel at the equator, cached in /tmp/terrain10. Rows past 84 degrees (beyond the tiles) are left blank: unknown. Sharp spires read low at that size (Fitz Roy
+zoom 10, about 150 m a pixel at the equator, cached in /tmp/terrain10. Rows past 84 degrees (beyond the tiles), south of 56 S
+(coarse data) and in MEASURED_LOW are left blank: unknown. Sharp spires read low at that size (Fitz Roy
 3,405 m measures about 2,840 m), so relief errs low: anything that passes really does stand out.
 
 The app uses it for standalone peaks (README, "Judgment calls"): a peak or range row rated under 9 that no scored range
@@ -16,6 +17,9 @@ import csv, math, os, pathlib, urllib.request, concurrent.futures as cf
 from PIL import Image
 
 Z, CACHE = 10, '/tmp/terrain10'
+# Rows whose measured summit is far below the surveyed height (Wikidata), by enough that the true relief would pass
+# 1,500 m: the tiles miss a narrow summit. Unknown rather than a false fail. (2026-11-01)
+MEASURED_LOW = {('Rao Co', 'Vietnam'), ('Mont Orohena', 'French Polynesia'), ('Mount Arrowsmith', 'British Columbia')}
 d = pathlib.Path(__file__).resolve().parent.parent / 'data'
 os.makedirs(CACHE, exist_ok=True)
 
@@ -33,6 +37,9 @@ def measure(r):
     lat, lon = float(r['lat']), float(r['lon'])
     blank = {'name': r['name'], 'region': r['region'], 'lat': r['lat'], 'lon': r['lon'], 'summit_m': '', 'relief_m': ''}
     if abs(lat) > 84: return blank   # past the tiles' edge (Mercator): unknown, which the app treats as passing
+    if lat < -56: return blank       # south of SRTM's limit the tiles fall back to ~1.8 km ETOPO1: Antarctic peaks
+                                     # measured hundreds of m to 2 km low (Mount Foster 50 m vs 2,105 m). Unknown.
+    if (r['name'], r['region']) in MEASURED_LOW: return blank
     n = 2 ** Z; mpp = 156543.03 * math.cos(math.radians(lat)) / n
     px = (lon + 180) / 360 * n * 256
     py = (1 - math.log(math.tan(math.radians(lat)) + 1 / math.cos(math.radians(lat))) / math.pi) / 2 * n * 256

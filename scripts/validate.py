@@ -69,5 +69,11 @@ for k in ('ranges', 'coasts'):
     for row in rows:
         for n in [x.strip() for x in row.get('replaces', '').split(';') if x.strip()]:
             if n not in names: errs.append(f'coasts.csv: {row["name"]} replaces "{n}", which is not a row in landmarks.csv')
+# data/relief.csv: one row per peak and range row (2026-11-01). A renamed or moved peak would otherwise silently
+# lose its relief and count as unmeasured. Rerun scripts/relief.py after adding or moving one.
+pk = {(x['name'], x['region'], x['lat'], x['lon']) for x in csv.DictReader(open(d / 'landmarks.csv', encoding='utf-8')) if x['kind'] in ('peak', 'range')}
+rk = {(x['name'], x['region'], x['lat'], x['lon']) for x in csv.DictReader(open(d / 'relief.csv', encoding='utf-8'))}
+for k in sorted(pk - rk): errs.append(f'relief.csv: no row for {k[0]} ({k[1]}): rerun scripts/relief.py')
+for k in sorted(rk - pk): errs.append(f'relief.csv: {k[0]} ({k[1]}) is not a peak or range row in landmarks.csv: rerun scripts/relief.py')
 if errs: print('\n'.join(errs)); sys.exit(1)
 print(f'OK: {len(seen)} landmarks, {nb} blurbs')

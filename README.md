@@ -77,8 +77,9 @@ you can disagree with a specific one.
   | San Jacinto Peak | 3,270 m | 3,045 m | yes |
 
   Measured on roughly 150 m elevation pixels, so sharp spires read low (Fitz Roy is 3,405 m and measures 2,840 m):
-  errors only make a peak look smaller, so whatever passes really does stand out. Rows past 84 degrees of latitude are
-  unmeasured and count. Ratings stay as they are: the rating says how good the view is, relief says whether it
+  errors only make a peak look smaller, so whatever passes really does stand out. Rows past 84 degrees of latitude, south
+  of 56 degrees (beyond SRTM, where the tiles fall back to coarse ETOPO1 and Antarctic peaks measured up to 2 km low),
+  and a short hand list whose narrow summits the tiles miss (MEASURED_LOW in relief.py) are unmeasured and count. Ratings stay as they are: the rating says how good the view is, relief says whether it
   stands out enough to be a view at all.
 
 ## Where it came from
@@ -86,7 +87,18 @@ you can disagree with a specific one.
 - **Wikidata**: peaks ranked by prominence, volcanoes, national parks, large lakes, glaciers, canyons and fjords; cities over 400,000 people; stadiums by capacity; skyscrapers by height; airports, bridges, dams, ports, theme parks, race tracks, wind farms and mines by how widely they're documented. Wikidata is CC0.
 - **NASA Black Marble** (VNP46A4): city brightness at night for `data/night.csv`. NASA data is public domain.
 - **Natural Earth**: state and country boundaries for the `region` column, range outlines and coastlines for the areas. Public domain.
-- **AWS Terrain Tiles** (Mapzen terrarium, zoom 6): elevation for range cores and dramatic coasts. Built from USGS 3DEP and SRTM (public domain), GMTED2010, ETOPO1, Canadian CDEM (Open Government Licence - Canada), EU-DEM, LINZ (CC BY 4.0) and others.
+- **AWS Terrain Tiles** (Mapzen terrarium, zoom 6 and 10): elevation for range cores, dramatic coasts and `data/relief.csv`. Their sources ask for these credits:
+  - ArcticDEM terrain data DEM(s) were created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736
+  - Australia terrain data © Commonwealth of Australia (Geoscience Australia) 2017
+  - Austria terrain data © offene Daten Österreichs – Digitales Geländemodell (DGM) Österreich
+  - Canada terrain data contains information licensed under the Open Government Licence – Canada
+  - Europe terrain data produced using Copernicus data and information funded by the European Union - EU-DEM layers
+  - Global ETOPO1 terrain data U.S. National Oceanic and Atmospheric Administration
+  - Mexico terrain data source: INEGI, Continental relief, 2016
+  - New Zealand terrain data Copyright 2011 Crown copyright (c) Land Information New Zealand and the New Zealand Government (All rights reserved)
+  - Norway terrain data © Kartverket
+  - United Kingdom terrain data © Environment Agency copyright and/or database right 2015. All rights reserved
+  - United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data courtesy of the U.S. Geological Survey
 - **Short names**: seeded by rules (airports to IATA codes, "National Park" to NP, "Mount" to Mt., city prefixes off bridge names) plus a hand list, then edited by hand.
 - **Hand curation**: a starter list of famous landmarks, skyline ratings for cities (by count of 150 m+ towers, not population), and many rating fixes.
 

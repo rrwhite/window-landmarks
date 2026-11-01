@@ -51,7 +51,7 @@ Box Elder Peak,Utah,41.6358,-112.0144,2836,1546
 Brandberg,Namibia,-21.1495,14.5775,2542,2028
 Brave Mountain,Newfoundland and Labrador,57.8814,-62.0264,1193,1193
 Breitinden,Norway,69.4554,17.6485,887,887
-Brown Peak,Antarctica,-67.4333,164.7667,-110,-110
+Brown Peak,Antarctica,-67.4333,164.7667,,
 Bukadaban Feng,Xinjiang,36.0242,90.8658,6832,1935
 Bumhpa Bum,Myanmar,26.6833,97.2333,3385,2731
 Buni Zom,Pakistan,36.1542,72.3275,6448,4162
@@ -125,7 +125,7 @@ Dolomites,Italy,46.5,11.85,3100,1688
 Double Mountain,California,35.0333,-118.487,2421,1466
 Dry Mountain,California,36.9088,-117.5978,2617,1822
 Du Toits Peak,South Africa,-33.755,19.1867,1961,1753
-Dufek Massif,Antarctica,-82.6282,-53.1194,705,705
+Dufek Massif,Antarctica,-82.6282,-53.1194,,
 Duffer Peak,Nevada,41.6618,-118.7302,2843,1549
 Dunheger,Mongolia,45.2,90.9,3307,1654
 Dunn Peak massif,British Columbia,51.4369,-119.9544,2551,1991
@@ -139,7 +139,7 @@ Electric Peak,Montana,45.0053,-110.8375,3306,1421
 Elivai Malai,Kerala,10.94,76.6325,2065,1984
 Elk Mountain,Wyoming,41.6332,-106.526,3381,1252
 Emory Peak,Texas,29.2459,-103.3051,2336,1555
-Enigma Peak,Antarctica,-69.5667,-72.7333,-28,-28
+Enigma Peak,Antarctica,-69.5667,-72.7333,,
 Falak Sar,Pakistan,35.6828,72.7853,5861,2889
 Fansipan,Vietnam,22.3033,103.7753,3079,2429
 Far Mountain,British Columbia,52.7867,-125.323,2345,1256
@@ -161,7 +161,7 @@ Gangshiqia Peak,Gansu,37.6933,101.505,5199,1995
 Gannett Peak,Wyoming,43.1842,-109.6542,4186,1311
 Garibaldi / Whistler peaks,British Columbia,49.851,-123.005,2605,2325
 Gearhart Mountain,Oregon,42.496,-120.8783,2520,1140
-Geladaindong Peak,Qinghai,33.5008,91.0517,6026,853
+Geladaindong Peak,Qinghai,33.4967,91.1659,6545,1393
 Glacier National Park,Montana,48.696,-113.718,2771,1452
 Golden Hinde,British Columbia,49.6628,-125.747,2126,1745
 Gora Babash-Ata,Kyrgyzstan,41.4103,72.9131,4408,2967
@@ -189,7 +189,7 @@ Gæđgesčåkka,Norway,68.7994,19.0885,1644,1163
 Haramosh Peak,Pakistan,35.8414,74.8978,7279,4974
 Harhiraa,Mongolia,49.5697,91.3853,4031,1547
 Hasagt Hairhan,Mongolia,46.7892,95.8008,3549,1746
-Hawkes Heights,Antarctica,-72.5333,169.7,473,473
+Hawkes Heights,Antarctica,-72.5333,169.7,,
 Hayford Peak,Nevada,36.6577,-115.201,3000,1725
 Heart Peaks,British Columbia,58.5989,-131.963,1962,1264
 Heilhornet,Norway,65.0771,12.139,974,974
@@ -304,7 +304,7 @@ Monkh Saridag,Buryat,51.7188,100.5971,3393,1712
 Monmouth Mountain,British Columbia,50.9925,-123.79,3099,1517
 Mont Blanc,Italy,45.833,6.865,4773,3563
 Mont Forel,Greenland,66.9333,-36.7833,3416,1646
-Mont Orohena,French Polynesia,-17.6231,-149.4769,1454,1454
+Mont Orohena,French Polynesia,-17.6231,-149.4769,,
 Mont Panié,New Caledonia,-20.5883,164.7706,1608,1608
 Mont Ventoux,France,44.1667,5.2833,1893,1630
 Montalto,Italy,38.1589,15.9211,1934,1762
@@ -328,7 +328,7 @@ Mount Aragats,Armenia,40.5231,44.1953,4031,2114
 Mount Arfak,Indonesia,-1.1564,133.9797,2932,2885
 Mount Argopuro,Indonesia,-7.9645,113.5665,3057,2745
 Mount Arlan,Turkmenistan,39.6733,54.5433,1877,1617
-Mount Arrowsmith,British Columbia,49.12,-124.29,1244,1064
+Mount Arrowsmith,British Columbia,49.12,-124.29,,
 Mount Aspiring / Tititea,New Zealand,-44.384,168.728,2874,2488
 Mount Assiniboine,British Columbia,50.87,-115.651,3451,1816
 Mount Athos,Greece,40.1583,24.3272,1952,1952
@@ -350,7 +350,7 @@ Mount Cronin,British Columbia,54.93,-126.8639,2341,1524
 Mount Dawson,British Columbia,51.1517,-117.421,3269,1976
 Mount Derak,Iran,29.6955,52.3818,2866,1235
 Mount Diablo,California,37.8816,-121.9142,1140,1119
-Mount Discovery,Antarctica,-78.3667,165.0167,1587,1587
+Mount Discovery,Antarctica,-78.3667,165.0167,,
 Mount Drum,Alaska,62.1161,-144.638,3546,2677
 Mount Dulang-dulang,Philippines,8.1153,124.9208,2897,2114
 Mount Dyultydag,Dagestan,41.9594,46.9222,4101,1744
@@ -362,12 +362,12 @@ Mount Everest,Xizang,27.988,86.925,8706,3658
 Mount Fairweather,Alaska,58.9065,-137.5266,4640,4149
 Mount Farnham,British Columbia,50.4889,-116.4869,3391,1908
 Mount Foraker,Alaska,62.961,-151.398,5256,3883
-Mount Foster,Antarctica,-62.9967,-62.5486,50,50
-Mount Frakes,Antarctica,-76.8,-117.7,2870,2439
-Mount Francais,Antarctica,-64.6333,-63.45,1350,1350
+Mount Foster,Antarctica,-62.9967,-62.5486,,
+Mount Frakes,Antarctica,-76.8,-117.7,,
+Mount Francais,Antarctica,-64.6333,-63.45,,
 Mount Frank Rae,Yukon,64.4705,-138.555,2262,1217
 Mount Garrin,Iran,33.9592,48.4817,3614,1851
-Mount Gaudry,Antarctica,-67.5333,-68.6167,1118,1118
+Mount Gaudry,Antarctica,-67.5333,-68.6167,,
 Mount Genyen,Sichuan,29.8075,99.6058,6122,2124
 Mount Giluwe,Papua New Guinea,-6.0389,143.8861,4288,2112
 Mount Gladstone,Papua New Guinea,-5.9539,146.3753,4069,2684
@@ -375,32 +375,32 @@ Mount Gongga,Sichuan,29.5958,101.8792,7410,4126
 Mount Grappa,Italy,45.8733,11.7992,1745,1654
 Mount Guiting-Guiting,Philippines,12.4139,122.5678,2021,2021
 Mount Guna,Ethiopia,11.7108,38.2367,4107,1659
-Mount Haddington,Antarctica,-64.2167,-57.6333,1247,1237
+Mount Haddington,Antarctica,-64.2167,-57.6333,,
 Mount Hakkyō,Japan,34.1736,135.9075,1894,1450
 Mount Halcon,Philippines,13.25,120.9833,2535,2510
 Mount Haldane,Yukon,63.8603,-135.8424,1859,1220
 Mount Hamiguitan,Philippines,6.74,126.1817,1589,1589
 Mount Hanang,Tanzania,-4.435,35.4,3368,1823
-Mount Harmer,South Georgia and the South Sandwich Islands,-59.4375,-27.1824,10,10
+Mount Harmer,South Georgia and the South Sandwich Islands,-59.4375,-27.1824,,
 Mount Hayes,Alaska,63.6208,-146.715,4121,3021
 Mount Hermon,Syria,33.4,35.85,2808,1921
 Mount Hesperus,Alaska,61.8039,-154.145,2888,2217
 Mount Hikurangi,New Zealand,-37.919,178.061,1706,1485
 Mount Hillers,Utah,37.8874,-110.697,3235,1819
 Mount Hiuchi,Japan,36.9221,138.0672,2424,2192
-Mount Hope,Antarctica,-69.7667,-64.5667,2347,1110
+Mount Hope,Antarctica,-69.7667,-64.5667,,
 Mount Humboldt,New Caledonia,-21.8839,166.4203,1583,1583
 Mount Ida,Greece,35.2264,24.7707,2418,2294
 Mount Igikpak,Alaska,67.4131,-154.966,2390,1754
 Mount Inamura,Japan,33.7383,133.3722,1492,1156
-Mount Irving,Antarctica,-61.2833,-54.1333,207,207
+Mount Irving,Antarctica,-61.2833,-54.1333,,
 Mount Isto,Alaska,69.2024,-143.802,2668,1531
-Mount Jackson,Antarctica,-71.3833,-63.3667,2169,934
-Mount Jinfo,Chongqing,29.0667,107.3,1489,748
+Mount Jackson,Antarctica,-71.3833,-63.3667,,
+Mount Jinfo,Chongqing,29.0346,107.1922,2231,1561
 Mount Judge Howay,British Columbia,49.5069,-122.322,2209,2010
 Mount Kadam,Uganda,1.7631,34.7092,3041,1905
 Mount Kailash,Xizang,31.0675,81.3119,6435,1797
-Mount Kapalatmada,Indonesia,-3.2558,126.1242,2028,2028
+Mount Kapalatmada,Indonesia,-3.2996,126.2192,2679,2440
 Mount Kaplan,Antarctica,-84.55,175.3167,,
 Mount Kaputjugh,Armenia,39.15,46.0,3848,2360
 Mount Kenya,Kenya,-0.1517,37.305,4998,2538
@@ -415,7 +415,7 @@ Mount Kyllini,Greece,37.9392,22.3967,2355,1759
 Mount Labo,Philippines,14.0133,122.7875,1479,1449
 Mount Lemmon,Arizona,32.4431,-110.7884,2786,1934
 Mount Linn,California,40.0368,-122.855,2439,1703
-Mount Lister,Antarctica,-78.0667,162.6833,3259,2319
+Mount Lister,Antarctica,-78.0667,162.6833,,
 Mount Logan,Yukon,60.567,-140.405,5896,4085
 Mount Loolmalasin,Tanzania,-3.06,35.82,3637,2362
 Mount Lucania,Yukon,61.0233,-140.4656,5210,3196
@@ -423,23 +423,23 @@ Mount Malindang,Philippines,8.2175,123.6367,2370,2241
 Mount Malindig,Philippines,13.2417,122.0125,1150,1150
 Mount Mantalingajan,Philippines,8.8183,117.6697,2039,2035
 Mount Marcus Baker,Alaska,61.4378,-147.751,3950,3019
-Mount Markham,Antarctica,-82.85,161.35,3961,2548
-Mount McDonald,Antarctica,-72.5,166.6,2196,777
-Mount Melbourne,Antarctica,-74.3333,164.7,1455,1455
+Mount Markham,Antarctica,-82.85,161.35,,
+Mount McDonald,Antarctica,-72.5,166.6,,
+Mount Melbourne,Antarctica,-74.3333,164.7,,
 Mount Meru,Tanzania,-3.2468,36.7602,4506,3187
-Mount Minto,Antarctica,-71.7867,168.75,3601,1957
+Mount Minto,Antarctica,-71.7867,168.75,,
 Mount Mitchell,North Carolina,35.7648,-82.2649,2015,1450
 Mount Moco,Angola,-12.4667,15.1833,2603,1041
 Mount Moresby,British Columbia,53.0192,-132.086,1104,1104
-Mount Morning,Antarctica,-78.5017,163.5392,2398,2057
+Mount Morning,Antarctica,-78.5017,163.5392,,
 Mount Moroto,Uganda,2.525,34.7725,3022,1983
-Mount Murphy,Antarctica,-75.3,-110.7,1696,1696
+Mount Murphy,Antarctica,-75.3,-110.7,,
 Mount Mutis,Indonesia,-9.5261,124.2386,2388,1966
 Mount Narodnaya,Khanty-Mansiy,65.0333,60.1167,1816,1181
 Mount Nasorolevu,Fiji,-16.6167,179.4,971,945
 Mount Nebo,Utah,39.8214,-111.76,3600,2090
 Mount Nirvana,Northwest Territories,61.8747,-127.68,2675,1640
-Mount Nivea,Antarctica,-60.5833,-45.4833,749,749
+Mount Nivea,Antarctica,-60.5833,-45.4833,,
 Mount Nyangani,Zimbabwe,-18.3111,32.8506,2575,1825
 Mount Nyenchen Tanglha,Xizang,30.3889,90.5603,7094,2320
 Mount Oave,French Polynesia,-9.3917,-140.0783,855,855
@@ -449,7 +449,7 @@ Mount Olympus,Greece,40.086,22.358,2870,2801
 Mount Ossa,Tasmania,-41.871,146.0333,1590,1030
 Mount Paget,South Georgia and the Islands,-54.4408,-36.5553,2881,2881
 Mount Parnassus,Greece,38.533,22.6167,2387,2249
-Mount Parry,Antarctica,-64.2555,-62.407,1401,1401
+Mount Parry,Antarctica,-64.2555,-62.407,,
 Mount Perseus,British Columbia,52.3542,-120.533,2495,1534
 Mount Priestley,British Columbia,55.2294,-128.872,2272,2125
 Mount Prindle,Alaska,65.4608,-146.4756,1542,908
@@ -459,7 +459,7 @@ Mount Rae,Alberta,50.6228,-114.9747,3102,1360
 Mount Ratz,British Columbia,57.3931,-132.303,2957,1901
 Mount Robson,British Columbia,53.11,-119.156,3856,2574
 Mount Roraima,Venezuela,5.1419,-60.7642,2754,1737
-Mount Rossel,Antarctica,-72.6,31.0333,2044,1090
+Mount Rossel,Antarctica,-72.6,31.0333,,
 Mount Rumput,Malaysia,1.7167,109.6667,1557,1544
 Mount Saint Elias,Yukon,60.292,-140.931,5440,4668
 Mount San Antonio,California,34.2889,-117.647,3050,2407
@@ -469,17 +469,17 @@ Mount Satima,Kenya,-0.3497,36.6167,3975,1600
 Mount Shir (Yazd Province),Iran,31.6039,54.0661,4038,2120
 Mount Shungol,Papua New Guinea,-6.8633,146.716,2736,2451
 Mount Sibbald,New Zealand,-43.552,170.555,2779,1909
-Mount Sidley,Antarctica,-77.04,-126.1,3122,1514
+Mount Sidley,Antarctica,-77.04,-126.1,,
 Mount Siegel,Nevada,38.8896,-119.5022,2876,1421
 Mount Siguniang,Sichuan,31.1063,102.902,5992,2481
 Mount Sikaram,Afghanistan,34.0383,69.9025,4725,2685
 Mount Simpson,Papua New Guinea,-10.0345,149.563,2810,2337
-Mount Siple,Antarctica,-73.4333,-126.6667,1671,1671
+Mount Siple,Antarctica,-73.4333,-126.6667,,
 Mount Sir Sandford,British Columbia,51.6567,-117.8675,3411,2319
 Mount Sir Wilfrid Laurier,British Columbia,52.8014,-119.731,3481,2076
 Mount Spokane,Washington,47.9236,-117.112,1786,1174
 Mount Stephens,British Columbia,50.9706,-126.6633,1470,1470
-Mount Stephenson,Antarctica,-69.8167,-69.7167,2304,2065
+Mount Stephenson,Antarctica,-69.8167,-69.7167,,
 Mount Stuart,Washington,47.4753,-120.901,2794,1901
 Mount Suckling,Papua New Guinea,-9.6692,149.0108,3620,3201
 Mount Sylvia,British Columbia,58.0817,-124.4689,2830,1732
@@ -489,7 +489,7 @@ Mount Tahan,Malaysia,4.6311,102.2344,2171,1982
 Mount Tahat,Algeria,23.2889,5.5336,2859,1234
 Mount Tai,Shandong,36.2667,117.1,1511,1376
 Mount Taibai,Shaanxi,33.9458,107.745,3739,2378
-Mount Takahe,Antarctica,-76.3,-112.1,3104,2632
+Mount Takahe,Antarctica,-76.3,-112.1,,
 Mount Tamalpais,California,37.9235,-122.5965,781,781
 Mount Tapulao,Philippines,15.4833,120.1166,2030,1983
 Mount Tipton,Arizona,35.5389,-114.1927,2146,1286
@@ -611,13 +611,13 @@ Pukeamoamo / Mitre,New Zealand,-40.7883,175.4502,1523,1316
 Pukeashun Mountain,British Columbia,51.2047,-119.235,2264,1718
 Puncak Jaya,Indonesia,-4.0833,137.1833,4816,2911
 Puncak Mandala,Indonesia,-4.7086,140.2892,4736,3139
-Puncak Trikora,Indonesia,-4.35,138.65,3623,2230
+Puncak Trikora,Indonesia,-4.2615,138.6804,4670,2397
 Punta La Marmora,Italy,39.9881,9.3242,1807,1189
 Purple Hill,New Zealand,-43.109,171.813,1646,1087
 Pyrenees crest (Aneto),Spain,42.631,0.657,3370,2189
 Queen Mary's Peak,Saint Helena,-37.1118,-12.2878,2003,2003
 Qurnat as Sawda',Lebanon,34.3,36.1167,3081,2283
-Rao Co,Vietnam,18.15,105.5833,812,791
+Rao Co,Vietnam,18.15,105.5833,,
 Ras Dashen,Ethiopia,13.2367,38.3725,4502,2230
 Ritacuba Blanco,Colombia,6.4942,-72.2975,5335,2266
 Rock Creek Butte,Oregon,44.8167,-118.1036,2735,1689
@@ -688,7 +688,7 @@ Tianmen Mountain,Hunan,29.0528,110.483,1453,1241
 Tidighin,Morocco,34.8432,-4.5081,2432,1637
 Tiewadian of Fenghuang Mountains,Shaanxi,32.8654,108.3721,2103,1691
 Tomort,Xinjiang,43.0733,94.3467,4892,2452
-Toney Mountain,Antarctica,-75.8,-115.8167,2777,2289
+Toney Mountain,Antarctica,-75.8,-115.8167,,
 Tongshanjiabu,Bhutan,28.1867,89.9575,7141,2512
 Topo da Coroa,Republic of Cabo Verde,17.0333,-25.2958,1959,1959
 Tordoki Yani,Khabarovsk,48.8972,138.0528,2058,1550
@@ -709,8 +709,8 @@ Uncompahgre Peak,Colorado,38.0717,-107.4622,4316,1528
 Vaganski vrh,Croatia,44.3673,15.5046,1735,1733
 Vancouver Island mountains,British Columbia,49.6,-125.5,1728,1276
 Vavul Mala,Kerala,11.4275,76.1308,2318,2276
-Veten Mountain,Antarctica,-72.625,-3.8333,1903,928
-Vinson Massif,Antarctica,-78.5256,-85.6172,4234,2726
+Veten Mountain,Antarctica,-72.625,-3.8333,,
+Vinson Massif,Antarctica,-78.5256,-85.6172,,
 Viso,Italy,44.6675,7.0917,3734,2848
 Wasatch Range,Utah,40.6,-111.65,3342,1827
 Wedge Mountain,British Columbia,50.1331,-122.7933,2799,2142
