@@ -1,0 +1,223 @@
+ne_id,ne_name,name,region,rating
+1159102603,Witwatersrand,Witwatersrand,South Africa,0
+1159102605,Jabal bin Ghunaymah,Jabal bin Ghunaymah,Libya,4
+1159102607,Wasatch Range,Wasatch Range,Utah,7
+1159102609,Lebombo Mts.,Lebombo Mountains,Southern Africa,3
+1730070733,Ruwenzori Range,Rwenzori Mountains,Uganda and Congo,8
+1159102615,Moyen Atlas,Middle Atlas,Morocco,5
+1159102617,Loma Mts.,Loma Mountains,Sierra Leone,3
+1730070745,Mbang Mts.,Mbang Mountains,Cameroon,3
+1159102981,Maya Mts.,Maya Mountains,Belize,3
+1159102983,Front Range,Front Range,Colorado,8
+1159102985,Bitterroot Range,Bitterroot Range,Idaho and Montana,7
+1159102987,Hardanger-vidda,Hardangervidda,Norway,6
+1730071499,Chaîne des Mongos,Mongos Mountains,Central African Republic,3
+1730071505,Ogo Mts.,Ogo Mountains,Somalia,4
+1159102995,Groot Karasberge,Great Karas Mountains,Namibia,4
+1730071513,Guinea Highlands,Guinea Highlands,West Africa,4
+1159102999,Marrah Mts.,Marrah Mountains,Sudan,5
+1730071517,Ahmar Mts.,Ahmar Mountains,Ethiopia,4
+1730071523,Al Jabal al Akhdar,Jebel Akhdar,Libya,3
+1159103005,Er Rif,Rif Mountains,Morocco,5
+1730071533,Atlas Tellien,Tell Atlas,Algeria,4
+1159103011,Inyanga Mts.,Nyanga Mountains,Zimbabwe,4
+1159103013,Australian Alps,Australian Alps,Australia,5
+1159103015,Flinders Ranges,Flinders Ranges,South Australia,6
+1159103017,Blue Mts.,Blue Mountains,New South Wales,5
+1159103019,Gregory Ra.,Gregory Range,Queensland,3
+1730071561,Selwyn Ra.,Selwyn Range,Queensland,3
+1159103023,MacDonnell Ranges,MacDonnell Ranges,Northern Territory,6
+1159103027,Darling Range,Darling Range,Western Australia,3
+1730071573,Hamersley Ra.,Hamersley Range,Western Australia,5
+1730071579,Owen Stanley Ra.,Owen Stanley Range,Papua New Guinea,6
+1730071583,Maoke Mts.,Sudirman Range,"Papua, Indonesia",8
+1159103035,Barisan Mountains,Barisan Mountains,Sumatra,6
+1159103037,Hentiyn Mts.,Khentii Mountains,Mongolia,5
+1159103039,Bureinskiy Ra.,Bureya Range,Russia,4
+1159103041,Yam Alin’ Range,Yam-Alin Range,Russia,4
+1730071603,Chukchi Range,Chukotka Mountains,Russia,5
+1159103047,Suntar-Khayata Range,Suntar-Khayata Range,Russia,6
+1730071613,Dzhugdzhur Range,Dzhugdzhur Range,Russia,5
+1159103051,Momskiy Mts.,Moma Range,Russia,5
+1159103053,Central Bruhui Range,Central Brahui Range,Pakistan,4
+1159103055,Karatau Range,Karatau Range,Kazakhstan,4
+1730071631,Arvalli Ra.,Aravalli Range,India,4
+1159103059,Sulaiman Ra.,Sulaiman Mountains,Pakistan,5
+1159103063,Central Makran,Central Makran Range,Pakistan,4
+1159103065,Kirthar Ra.,Kirthar Range,Pakistan,4
+1730071649,Lebanon Mts.,Mount Lebanon range,Lebanon,5
+1159103069,Kopet Dag Mts .,Kopet Dag,Iran and Turkmenistan,5
+1730071657,Paropamisus Ra.,Paropamisus,Afghanistan,5
+1730071661,Al Hajar Mts.,Hajar Mountains,Oman and UAE,7
+1730071667,Tuwayq Mts.,Tuwaiq Escarpment,Saudi Arabia,5
+1159103077,Taurus Mts.,Taurus Mountains,Turkey,6
+1159103081,Böhmerwald,Bohemian Forest,Germany and Czechia,3
+1730071679,Transylvanian Alps,Southern Carpathians,Romania,6
+1159103085,Tatra Mts.,Tatra Mountains,Slovakia and Poland,7
+1159103087,Pindus Mts.,Pindus Mountains,Greece,6
+1159103089,Calabria,Calabrian mountains,Italy,4
+1159103091,Harz,Harz,Germany,3
+1159103093,Vosges,Vosges,France,4
+1159103095,Sudetes Mts.,Sudetes,Czechia and Poland,4
+1159103099,Erzgebirge,Ore Mountains,Germany and Czechia,3
+1159103101,Ardennes,Ardennes,Belgium,0
+1159103103,Jura,Jura Mountains,France and Switzerland,5
+1159103105,Grampian Mts.,Grampian Mountains,Scotland,6
+1159103107,Cambrian Mts.,Cambrian Mountains,Wales,4
+1159103109,Vatnajökull,Vatnajökull,Iceland,9
+1730071739,Birch Mts.,Birch Mountains,Alberta,0
+1159103113,Caribou Mts.,Caribou Mountains,Alberta,0
+1159103117,Cassiar Mts.,Cassiar Mountains,British Columbia,6
+1159103119,Ogilvie Mts.,Ogilvie Mountains,Yukon,6
+1159103121,Wrangell Mts.,Wrangell Mountains,Alaska,9
+1730071761,Adirondack Mts.,Adirondacks,New York,4
+1159103123,Blue Ridge,Blue Ridge,Virginia and North Carolina,4
+1159103125,Klamath Mts.,Klamath Mountains,California and Oregon,5
+1159103127,Ouachita Mts.,Ouachita Mountains,Arkansas,3
+1159103129,Salmon River Mts.,Salmon River Mountains,Idaho,7
+1159103131,Black Hills,Black Hills,South Dakota,4
+1159103135,Mogollon Rim,Mogollon Rim,Arizona,4
+1159103137,Cord. de Mérida,Cordillera de Mérida,Venezuela,7
+1159103139,Cuchilla Grande,Cuchilla Grande,Uruguay,0
+1730071801,Tumuc-Humac Mts.,Tumuc-Humac Mountains,Guiana,3
+1159103143,Wilhelmina Gebergte,Wilhelmina Mountains,Suriname,3
+1730071811,S. do Piaui,Serra do Piauí,Brazil,3
+1730071815,Serra da Ibiapaba,Serra da Ibiapaba,Brazil,3
+1159103149,Serra Acaraí,Acaraí Mountains,Brazil and Guyana,3
+1730071825,Serra de Curupira,Serra do Curupira,Brazil,3
+1159103155,S. do Cachimbo,Serra do Cachimbo,Brazil,3
+1730071835,S. Dourada,Serra Dourada,Brazil,3
+1730071839,S. dos Gradaús,Serra dos Gradaús,Brazil,3
+1159103161,Serra do Espinhaço,Espinhaço Mountains,Brazil,4
+1730071849,S. de Pakaraima,Pakaraima Mountains,Guyana and Venezuela,6
+1159103521,Anti Atlas,Anti-Atlas,Morocco,6
+1730072577,Muchinga Mts.,Muchinga Mountains,Zambia,3
+1730072581,Serra do Mar,Serra do Mar,Brazil,6
+1159103527,Serra Geral,Serra Geral,Brazil,4
+1159103531,Serra da Mantiqueira,Serra da Mantiqueira,Brazil,5
+1730072595,GUIANA HIGHLANDS,Guiana Highlands,Venezuela,7
+1159103533,Sierra Chiapas,Sierra Madre de Chiapas,Mexico,5
+1159103535,SELWYN MTS.,Selwyn Mountains,Yukon,7
+1159103537,COLUMBIA MTS.,Columbia Mountains,British Columbia,8
+1730072611,TORNGAT MTS.,Torngat Mountains,Labrador,7
+1730072617,NEW GUINEA HIGHLANDS,New Guinea Highlands,Papua New Guinea,6
+1159103543,Hangayn Mts.,Khangai Mountains,Mongolia,5
+1159103545,Hamgyong Mts.,Hamgyong Mountains,North Korea,5
+1159103549,SREDINNYY RANGE,Sredinny Range,Kamchatka,7
+1159103551,Koryak Range,Koryak Mountains,Russia,6
+1159103553,KOLYMA RANGE,Kolyma Mountains,Russia,5
+1159103555,CHERSKIY RANGE,Chersky Range,Russia,6
+1159103557,Chin Hills,Chin Hills,Myanmar,4
+1730072653,Yin Mts.,Yin Mountains,Inner Mongolia,4
+1730072659,Western Sayan Mts.,Western Sayan,Russia,6
+1730072663,Abakanskiy Ra.,Abakan Range,Russia,5
+1159103567,Tannu-Ola Ra.,Tannu-Ola Mountains,Russia,5
+1159103569,Taihang Mts.,Taihang Mountains,China,5
+1159103571,Lüliang Mts.,Lüliang Mountains,China,4
+1159103573,Qinling Mountains,Qinling Mountains,China,5
+1159103575,Dalou Mts.,Dalou Mountains,China,4
+1159103577,Dângrêk Ra.,Dângrêk Mountains,Cambodia and Thailand,3
+1159103579,Naga Hills,Naga Hills,India and Myanmar,5
+1159103581,Arakan Yoma,Arakan Mountains,Myanmar,4
+1730072703,Southern Ghats,Southern Western Ghats,India,5
+1159103587,Satpura Range,Satpura Range,India,3
+1730072715,Salt Ra.,Salt Range,Pakistan,5
+1159103591,Borohoro Mts.,Borohoro Mountains,Xinjiang,6
+1730072723,Alataw Mts.,Dzungarian Alatau,Kazakhstan and China,6
+1159103595,Khasi Hills,Khasi Hills,Meghalaya,4
+1159103597,Lesser Caucasus,Lesser Caucasus,Armenia and Azerbaijan,6
+1159103599,PONTIC MOUNTAINS,Pontic Mountains,Turkey,6
+1730072741,KUH RUD MOUNTAINS,Kuhrud Mountains,Iran,5
+1159103605,Balkan Mts.,Balkan Mountains,Bulgaria,5
+1730072751,Dinaric Alps,Dinaric Alps,Balkans,6
+1159103609,Cord. Cantábrica,Cantabrian Mountains,Spain,6
+1159103611,S. Nevada,Sierra Nevada,Spain,6
+1159103613,Sierra Morena,Sierra Morena,Spain,0
+1730072769,Hadhramaut,Hadhramaut,Yemen,5
+1730073315,ATLAS SAHARIEN,Saharan Atlas,Algeria,5
+1159103879,HAUT ATLAS,High Atlas,Morocco,8
+1159103881,DRAKENSBERG,Drakensberg,South Africa and Lesotho,8
+1159103883,CRYSTAL MOUNTAINS,Crystal Mountains,Central Africa,3
+1159103885,TIBESTI MTS.,Tibesti Mountains,Chad,6
+1159103887,AHAGGAR MTS.,Hoggar Mountains,Algeria,6
+1159103891,AÏR MTS.,Aïr Mountains,Niger,5
+1730073347,MITUMBA MTS.,Mitumba Mountains,Congo,5
+1159103895,Lesser Khingan Range,Lesser Khingan,China,3
+1159103897,SIKHOTE-ALIN’ RANGE,Sikhote-Alin,Russia,5
+1159103899,VERKHOYANSK RANGE,Verkhoyansk Range,Russia,6
+1730073365,Central Highlands,Central Highlands,Vietnam,4
+1159103903,QUILIAN MOUNTAINS,Qilian Mountains,China,7
+1730073373,EASTERN SAYAN MTS.,Eastern Sayan,Russia,6
+1730073379,YABLONOVYY RANGE,Yablonoi Mountains,Russia,5
+1159103911,Dabie Mts.,Dabie Mountains,China,4
+1159103913,Nan Ling Mts.,Nanling Mountains,China,4
+1159103915,WESTERN GHATS,Western Ghats,India,6
+1159103917,EASTERN GHATS,Eastern Ghats,India,4
+1159103919,Vindhya Range,Vindhya Range,India,3
+1159103921,Wuyi Mts.,Wuyi Mountains,China,4
+1159103923,Tarbagatay Ra.,Tarbagatai Mountains,Kazakhstan and China,5
+1159103927,ALTUN MTS.,Altyn-Tagh,China,6
+1730073417,HEJAZ MTS.,Hejaz Mountains,Saudi Arabia,6
+1730073421,ASIR MTS.,Asir Mountains,Saudi Arabia,6
+1730073425,ELBURZ MTS.,Alborz,Iran,8
+1159103935,KJØLEN MOUNTAINS,Scandinavian Mountains,Norway and Sweden,7
+1159103937,CARPATHIAN MOUNTAINS,Carpathian Mountains,Central Europe,5
+1159103939,APPENNINI,Apennines,Italy,5
+1159103941,PYRENEES,Pyrenees,Spain and France,8
+1159103945,Sierra Madre del Sur,Sierra Madre del Sur,Mexico,6
+1159103947,COAST RANGES,Pacific Coast Ranges,US West Coast,4
+1159103949,SIERRA MADRE ORIENTAL,Sierra Madre Oriental,Mexico,6
+1159103951,SIERRA NEVADA,Sierra Nevada,California,8
+1159103953,SIERRA MADRE OCCIDENTAL,Sierra Madre Occidental,Mexico,6
+1159103955,CHUGACH MTS.,Chugach Mountains,Alaska,9
+1159103957,MACKENZIE MTS.,Mackenzie Mountains,Yukon and NWT,7
+1159103969,CORDILLERA OCCIDENTAL,Cordillera Occidental,Peru,8
+1159103963,CORDILLERA  REAL,Cordillera Real,Bolivia,8
+1730073491,CORDILLERA ORIENTAL,Cordillera Oriental,Andes,7
+1159103971,CORD. CENTRAL,Cordillera Central,Andes,7
+1159103969,CORD. OCCIDENTAL,Cordillera Occidental,Colombia,6
+1159103971,CORD. CENTRAL,Cordillera Central,Andes,7
+1159103973,CORDILLERA ORIENTAL,Cordillera Oriental,Andes,7
+1159104165,ETHIOPIAN HIGHLANDS,Ethiopian Highlands,Ethiopia,7
+1159104167,ZAGROS MOUNTAINS,Zagros Mountains,Iran,7
+1159104169,ALTAY MOUNTAINS,Altai Mountains,Central Asia,7
+1159104171,GREATER KHINGAN RANGE,Greater Khingan,China,4
+1159104173,STANOVOY RANGE,Stanovoy Range,Russia,5
+1730073913,CHAÎNE ANNAMITIQUE,Annamite Range,Laos and Vietnam,5
+1159104179,Siwalik Hills,Sivalik Hills,India and Nepal,4
+1159104181,PAMIRS,Pamir Mountains,Tajikistan,9
+1159104183,HINDU KUSH,Hindu Kush,Afghanistan and Pakistan,9
+1159104185,KARAKORAM RA.,Karakoram,Pakistan and China,10
+1159104187,KUNLUN MOUNTAINS,Kunlun Mountains,Tibet,7
+1159104189,ATLAS MOUNTAINS,Atlas Mountains,North Africa,6
+1159104191,APPALACHIAN MTS.,Appalachian Mountains,Eastern US,4
+1159104193,BROOKS RANGE,Brooks Range,Alaska,8
+1159104197,COAST MOUNTAINS,Coast Mountains,British Columbia,8
+1159104199,CASCADE RANGE,Cascade Range,Pacific Northwest,7
+1159104201,ALASKA RANGE,Alaska Range,Alaska,9
+1159104295,GREAT DIVIDING RANGE,Great Dividing Range,Eastern Australia,4
+1159104297,ALPS,Alps,Europe,9
+1159104299,TIAN SHAN,Tian Shan,Central Asia,8
+1159104301,URAL MOUNTAINS,Ural Mountains,Russia,4
+1159104305,CAUCASUS MTS.,Caucasus Mountains,Russia and Georgia,8
+1159104307,HIMALAYAS,Himalayas,Asia,10
+1159104309,ANDES,Andes,South America,9
+1159104311,ROCKY MOUNTAINS,Rocky Mountains,Canada and US,8
+1159104373,Admiralty Mountains,Admiralty Mountains,Antarctica,8
+1159104377,Prince Albert Mountains,Prince Albert Mountains,Antarctica,7
+1159104379,Queen Alexandra Range,Queen Alexandra Range,Antarctica,8
+1159104505,Transantarctic Mountains,Transantarctic Mountains,Antarctica,9
+1159104435,Pensacola Mountains,Pensacola Mountains,Antarctica,7
+1159104437,Ellsworth Mountains,Ellsworth Mountains,Antarctica,9
+1159104475,Jones Mountains,Jones Mountains,Antarctica,6
+1159104485,Flood Range,Flood Range,Antarctica,6
+1159104487,Ford Ranges,Ford Ranges,Antarctica,6
+1159104493,Queen Maude Mountains,Queen Maud Mountains,Antarctica,8
+1159104503,Executive Committee Range,Executive Committee Range,Antarctica,6
+1159104505,Transantarctic Mountains,Transantarctic Mountains,Antarctica,9
+1159104507,Prince Charles Mountains,Prince Charles Mountains,Antarctica,6
+1159104511,Scott Mountains,Scott Mountains,Antarctica,5
+1159104513,Napier Mountains,Napier Mountains,Antarctica,5
+1159104515,Shackleton Range,Shackleton Range,Antarctica,6
+1730074691,Queen Maud Mountains,Queen Maud Mountains,Antarctica,8
+1159104623,SOUTHERN ALPS,Southern Alps,New Zealand,9

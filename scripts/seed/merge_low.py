@@ -1,7 +1,7 @@
 import json, csv, math, re, sys
 from shapely.geometry import shape, Point
 from shapely.strtree import STRtree
-W = '/home/claude/build/'; REPO = '/home/claude/window-sights/'
+W = '/home/claude/build/'; REPO = '/home/claude/window-landmarks/'
 SHORT = {'United States of America': 'USA', 'United Kingdom': 'UK'}
 def load(fn, keyf):
     fs = json.load(open(W + fn))['features']; g = []; n = []

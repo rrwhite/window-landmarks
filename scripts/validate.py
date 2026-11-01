@@ -49,5 +49,21 @@ with open(d / 'blurbs.csv', newline='', encoding='utf-8') as f:
         if '\u2014' in t or '\u2013' in t or ' - ' in t: errs.append(f'blurbs line {i}: {k[0]}: no dashes as punctuation')
         if METRIC.search(t): errs.append(f'blurbs line {i}: {k[0]}: feet and miles only')
     for k in sorted(keys - got): errs.append(f'blurbs.csv: missing blurb for {k[0]} ({k[1]})')
+# data/ranges.csv + data/ranges.json, data/coasts.csv + data/coasts.json: areas the app scores whole (2026-10-31).
+# A coast's `replaces` names single-point rows it stands in for; the app matches them by exact name.
+import json
+names = {x['name'] for x in csv.DictReader(open(d / 'landmarks.csv', encoding='utf-8'))}
+for k in ('ranges', 'coasts'):
+    rows = list(csv.DictReader(open(d / f'{k}.csv', encoding='utf-8')))
+    built = json.loads((d / f'{k}.json').read_text())
+    for row in rows:
+        if not row['rating'].isdigit() or not 0 <= int(row['rating']) <= 10: errs.append(f'{k}.csv: {row["name"]}: rating 0 to 10')
+    want = {row['name'] for row in rows if k == 'coasts' or int(row['rating']) >= 5}
+    got = {b[0] for b in built}
+    for n in sorted(want - got): errs.append(f'{k}.json: {n} is in {k}.csv but not built (rerun scripts/build_{k}...)')
+    for n in sorted(got - want): errs.append(f'{k}.json: {n} is built but not in {k}.csv')
+    for row in rows:
+        for n in [x.strip() for x in row.get('replaces', '').split(';') if x.strip()]:
+            if n not in names: errs.append(f'coasts.csv: {row["name"]} replaces "{n}", which is not a row in landmarks.csv')
 if errs: print('\n'.join(errs)); sys.exit(1)
 print(f'OK: {len(seen)} landmarks, {nb} blurbs')

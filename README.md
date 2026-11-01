@@ -2,11 +2,11 @@
 
 An open list of things worth seeing out of an airplane window: mountains, volcanoes, glaciers, lakes, canyons, coastlines, parks and skylines, plus the stadiums, bridges, airports, campuses and wind farms you only notice on the climb out and the approach. Each one is rated 1 to 10 for how good it looks from a passenger window.
 
-It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you which side of the plane to sit on.
+It powers [Window Seat](https://windowseat.travel), an app that tells you which side of the plane to sit on.
 
 ## The data
 
-`data/landmarks.csv` is the source of truth: 6,305 landmarks, one per row.
+`data/landmarks.csv` is the source of truth: 6,517 landmarks, one per row.
 
 | column | meaning |
 | --- | --- |
@@ -23,13 +23,28 @@ It powers [Window Seat](https://rrw-seat.netlify.app), an app that tells you whi
 
 `data/blurbs.csv` holds the text for each landmark's card: one or two sentences, in feet and miles, with the fact that makes you look twice and usually a "Look for" cue saying what to spot from the window. It has one row per landmark and per `night_only` row, joined on `name, region, lat, lon`. Written for this dataset and fact-checked against public sources; style rules are in CONTRIBUTING.md.
 
+**Areas.** Mountain ranges and dramatic coasts are scored whole, once per side of the plane, not as points:
+- `data/ranges.csv`: Natural Earth's named ranges (`ne_id`), with our name, region and rating (0 to 4 = not scored).
+  `data/ranges.json` is built from it: `[name, region, rating, family, [w, s, e, n], outline rings, core rings]`. The
+  core is where the mountains are, from elevation, not the whole outline (the Rockies outline covers half of Wyoming's
+  basins). Ranges nested in one another share a `family`. Build: `node scripts/build_ranges.mjs
+  ne_10m_geography_regions_polys.geojson && python3 scripts/build_range_cores.py`.
+- `data/coasts.csv`: coasts where mountains meet the sea (Greenland, Norway, Big Sur...): name, region, rating, a box or
+  an outline (`area`), an optional height bar (`rise`, meters) and the single-point rows each one `replaces` (exact
+  names). `data/coasts.json` is built from it: `[name, region, rating, family, [w, s, e, n], replaces, polys]`, a band
+  about 10 km each side of the coastline where the land within ~12 km rises past the bar (700 m by default), holes kept.
+  Build: `python3 scripts/build_coasts.py ne_10m_coastline.geojson` (after the ranges).
+Rings are flat `[lon, lat, lon, lat, ...]`. Points inside an area that it covers (peaks, fjords, parks rated under 9)
+are kept here but not shown on their own by the app.
+
 `data/landmarks.geojson` is the same list as points, rebuilt by `scripts/geojson.py`, so you can browse it on a map right here on GitHub.
 
 ## Where it came from
 
 - **Wikidata**: peaks ranked by prominence, volcanoes, national parks, large lakes, glaciers, canyons and fjords; cities over 400,000 people; stadiums by capacity; skyscrapers by height; airports, bridges, dams, ports, theme parks, race tracks, wind farms and mines by how widely they're documented. Wikidata is CC0.
 - **NASA Black Marble** (VNP46A4): city brightness at night for `data/night.csv`. NASA data is public domain.
-- **Natural Earth**: state and country boundaries for the `region` column. Public domain.
+- **Natural Earth**: state and country boundaries for the `region` column, range outlines and coastlines for the areas. Public domain.
+- **AWS Terrain Tiles** (Mapzen terrarium, zoom 6): elevation for range cores and dramatic coasts. Built from USGS 3DEP and SRTM (public domain), GMTED2010, ETOPO1, Canadian CDEM (Open Government Licence - Canada), EU-DEM, LINZ (CC BY 4.0) and others.
 - **Short names**: seeded by rules (airports to IATA codes, "National Park" to NP, "Mount" to Mt., city prefixes off bridge names) plus a hand list, then edited by hand.
 - **Hand curation**: a starter list of famous landmarks, skyline ratings for cities (by count of 150 m+ towers, not population), and many rating fixes.
 
@@ -45,6 +60,6 @@ The data is licensed under [CC BY 4.0](LICENSE): use it for anything, including 
 
 ### How to credit
 
-> Data: [Window Seat](https://rrw-seat.netlify.app)
+> Data: [Window Seat](https://windowseat.travel)
 
 A link to the app is welcome. If space is tight, "Data: Window Seat" is enough.

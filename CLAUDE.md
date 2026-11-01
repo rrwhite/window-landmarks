@@ -5,7 +5,7 @@ Instructions for the agent that owns this dataset. README.md and CONTRIBUTING.md
 ## Who does what
 
 - **This repo (you):** `data/landmarks.csv` and everything under `scripts/`. Push to `main`; CI runs `scripts/validate.py`.
-- **The app (another agent):** Window Seat, repo `rrwhite/window-seat`, site rrw-seat.netlify.app. It compiles this CSV into `netlify/functions/plan/data/landmarks.mjs` with `tools/build_landmarks.py` and deploys. You never edit or deploy the app.
+- **The app (another agent):** Window Seat, repo `rrwhite/window-seat`, site windowseat.travel. It compiles this CSV into `netlify/functions/plan/data/landmarks.mjs` with `tools/build_landmarks.py`, and the areas (`data/ranges.json`, `data/coasts.json`) with `tools/build_areas.py`, and deploys. You never edit or deploy the app.
 - **Handoff:** when a batch is pushed, tell Rich in one line what landed (commit, rows added/removed/changed). The app agent rebuilds and deploys in batches, so several small dataset commits per app deploy is normal.
 - Talk to Rich tersely. No em-dashes.
 
@@ -146,13 +146,15 @@ Sather Tower, MIT's dome on the Charles), or a campus that is visually unique wh
   near pass time ("Giants vs Dodgers at Oracle Park, 7:05"); at night a game means lights on,
   night score ~6. Note MLB and ESPN terms are personal/non-commercial.
 
-## Areas: mountain ranges and dramatic coasts (app side, Oct 31 2026)
+## Areas: mountain ranges and dramatic coasts (Oct 31 2026)
 
-The app now scores two things as areas instead of points. Both live in the app repo, not here:
-- **Mountain ranges:** `tools/ranges.csv` (Natural Earth range outlines, our names and ratings), cut down to where
-  the mountains are by elevation (`tools/build_range_cores.py`).
-- **Dramatic coasts:** `tools/coasts.csv` (24 coasts: name, rating, box, and the rows each replaces), a band about
-  10 km each side of coastline where mountains meet the sea (`tools/build_coasts.py`). Greenland 10; Baffin, Norway,
+The app scores two things as areas instead of points. Both are data in this repo (README "Areas" has the formats):
+- **Mountain ranges:** `data/ranges.csv` (Natural Earth range outlines, our names and ratings), cut down to where
+  the mountains are by elevation (`scripts/build_range_cores.py`) into `data/ranges.json`.
+- **Dramatic coasts:** `data/coasts.csv` (24 coasts: name, rating, box, and the rows each replaces), a band about
+  10 km each side of coastline where mountains meet the sea (`scripts/build_coasts.py`) into `data/coasts.json`.
+  Edit the CSV, rebuild the JSON, run validate.py (it checks every `replaces` name exists). Show Rich a map image
+  of a new or changed coast before pushing (the scripts' bands over elevation). Greenland 10; Baffin, Norway,
   Na Pali 9; Alaska/BC, Patagonia, Fiordland, Svalbard, Big Sur, Molokai, Musandam, Cape Peninsula, Faroes, Taiwan
   east 8; Iceland, Torngat, Riviera, Dalmatia/Kotor, Scotland west/Skye, Amalfi, Corsica, Gulf of Aqaba, Madeira,
   Tenerife 7.
@@ -168,13 +170,13 @@ What this means for this dataset:
 - **Replaced stand-ins, matched by exact name.** These rows were single points standing in for a whole coast; the
   coast area replaces them: Greenland ice sheet (west coast), Greenland ice sheet (east coast), Baffin Island fjords,
   Norwegian fjords (Sognefjord), Svalbard, Big Sur coast, Molokai sea cliffs, Na Pali Coast, Amalfi Coast,
-  Dubrovnik / Dalmatian coast, Faroe Islands. Don't rename or delete them without telling the app agent (the
-  link is the name). Don't add new single-point stand-ins for a whole range or coast ("X fjords", "X Range"):
+  Dubrovnik / Dalmatian coast, Faroe Islands. Renaming one breaks the link: validate.py fails until `replaces` in
+  data/coasts.csv matches. Don't add new single-point stand-ins for a whole range or coast ("X fjords", "X Range"):
   propose an area to Rich instead.
 - **Not an area:** short or low coasts (White Cliffs of Dover 7, Beachy Head, Cliffs of Moher, Twelve Apostles) stay
   points. An area is for something big enough to fill the window, not for anything famous.
-- **Open question for Rich:** "Greenland ice sheet" (interior, glacier 8). Rich: the white interior is not the
-  sight, the coast is. Lower it only with his OK.
+- **Removed (Rich, Oct 31 2026):** "Greenland ice sheet" (the interior, glacier 8). The white interior is not the
+  sight; the coast is.
 
 ## Rules
 

@@ -30,7 +30,7 @@ Q={
 for k,q in Q.items():
     if len(sys.argv)>1 and k not in sys.argv[1:]: continue
     t=time.time()
-    r=subprocess.run(['curl','-s','-m','120','-G','https://query.wikidata.org/sparql','--data-urlencode','query='+q,'-H','Accept: application/sparql-results+json','-H','User-Agent: window-sights/1.0 (github.com/rrwhite/window-sights)'],capture_output=True,text=True)
+    r=subprocess.run(['curl','-s','-m','120','-G','https://query.wikidata.org/sparql','--data-urlencode','query='+q,'-H','Accept: application/sparql-results+json','-H','User-Agent: window-landmarks/1.0 (github.com/rrwhite/window-landmarks)'],capture_output=True,text=True)
     try:
         d=json.loads(r.stdout); rows=d['results']['bindings']; json.dump(rows,open(f'wd/{k}.json','w'))
         print(k,len(rows),round(time.time()-t,1))
