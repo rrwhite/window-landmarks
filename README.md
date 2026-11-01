@@ -37,7 +37,49 @@ It powers [Window Seat](https://windowseat.travel), an app that tells you which 
 Rings are flat `[lon, lat, lon, lat, ...]`. Points inside an area that it covers (peaks, fjords, parks rated under 9)
 are kept here but not shown on their own by the app.
 
+`data/relief.csv` (name, region, lat, lon, summit_m, relief_m) measures how far each peak and range row rises above the land within about 12 miles; see Judgment calls. Rebuild with `python3 scripts/relief.py` after adding or moving a peak or range row.
+
 `data/landmarks.geojson` is the same list as points, rebuilt by `scripts/geojson.py`, so you can browse it on a map right here on GitHub.
+
+## Judgment calls
+
+How Window Seat turns this data into points, and why. These are choices, not facts: each says who decided and when, so
+you can disagree with a specific one.
+
+- **Famous means 9 or 10.** A rating of 9 or 10 is for sights people recognize by name from the air: the Matterhorn,
+  Mont Blanc, Denali, Grand Teton, Rainier. Pikes Peak and Mount Diablo are well known locally but not famous in this
+  sense. (Rich, 2026-10-31)
+- **Ranges are scored whole.** A mountain range counts once per side of the plane, at its rating, scaled by how long it
+  fills the window. Peaks, old single-point ranges and parks inside a scored range's core fold into it, unless rated 9
+  or 10: Rocky Mountain National Park beside the Rockies is the same view twice. Ranges rated under 5 aren't scored:
+  low, rolling ranges like the Pacific Coast Ranges and the Appalachians don't read as mountains from cruise.
+  (Rich, 2026-10-31)
+- **Volcanoes always stand alone.** Rainier, Shasta and Fuji rise on their own whatever range they sit in, so they
+  never fold. Glaciers, lakes and canyons stay too: they look like something of their own. So does Yosemite Valley /
+  Half Dome (a feature, 9). (Rich, 2026-10-31)
+- **Dramatic coasts** (mountains meeting the sea: Greenland, Norway, Big Sur) are scored whole like ranges, and the
+  fjord, peak and park points inside them fold in. (Rich, 2026-10-31)
+- **A peak on its own has to stand up: 1,500 m of relief.** A peak or range row rated under 9 that no scored range or
+  coast covers counts only if it rises at least 1,500 m (about 5,000 ft) above the land within about 12 miles
+  (`relief_m` in `data/relief.csv`, from `scripts/relief.py`). From 35,000 ft a 1,000 m hill is a brown bump; a
+  1,500 m rise reads as a mountain. (Rich, 2026-11-01, after Mount Diablo showed as a sight on San Francisco to Seattle.)
+  Where it falls:
+
+  | Peak | Summit | Relief | Counts |
+  | --- | --- | --- | --- |
+  | Mount Tamalpais | 781 m | 781 m | no |
+  | Mount Diablo | 1,140 m | 1,119 m | no |
+  | Katahdin | 1,574 m | 1,403 m | no |
+  | Mount Mitchell | 2,015 m | 1,448 m | no |
+  | Mount Washington | 1,904 m | 1,515 m | yes, just |
+  | Mont Ventoux | 1,893 m | 1,630 m | yes |
+  | Charleston Peak | 3,599 m | 2,227 m | yes |
+  | San Jacinto Peak | 3,270 m | 3,045 m | yes |
+
+  Measured on roughly 150 m elevation pixels, so sharp spires read low (Fitz Roy is 3,405 m and measures 2,840 m):
+  errors only make a peak look smaller, so whatever passes really does stand out. Rows past 84 degrees of latitude are
+  unmeasured and count. Ratings stay as they are: the rating says how good the view is, relief says whether it
+  stands out enough to be a view at all.
 
 ## Where it came from
 
