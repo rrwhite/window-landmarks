@@ -6,7 +6,8 @@
 Reads only the pixels it needs from LAADS with HTTP range requests. For each point it sums
 snow-free all-angle radiance (nW/cm2/sr) inside a radius and turns the sum into a 1 to 10 score:
 
-- city rows: 15 km radius, night = round(3 log10(sum) - 7), clamped 1 to 10
+- city rows: 15 km radius, night = round(1.8 log10(sum) - 2.7), clamped 2 to 8 (a bright city is not a
+  Rainier); unique night sights are hand-set in OVERRIDE
 - lit low landmarks (airport, port, bridge, tower, landmark, themepark, racetrack): small radius
   (airport and port 3 km, others 1.5 km, towers 1 km), night = round(3 log10(sum) - 6), clamped
   1 to 8; written only when night >= 4, so dark castles and unlit bridges get no night score.
@@ -19,7 +20,7 @@ Columns: name, region, lat, lon, kind, radiance_sum, night, night_only. Join to 
 name, region, lat, lon. Black Marble is NASA data, public domain. The ocean is masked in this
 product, so fishing fleets can't be measured and aren't included.
 """
-import csv, json, math, os, pathlib, sys, threading, urllib.request
+import csv, json, math, os, pathlib, sys, threading, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 import numpy as np, fsspec, h5py
 
@@ -46,18 +47,26 @@ links = {x['name'].split('.')[2]: x['downloadsLink'] for x in listing['content']
 fs = fsspec.filesystem('https', headers=H, block_size=2**18)
 cache, lock = {}, threading.Lock()
 
+def retry(f, tries=6):
+    # LAADS answers bursts of range requests with an occasional 502; back off and try again
+    for i in range(tries):
+        try: return f()
+        except Exception:
+            if i == tries - 1: raise
+            time.sleep(5 * (i + 1))
+
 def radiance(lat, lon, r_km):
     h, v = int((lon + 180) // 10), int((90 - lat) // 10)
     hv = f'h{h:02d}v{v:02d}'
     with lock:
-        if hv not in cache: cache[hv] = h5py.File(fs.open(links[hv], 'rb'), 'r')[DS] if hv in links else None
+        if hv not in cache: cache[hv] = retry(lambda: h5py.File(fs.open(links[hv], 'rb'), 'r')[DS]) if hv in links else None
         ds = cache[hv]
     if ds is None: return 0.0
     r0, c0 = (90 - v * 10 - lat) * PX, (lon - (h * 10 - 180)) * PX
     dr = r_km / 111.32 * PX; dc = dr / max(math.cos(math.radians(lat)), 0.1)
     rs, re_ = max(0, int(r0 - dr)), min(2400, int(r0 + dr) + 1)
     cs, ce = max(0, int(c0 - dc)), min(2400, int(c0 + dc) + 1)
-    with lock: a = ds[rs:re_, cs:ce].astype('float64')
+    with lock: a = retry(lambda: ds[rs:re_, cs:ce].astype('float64'))
     a[a < 0] = 0
     yy, xx = np.mgrid[rs:re_, cs:ce]
     a[((yy - r0) / dr) ** 2 + ((xx - c0) / dc) ** 2 > 1] = 0
