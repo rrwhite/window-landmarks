@@ -87,7 +87,11 @@ Known-issues sweep done (Oct 2026): underground and invisible mines, small monum
 filed as mines or ports, demolished parks and dams, old road circuits, old-town universities,
 label typos. Scenery pass and mid-size hubs pass also done (KIX/ITM FUK CTS OKA PUS CJU KHH
 CTU CKG CAN XIY HGH WUH MNL CGK SGN HAN RUH JED AUH TLV MOW LED WAW BUD BRU GVA MIL VCE NCE BER HAM
-DUS/CGN GDL MTY RIO BSB CLE MSY CVG IND CMH OGG BNE PER). Next: open; ask Rich.
+DUS/CGN GDL MTY RIO BSB CLE MSY CVG IND CMH OGG BNE PER). Route check (Nov 2026): corridors of 15 busy
+routes plus a gap sweep added solar plants, aircraft boneyards, center-pivot fields, Rogers Dry Lake, Owens Lake,
+western reservoirs, Ngorongoro, Mont-Saint-Michel, Angkor Wat, Sossusvlei and others (34 rows). Kinds: solar plants
+and boneyards are `landmark` with max_alt 30,000 to 40,000 and a large size_m (visible from cruise when near the
+track); irrigation circles are `feature` scenery. Next: open; ask Rich.
 
 For each metro, within about 30 miles of the airport:
 
