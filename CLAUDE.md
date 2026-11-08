@@ -91,7 +91,11 @@ DUS/CGN GDL MTY RIO BSB CLE MSY CVG IND CMH OGG BNE PER). Route check (Nov 2026)
 routes plus a gap sweep added solar plants, aircraft boneyards, center-pivot fields, Rogers Dry Lake, Owens Lake,
 western reservoirs, Ngorongoro, Mont-Saint-Michel, Angkor Wat, Sossusvlei and others (34 rows). Kinds: solar plants
 and boneyards are `landmark` with max_alt 30,000 to 40,000 and a large size_m (visible from cruise when near the
-track); irrigation circles are `feature` scenery. Next: open; ask Rich.
+track); irrigation circles are `feature` scenery. International route check (Nov 2026): 33 more
+corridors (Gulf, Asia, Europe, South America, Africa, Australia) added Lake Van, Lake Tai, Mecca and Masjid al-Haram,
+Danube and Yellow River deltas, Mesopotamian Marshes, Qeshm, Dune du Pilat, Carcassonne, Rio de la Plata, Nazca
+Lines, Vredefort, Hutt Lagoon, Meeting of the Waters, Tassili n'Ajjer. Darvaza crater checked and skipped (night 2).
+Next: open; ask Rich.
 
 For each metro, within about 30 miles of the airport:
 
